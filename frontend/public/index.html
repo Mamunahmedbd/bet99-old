@@ -1,0 +1,102 @@
+<html lang="en">
+
+<head>
+  <base href="/" />
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width,  user-scalable=no" id="myViewport" />
+  <meta name="csrf-token" content="HljdN1tbl0aANLN73sOfeBjeAmacWilrti5KHlPX" />
+  <title>888 Diamond</title>
+  <link rel="stylesheet" href="%PUBLIC_URL%/css/all.css" />
+  <link rel="stylesheet" type="text/css" href="%PUBLIC_URL%/css/bootstrap.min.css" />
+  <link href="%PUBLIC_URL%/css/theme.css" rel="stylesheet" />
+  <link href="%PUBLIC_URL%/css/custom.css" rel="stylesheet" />
+  <link href="%PUBLIC_URL%/css/footer.css" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="%PUBLIC_URL%/css/owl.carousel.css" />
+  <link rel="stylesheet" type="text/css" href="%PUBLIC_URL%/css/owl.theme.default.css" />
+  <link rel="stylesheet" href="%PUBLIC_URL%/css/flipclock.css" />
+  <script src="%PUBLIC_URL%/js/jquery.min.js"></script>
+  <script src="%PUBLIC_URL%/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+  <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.css" />
+  <link type="text/css" rel="stylesheet" href="/css/style.css?v=33" id="user-styles" />
+  <link type="text/css" rel="stylesheet" href="/css/responsive.css?v=33" id="user-styles2" />
+  <link type="text/css" rel="stylesheet" href="/css/admin-style.css?v=32" id="admin-styles" />
+  <script>
+    addCss()
+    let prevUrl = undefined
+    setInterval(() => {
+      const currUrl = window.location.href
+      if (currUrl != prevUrl) {
+        prevUrl = currUrl
+        addCss()
+      }
+    }, 60)
+    function addCss() {
+      var hostnName = window.location.href
+      if (hostnName.includes('admin')) {
+        document.getElementById('user-styles').disabled = true
+        document.getElementById('user-styles2').disabled = true
+        document.getElementById('admin-styles').disabled = false
+        var mvp = document.getElementById('myViewport')
+        mvp.setAttribute('content', '')
+      } else {
+        document.getElementById('admin-styles').disabled = true
+        document.getElementById('user-styles').disabled = false
+        document.getElementById('user-styles2').disabled = false
+
+        var mvp = document.getElementById('myViewport')
+        mvp.setAttribute('content', 'width=device-width, initial-scale=1')
+      }
+    }
+  </script>
+</head>
+
+<body>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="root"></div>
+  <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+  <script type="text/javascript" async>
+    $(document).ready(function () {
+      ///setTimeout(function () { $(".popop_boxman").show(); }, 5000);
+      var fixmeTop = 100
+      if ($('#sidebar-right').offset()) {
+        fixmeTop = $('#sidebar-right').offset().top
+      }
+
+      window.onscroll = function () {
+        myFunction(fixmeTop)
+      }
+    })
+
+    function myFunction(fixmeTop) {
+      var currentScroll = $(window).scrollTop()
+      if (window.location.href.includes('admin/casino')) {
+        if (currentScroll >= fixmeTop) {
+          $('#sidebar-right').addClass('stickycasino')
+        } else {
+          $('#sidebar-right').removeClass('stickycasino')
+        }
+      } else {
+        if (currentScroll >= fixmeTop) {
+          $('#sidebar-right').addClass('sticky')
+        } else {
+          $('#sidebar-right').removeClass('sticky')
+        }
+      }
+    }
+  </script>
+</body>
+
+</html>

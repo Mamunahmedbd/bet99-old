@@ -1,0 +1,14 @@
+:root {
+  /* --theme-color: transparent linear-gradient(94deg, #b6842d, #ebda8d 55%, #b7862f);
+  --theme-primary: transparent linear-gradient(94deg, #b6842d, #ebda8d 55%, #b7862f);
+  --theme-secondary: #b88831;
+  --menu: #dedddd; */
+  --theme1-bg: #222222;
+  --theme1-bg90: #222222E6;
+  --theme2-bg: #1B4332;
+  --theme2-bg70: #1B4332B3;
+  --theme2-bg85: #1B4332D9;
+  --primary-color: #fff;
+  --secondary-color: #fff;
+  --grey-color: #ccc;
+}

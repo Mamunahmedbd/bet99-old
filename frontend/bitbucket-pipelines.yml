@@ -1,0 +1,28 @@
+#  Template NodeJS build
+
+#  This template allows you to validate your NodeJS code.
+#  The workflow allows running tests and code linting on the default branch.
+
+# ssh root@MachineB 'bash -s' < local_script.sh
+
+image: node:16
+
+pipelines:
+  branches:
+    main:
+      - step:
+          name: Build Project
+          script:
+            - npm install
+            - npm run build
+            - pipe: atlassian/ssh-run:0.2.2
+              variables:
+                SSH_USER: 'ubuntu'
+                SERVER: '13.53.171.67'
+                COMMAND: 'rm -rf /opt/fan-project-server-ts/public/*'
+            - pipe: atlassian/scp-deploy:1.2.1
+              variables:
+                USER: 'ubuntu'
+                SERVER: '13.53.171.67'
+                REMOTE_PATH: '/opt/fan-project-server-ts/public/'
+                LOCAL_PATH: '${BITBUCKET_CLONE_DIR}/build/*'

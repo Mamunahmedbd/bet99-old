@@ -1,0 +1,470 @@
+{
+    "match_id": "0",
+    "title": "20-20 Dragon Tiger",
+    "remark": "",
+    "gtype": "dt20",
+    "autotime": "0",
+    "min": 5,
+    "max": 20000,
+    "mid": "0",
+    "C1": "1",
+    "C2": "1",
+    "markets": [
+      {
+        "MarketName": "Bookmaker",
+        "Runners": [
+          {
+            "SelectionId": "1",
+            "mid": "0",
+            "nat": "Dragon",
+            "sid": "1",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 300000
+          },
+          {
+            "SelectionId": "2",
+            "mid": "0",
+            "nat": "Tiger",
+            "sid": "2",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 300000
+          },
+          {
+            "SelectionId": "3",
+            "mid": "0",
+            "nat": "Tie",
+            "sid": "3",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 300000
+          }
+        ]
+      },
+      {
+        "MarketName": "Pair",
+        "Runners": [
+          {
+            "SelectionId": "4",
+            "mid": "0",
+            "nat": "Pair",
+            "sid": "4",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 30000
+          }
+        ]
+      },
+      {
+        "MarketName": "Dragon Even Odd",
+        "Runners": [
+          {
+            "RunnerName": "Dragon Even",
+            "SelectionId": "5",
+            "mid": "0",
+            "nat": "Dragon Even",
+            "sid": "5",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Dragon Odd",
+            "SelectionId": "6",
+            "mid": "0",
+            "nat": "Dragon Odd",
+            "sid": "6",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          }
+        ]
+      },
+      {
+        "MarketName": "Dragon Red Black",
+        "Runners": [
+          {
+            "RunnerName": "Dragon Red",
+            "SelectionId": "7",
+            "mid": "0",
+            "nat": "Dragon Red",
+            "sid": "7",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Dragon Black",
+            "SelectionId": "8",
+            "mid": "0",
+            "nat": "Dragon Black",
+            "sid": "8",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          }
+        ]
+      },
+      {
+        "MarketName": "Dragon",
+        "Runners": [
+          {
+            "RunnerName": "Dragon Card 1",
+            "SelectionId": "9",
+            "mid": "0",
+            "nat": "Dragon Card 1",
+            "sid": "9",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Dragon Card 2",
+            "SelectionId": "10",
+            "mid": "0",
+            "nat": "Dragon Card 2",
+            "sid": "10",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Dragon Card 3",
+            "SelectionId": "11",
+            "mid": "0",
+            "nat": "Dragon Card 3",
+            "sid": "11",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Dragon Card 4",
+            "SelectionId": "12",
+            "mid": "0",
+            "nat": "Dragon Card 4",
+            "sid": "12",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Dragon Card 5",
+            "SelectionId": "13",
+            "mid": "0",
+            "nat": "Dragon Card 5",
+            "sid": "13",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Dragon Card 6",
+            "SelectionId": "14",
+            "mid": "0",
+            "nat": "Dragon Card 6",
+            "sid": "14",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Dragon Card 7",
+            "SelectionId": "15",
+            "mid": "0",
+            "nat": "Dragon Card 7",
+            "sid": "15",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Dragon Card 8",
+            "SelectionId": "16",
+            "mid": "0",
+            "nat": "Dragon Card 8",
+            "sid": "16",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Dragon Card 9",
+            "SelectionId": "17",
+            "mid": "0",
+            "nat": "Dragon Card 9",
+            "sid": "17",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Dragon Card 10",
+            "SelectionId": "18",
+            "mid": "0",
+            "nat": "Dragon Card 10",
+            "sid": "18",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Dragon Card J",
+            "SelectionId": "19",
+            "mid": "0",
+            "nat": "Dragon Card J",
+            "sid": "19",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Dragon Card Q",
+            "SelectionId": "20",
+            "mid": "0",
+            "nat": "Dragon Card Q",
+            "sid": "20",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Dragon Card K",
+            "SelectionId": "21",
+            "mid": "0",
+            "nat": "Dragon Card K",
+            "sid": "21",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          }
+        ]
+      },
+      {
+        "MarketName": "Tiger Even Odd",
+        "Runners": [
+          {
+            "RunnerName": "Tiger Even",
+            "SelectionId": "22",
+            "mid": "0",
+            "nat": "Tiger Even",
+            "sid": "22",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Tiger Odd",
+            "SelectionId": "23",
+            "mid": "0",
+            "nat": "Tiger Odd",
+            "sid": "23",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          }
+        ]
+      },
+      {
+        "MarketName": "Tiger Red Black",
+        "Runners": [
+          {
+            "RunnerName": "Tiger Red",
+            "SelectionId": "24",
+            "mid": "0",
+            "nat": "Tiger Red",
+            "sid": "24",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Tiger Black",
+            "SelectionId": "25",
+            "mid": "0",
+            "nat": "Tiger Black",
+            "sid": "25",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          }
+        ]
+      },
+      {
+        "MarketName": "Tiger",
+        "Runners": [
+          {
+            "RunnerName": "Tiger Card 1",
+            "SelectionId": "26",
+            "mid": "0",
+            "nat": "Tiger Card 1",
+            "sid": "26",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Tiger Card 2",
+            "SelectionId": "27",
+            "mid": "0",
+            "nat": "Tiger Card 2",
+            "sid": "27",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Tiger Card 3",
+            "SelectionId": "28",
+            "mid": "0",
+            "nat": "Tiger Card 3",
+            "sid": "28",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Tiger Card 4",
+            "SelectionId": "29",
+            "mid": "0",
+            "nat": "Tiger Card 4",
+            "sid": "29",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Tiger Card 5",
+            "SelectionId": "30",
+            "mid": "0",
+            "nat": "Tiger Card 5",
+            "sid": "30",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Tiger Card 6",
+            "SelectionId": "31",
+            "mid": "0",
+            "nat": "Tiger Card 6",
+            "sid": "31",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Tiger Card 7",
+            "SelectionId": "32",
+            "mid": "0",
+            "nat": "Tiger Card 7",
+            "sid": "32",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Tiger Card 8",
+            "SelectionId": "33",
+            "mid": "0",
+            "nat": "Tiger Card 8",
+            "sid": "33",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Tiger Card 9",
+            "SelectionId": "34",
+            "mid": "0",
+            "nat": "Tiger Card 9",
+            "sid": "34",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Tiger Card 10",
+            "SelectionId": "35",
+            "mid": "0",
+            "nat": "Tiger Card 10",
+            "sid": "35",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Tiger Card J",
+            "SelectionId": "36",
+            "mid": "0",
+            "nat": "Tiger Card J",
+            "sid": "36",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Tiger Card Q",
+            "SelectionId": "37",
+            "mid": "0",
+            "nat": "Tiger Card Q",
+            "sid": "37",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          },
+          {
+            "RunnerName": "Tiger Card K",
+            "SelectionId": "38",
+            "mid": "0",
+            "nat": "Tiger Card K",
+            "sid": "38",
+            "rate": "0",
+            "gstatus": "0",
+            "min": 100,
+            "max": 25000
+          }
+        ]
+      }
+    ],
+    "results": []
+  }
+}

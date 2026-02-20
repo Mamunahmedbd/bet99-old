@@ -1,0 +1,270 @@
+{
+    "match_id": "0",
+    "title": "20-20 Poker",
+    "autotime": "0",
+    "remark": "In each round, player will be a winner from player A/B and from the remaining patterns, only high pattern will be considered as winner for each player | tie round will be considered as a cancel round.",
+    "gtype": "poker20",
+    "min": 100,
+    "max": 100000,
+    "C1": "1",
+    "C2": "1",
+    "C3": "1",
+    "C4": "1",
+    "C5": "1",
+    "C6": "1",
+    "C7": "1",
+    "C8": "1",
+    "C9": "1",
+    "mid": "0",
+    "desc": "",
+    "markets": [
+      {
+        "MarketName": "Winner",
+        "Runners": [
+          {
+            "RunnerName": "Player A",
+            "SelectionId": "11",
+            "mid": "0",
+            "nation": "Winner",
+            "sid": "11",
+            "rate": "0",
+            "gstatus": "0"
+          },
+          {
+            "RunnerName": "Player B",
+            "SelectionId": "21",
+            "mid": "0",
+            "nation": "Winner",
+            "sid": "21",
+            "rate": "0",
+            "gstatus": "0"
+          }
+        ]
+      },
+      {
+        "MarketName": "One Pair A",
+        "Runners": [
+          {
+            "RunnerName": "Player A",
+            "SelectionId": "12",
+            "mid": "0",
+            "nation": "One Pair",
+            "sid": "12",
+            "rate": "0",
+            "gstatus": "0"
+          }
+        ]
+      },
+      {
+        "MarketName": "One Pair B",
+        "Runners": [
+          {
+            "RunnerName": "Player B",
+            "SelectionId": "22",
+            "mid": "0",
+            "nation": "One Pair",
+            "sid": "22",
+            "rate": "0",
+            "gstatus": "0"
+          }
+        ]
+      },
+      {
+        "MarketName": "Two Pair A",
+        "Runners": [
+          {
+            "RunnerName": "Player A",
+            "SelectionId": "13",
+            "mid": "0",
+            "nation": "Two Pair",
+            "sid": "13",
+            "rate": "0",
+            "gstatus": "0"
+          }
+        ]
+      },
+      {
+        "MarketName": "Two Pair B",
+        "Runners": [
+          {
+            "RunnerName": "Player B",
+            "SelectionId": "23",
+            "mid": "0",
+            "nation": "Two Pair",
+            "sid": "23",
+            "rate": "0",
+            "gstatus": "0"
+          }
+        ]
+      },
+      {
+        "MarketName": "Three of a Kind A",
+        "Runners": [
+          {
+            "RunnerName": "Player A",
+            "SelectionId": "14",
+            "mid": "0",
+            "nation": "Three of a Kind",
+            "sid": "14",
+            "rate": "0",
+            "gstatus": "0"
+          }
+        ]
+      },
+      {
+        "MarketName": "Three of a Kind B",
+        "Runners": [
+          {
+            "RunnerName": "Player B",
+            "SelectionId": "24",
+            "mid": "0",
+            "nation": "Three of a Kind",
+            "sid": "24",
+            "rate": "0",
+            "gstatus": "0"
+          }
+        ]
+      },
+      {
+        "MarketName": "Straight A",
+        "Runners": [
+          {
+            "RunnerName": "Player A",
+            "SelectionId": "15",
+            "mid": "0",
+            "nation": "Straight",
+            "sid": "15",
+            "rate": "0",
+            "gstatus": "0"
+          }
+        ]
+      },
+      {
+        "MarketName": "Straight B",
+        "Runners": [
+          {
+            "RunnerName": "Player B",
+            "SelectionId": "25",
+            "mid": "0",
+            "nation": "Straight",
+            "sid": "25",
+            "rate": "0",
+            "gstatus": "0"
+          }
+        ]
+      },
+      {
+        "MarketName": "Flush A",
+        "Runners": [
+          {
+            "RunnerName": "Player A",
+            "SelectionId": "16",
+            "mid": "0",
+            "nation": "Flush",
+            "sid": "16",
+            "rate": "0",
+            "gstatus": "0"
+          }
+        ]
+      },
+      {
+        "MarketName": "Flush B",
+        "Runners": [
+          {
+            "RunnerName": "Player B",
+            "SelectionId": "26",
+            "mid": "0",
+            "nation": "Flush",
+            "sid": "26",
+            "rate": "0",
+            "gstatus": "0"
+          }
+        ]
+      },
+      {
+        "MarketName": "Full House A",
+        "Runners": [
+          {
+            "RunnerName": "Player A",
+            "SelectionId": "17",
+            "mid": "0",
+            "nation": "Full House",
+            "sid": "17",
+            "rate": "0",
+            "gstatus": "0"
+          }
+        ]
+      },
+      {
+        "MarketName": "Full House B",
+        "Runners": [
+          {
+            "RunnerName": "Player B",
+            "SelectionId": "27",
+            "mid": "0",
+            "nation": "Full House",
+            "sid": "27",
+            "rate": "0",
+            "gstatus": "0"
+          }
+        ]
+      },
+      {
+        "MarketName": "Four of a Kind A",
+        "Runners": [
+          {
+            "RunnerName": "Player A",
+            "SelectionId": "18",
+            "mid": "0",
+            "nation": "Four of a Kind",
+            "sid": "18",
+            "rate": "0",
+            "gstatus": "0"
+          }
+        ]
+      },
+      {
+        "MarketName": "Four of a Kind B",
+        "Runners": [
+          {
+            "RunnerName": "Player B",
+            "SelectionId": "28",
+            "mid": "0",
+            "nation": "Four of a Kind",
+            "sid": "28",
+            "rate": "0",
+            "gstatus": "0"
+          }
+        ]
+      },
+      {
+        "MarketName": "Straight Flush A",
+        "Runners": [
+          {
+            "RunnerName": "Player A",
+            "SelectionId": "19",
+            "mid": "0",
+            "nation": "Straight Flush",
+            "sid": "19",
+            "rate": "0",
+            "gstatus": "0"
+          }
+        ]
+      },
+      {
+        "MarketName": "Straight Flush B",
+        "Runners": [
+          {
+            "RunnerName": "Player B",
+            "SelectionId": "29",
+            "mid": "0",
+            "nation": "Straight Flush",
+            "sid": "29",
+            "rate": "0",
+            "gstatus": "0"
+          }
+        ]
+      }
+    ],
+    "results": []
+  }

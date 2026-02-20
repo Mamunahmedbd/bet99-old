@@ -1,0 +1,371 @@
+.color-card {
+    background-color: rgba(255, 255, 255, 0.8);
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    content: "";
+    opacity: 0.4;
+    z-index: 0;
+}
+
+.norecords {
+    background-color: #ccc;
+    margin-bottom: 25px;
+    display: table;
+    width: 100%;
+    padding: 4px 15px;
+}
+
+.norecordsfound {
+    background-color: #ccc;
+    color: #000 !important;
+}
+
+.norecords a {
+    line-height: 24px;
+    color: #000 !important;
+}
+
+.lott-modal .modal-mask {
+    position: fixed;
+    z-index: 9998;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .5);
+    display: table;
+    transition: opacity .3s ease;
+}
+
+.lott-modal .modal-wrapper {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.lott-modal .modal-dialog {
+    max-width: 90%;
+    width: 90%;
+}
+
+.lott-modal .modal-body {
+    padding: 0;
+}
+
+.winner-img {
+    width: 50px;
+    margin-top: 10px;
+}
+
+.br1 {
+    border-right: 1px solid #bfbfbf;
+}
+
+.rules-table td,
+.rules-table th {
+    padding: 7px;
+}
+
+.sidebar-right-inner {
+    height: 100%;
+}
+
+.winner-icon {
+    position: absolute;
+    right: 0;
+    bottom: 15%;
+}
+
+.sixplayer-image img {
+    width: 40px;
+}
+
+.b-table-sticky-header,
+.table-responsive,
+[class*="table-responsive-"] {
+    margin-bottom: 0 !important;
+}
+
+.table {
+    margin-bottom: 0 !important;
+}
+
+.grecaptcha-badge {
+    display: none !important;
+}
+
+/*Latest Casino*/
+.new-casino .back-border {
+    border: 1px solid #72bbef;
+}
+
+.new-casino .back-border:hover {
+    border: 2px solid #72bbef;
+}
+
+.new-casino .lay-border {
+    border: 1px solid #f994ba;
+}
+
+.new-casino .lay-border:hover {
+    border: 2px solid #f994ba;
+}
+
+.new-casino .casino-video {
+    position: relative;
+    background-color: transparent;
+}
+
+.new-casino .casino-video-title {
+    position: absolute;
+    left: 5px;
+    top: 5px;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 10px;
+    z-index: 10;
+    text-align: center;
+    min-width: 220px;
+    display: flex;
+    display: -webkit-flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.new-casino .casino-video-title .casino-name {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #FDCF13;
+    line-height: 22px;
+    padding: 0;
+    background: transparent;
+    position: unset;
+    width: auto;
+}
+
+.new-casino .casino-video-rid {
+    font-weight: bold;
+    color: #ddd;
+    margin-top: 3px;
+}
+
+.new-casino .casino-video .video-box-container {
+    max-width: 100%;
+}
+
+.new-casino .casino-video .video-box {
+    position: relative;
+    max-width: 100%;
+    width: 100%;
+    padding-bottom: 56.25%;
+}
+
+.new-casino .casino-video .video-box>img,
+.new-casino .casino-video .video-box>iframe {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    object-fit: cover;
+    border: 0;
+}
+
+.new-casino .casino-odds-box-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.new-casino .casino-odds-box-container {
+    width: calc(25% - 8px);
+    margin-right: 8px;
+    margin-bottom: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.new-casino .casino-odds-box {
+    padding: 4px;
+    text-align: center;
+    margin-top: 5px;
+    cursor: pointer;
+    height: 48px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.new-casino .casino-odds-box>div {
+    width: 49%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+}
+
+.new-casino .casino-odds-box span {
+    display: block;
+    font-size: 12px;
+    width: 100%;
+}
+
+.new-casino .casino-odds-box .casino-odds-box-odd {
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 3px;
+    text-transform: uppercase;
+}
+
+.new-casino .casino-odds-box-bhav {
+    text-align: center;
+    position: relative;
+    font-size: 14px;
+    color: #333;
+    width: 100%;
+}
+
+.casino-odds-book {
+    text-align: center;
+    font-size: 14px;
+    color: #333;
+    width: 100%;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.new-casino .range-icon {
+    margin-left: 5px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.new-casino .icon-range {
+    position: absolute;
+    top: 100%;
+    background-color: #333;
+    padding: 4px;
+    max-width: 100%;
+    word-wrap: break-word;
+    font-size: 12px;
+    z-index: 10;
+    right: 0;
+    transition: 0.1s;
+    text-transform: capitalize;
+    color: #fff;
+}
+
+.new-casino .video-overlay {
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.new-casino .redqueen .video-overlay img {
+    width: 35px;
+}
+
+/*Redqueen*/
+.new-casino .redqueen {
+    background-color: #eee;
+    padding: 10px;
+}
+
+.new-casino .redqueen .casino-odds-box-container-extra {
+    width: calc(33.33% - 8px);
+}
+
+.new-launch-text {
+    /* animation: new-launch 1s linear infinite; */
+}
+
+.new-launch-text2 {
+    animation: new-launch 1s linear infinite;
+}
+
+@keyframes new-launch {
+    50% {
+        opacity: 0
+    }
+}
+
+#customers1 {
+    font-family: sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#customers1 td,
+#customers1 th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    font-size: 14px !important;
+}
+
+#customers1 th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.bg2 {
+    background-color: var(--theme1-bg) !important;
+}
+
+.pagination {
+    margin: 20px auto;
+    display: flex;
+    list-style: none;
+    outline: none;
+    justify-content: center;
+}
+
+.pagination>.active>a {
+    background-color: var(--theme1-bg);
+    ;
+    border-color: var(--theme1-bg);
+    ;
+    color: var(--secondary-color);
+}
+
+.pagination>li>a {
+    border: 1px solid var(--grey-color);
+    padding: 10px 20px;
+    outline: none;
+    cursor: pointer;
+    color: var(--grey-color);
+}
+
+.pagination>.active>a,
+.pagination>.active>span,
+.pagination>.active>a:hover,
+.pagination>.active>span:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:focus {
+    background-color: var(--theme1-bg);
+    color: var(--secondary-color);
+    outline: none;
+}
+
+.pagination>li>a,
+.pagination>li>span {
+    background-color: var(--primary-color);
+}
+
+.pagination>li:first-child>a,
+.pagination>li:first-child>span,
+.pagination>li:last-child>a,
+.pagination>li:last-child>span {
+    border-radius: unset;
+}
+
+.no-wrap {
+    white-space: nowrap;
+}

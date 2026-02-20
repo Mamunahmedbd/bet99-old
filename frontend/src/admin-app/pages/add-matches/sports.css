@@ -1,0 +1,4 @@
+.thead-dark th {
+  background-color: var(--theme1-bg) !important;
+  border-color: var(--theme1-bg) !important;
+}

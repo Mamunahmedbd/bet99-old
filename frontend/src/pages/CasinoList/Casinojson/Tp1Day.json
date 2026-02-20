@@ -1,0 +1,61 @@
+{
+			"match_id": "0",
+			"title": "1 Day Teenpatti",
+			"remark": "",
+			"gtype": "Tp1Day",
+			"autotime": "0",
+			"min": 0,
+			"max": 0,
+			"markets": [
+				{
+					"MarketName": "Bookmaker",
+					"Runners": [
+						{
+							"RunnerName": "Player A",
+							"marketId": "0",
+							"sectionId": "1",
+							"nation": "Player A",
+							"b1": 0,
+							"bs1": 0,
+							"l1": 0,
+							"ls1": 0,
+							"Srno": "1",
+							"gameType": "Teen",
+							"UpdateTime": "1691815042",
+							"gstatus": "CLOSED",
+							"remark": "Poker oneday start..",
+							"lasttime": "10",
+							"min": "100.00",
+							"max": "500000.00",
+							"C1": "1",
+							"C2": "1",
+							"C3": "1"
+						},
+						{
+							"RunnerName": "Player B",
+							"marketId": "0",
+							"sectionId": "2",
+							"nation": "Player B",
+							"b1": 98,
+							"bs1": 1000000,
+							"l1": 0,
+							"ls1": 0,
+							"Srno": "1",
+							"gameType": "Teen",
+							"UpdateTime": "1691815042",
+							"gstatus": "ACTIVE",
+							"remark": "Poker oneday start..",
+							"lasttime": "10",
+							"min": "100.00",
+							"max": "500000.00",
+							"C1": "1",
+							"C2": "1",
+							"C3": "1"
+						}
+					]
+				}
+			],
+			"results": [
+			]
+}
+	

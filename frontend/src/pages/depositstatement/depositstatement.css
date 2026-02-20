@@ -1,0 +1,305 @@
+.report-box {
+  background-color: var(--bg-table);
+  padding: 16px;
+  min-height: calc(100vh - 60px);
+}
+
+.report-box.casino-box {
+  background-color: transparent;
+  padding: 0;
+}
+
+.report-box.casino-box .casino-tabs {
+  border-radius: 0;
+  margin-bottom: 5px;
+}
+
+.report-title {
+  display: flex;
+  display: -webkit-flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.report-name {
+  height: 43px;
+  font-size: var(--font-24);
+}
+
+.report-form {
+  display: flex;
+  display: -webkit-flex;
+  align-items: flex-end;
+  flex-wrap: wrap;
+}
+
+.report-form .form-group {
+  display: inline-block;
+  margin-bottom: 0;
+}
+
+.report-form .form-control,
+.report-page-count .form-control {
+  background-color: #fff;
+  color: #000;
+}
+
+.report-title input {
+  width: 320px;
+}
+
+.report-form select {
+  width: 240px;
+}
+
+.report-form input {
+  width: 170px;
+}
+
+.report-form button {
+  width: 150px;
+}
+
+.report-page-count {
+  margin-top: 16px;
+  margin-bottom: 16px;
+  display: flex;
+  display: -webkit-flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.file-icons {
+  display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+}
+
+.file-icons i {
+  cursor: pointer;
+  font-size: var(--font-big);
+  margin-right: 10px;
+}
+
+.file-icons .fa-file-pdf {
+  color: #f70000;
+}
+
+.file-icons .fa-file-excel {
+  color: #1f6e43;
+}
+
+.file-icons .disabled {
+  color: var(--text-table);
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.report-page-count select {
+  width: auto;
+  min-width: 100px;
+  height: 36px;
+  display: inline-block;
+}
+
+.report-table {
+  margin-top: 0;
+  min-height: 400px;
+}
+
+.unsettled-bets .report-table {
+  min-height: unset;
+}
+
+.report-table.report-table-modal {
+  min-height: unset;
+}
+
+.casino-result .back-border {
+  border-left: 5px solid var(--back);
+}
+
+.casino-result .lay-border {
+  border-left: 5px solid var(--lay);
+}
+
+.report-table .bet-name {
+  margin-bottom: 8px;
+}
+
+.report-table .bet-info {
+  color: var(--text-table);
+  opacity: 0.6;
+}
+
+.report-table .bet-info .bet-val {
+  margin-left: 24px;
+}
+
+.report-table .bet-time {
+  margin-left: 8px;
+}
+
+.report-table .bet-odd {
+  color: var(--text-green);
+}
+
+.report-table.bet-result img {
+  margin-left: 8px;
+}
+
+.report-table .bet-sport {
+  width: 150px;
+}
+
+.report-table .bet-sport div {
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.report-table .bet-event-name {
+  width: 400px;
+}
+
+.report-table .bet-event-name div {
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.report-table .bet-market-name {
+  width: 300px;
+}
+
+.current-bets.report-table .bet-market-name {
+  width: 260px;
+}
+
+.report-table .bet-market-name div {
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.report-table .bet-nation {
+  width: 150px;
+}
+
+.report-table .bet-nation div {
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.report-table .bet-user-rate {
+  width: 110px;
+}
+
+.report-table .bet-user-rate div {
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.report-table .bet-amount {
+  width: 170px;
+}
+
+.report-table .bet-amount div {
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.report-table .bet-date {
+  width: 220px;
+}
+
+.report-table .bet-date div {
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.ac-statement.report-table .bet-date {
+  width: 270px;
+}
+
+.ac-statement.report-table .bet-date div {
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.report-table .bet-remark {
+  width: auto;
+  cursor: pointer;
+}
+
+.report-table .bet-remark div {
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.report-table-modal.report-table .bet-remark {
+  width: 300px;
+  cursor: pointer;
+}
+
+.report-table-modal.report-table .bet-remark div {
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.report-table .bet-ip {
+  cursor: pointer;
+  width: 200px;
+}
+
+.report-table .bet-ip div {
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.report-table .bet-action {
+  cursor: pointer;
+  width: 75px;
+}
+
+.report-table .bet-action div {
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.report-table .bet-action a i {
+  color: var(--text-table);
+}
+
+.report-table .bet-file {
+  cursor: pointer;
+  width: 155px;
+}
+
+.report-table .bet-file div {
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
