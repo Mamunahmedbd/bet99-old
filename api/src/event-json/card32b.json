@@ -1,0 +1,257 @@
+{
+  "image": "https://dzm0kbaskt4pv.cloudfront.net/v11/static/front/img/casinoicons/img/32cardsB.jpg",
+  "title": "32 Cards B",
+  "slug": "card32b",
+  "order": 25,
+  "match_id": 29,
+  "status": 1,
+  "id": 3034,
+  "event_data": {
+    "match_id": "29",
+    "title": "32 Cards B",
+    "autotime": "0",
+    "remark": "",
+    "gtype": "card32b",
+    "min": 100,
+    "max": 500000,
+    "C1": "1",
+    "C2": "1",
+    "C3": "1",
+    "market": [
+      {
+        "MarketName": "Lay Back Market",
+        "Runners": [
+          {
+            "RunnerName": "Player 8",
+            "SelectionId": "1"
+          },
+          {
+            "RunnerName": "Player 9",
+            "SelectionId": "2"
+          },
+          {
+            "RunnerName": "Player 10",
+            "SelectionId": "3"
+          },
+          {
+            "RunnerName": "Player 11",
+            "SelectionId": "4"
+          }
+        ]
+      },
+      {
+        "MarketName": "Player 8 Odd",
+        "Runners": [
+          {
+            "RunnerName": "Player 8 Odd",
+            "SelectionId": "5"
+          }
+        ]
+      },
+      {
+        "MarketName": "Player 8 Even",
+        "Runners": [
+          {
+            "RunnerName": "Player 8 Even",
+            "SelectionId": "6"
+          }
+        ]
+      },
+      {
+        "MarketName": "Player 9 Odd",
+        "Runners": [
+          {
+            "RunnerName": "Player 9 Odd",
+            "SelectionId": "7"
+          }
+        ]
+      },
+      {
+        "MarketName": "Player 9 Even",
+        "Runners": [
+          {
+            "RunnerName": "Player 9 Even",
+            "SelectionId": "8"
+          }
+        ]
+      },
+      {
+        "MarketName": "Player 10 Odd",
+        "Runners": [
+          {
+            "RunnerName": "Player 10 Odd",
+            "SelectionId": "9"
+          }
+        ]
+      },
+      {
+        "MarketName": "Player 10 Even",
+        "Runners": [
+          {
+            "RunnerName": "Player 10 Even",
+            "SelectionId": "10"
+          }
+        ]
+      },
+      {
+        "MarketName": "Player 11 Odd",
+        "Runners": [
+          {
+            "RunnerName": "Player 11 Odd",
+            "SelectionId": "11"
+          }
+        ]
+      },
+      {
+        "MarketName": "Player 11 Even",
+        "Runners": [
+          {
+            "RunnerName": "Player 11 Even",
+            "SelectionId": "12"
+          }
+        ]
+      },
+      {
+        "MarketName": "Any Three Card Black",
+        "Runners": [
+          {
+            "RunnerName": "Any Three Card Black",
+            "SelectionId": "13"
+          }
+        ]
+      },
+      {
+        "MarketName": "Any Three Card Red",
+        "Runners": [
+          {
+            "RunnerName": "Any Three Card Red",
+            "SelectionId": "14"
+          }
+        ]
+      },
+      {
+        "MarketName": "Two Black Two Red",
+        "Runners": [
+          {
+            "RunnerName": "Two Black Two Red",
+            "SelectionId": "27"
+          }
+        ]
+      },
+      {
+        "MarketName": "Single 1",
+        "Runners": [
+          {
+            "RunnerName": "Single 1",
+            "SelectionId": "15"
+          }
+        ]
+      },
+      {
+        "MarketName": "Single 2",
+        "Runners": [
+          {
+            "RunnerName": "Single 2",
+            "SelectionId": "16",
+            "b1": "9.50"
+          }
+        ]
+      },
+      {
+        "MarketName": "Single 3",
+        "Runners": [
+          {
+            "RunnerName": "Single 3",
+            "SelectionId": "17"
+          }
+        ]
+      },
+      {
+        "MarketName": "Single 4",
+        "Runners": [
+          {
+            "RunnerName": "Single 4",
+            "SelectionId": "18"
+          }
+        ]
+      },
+      {
+        "MarketName": "Single 5",
+        "Runners": [
+          {
+            "RunnerName": "Single 5",
+            "SelectionId": "19"
+          }
+        ]
+      },
+      {
+        "MarketName": "Single 6",
+        "Runners": [
+          {
+            "RunnerName": "Single 6",
+            "SelectionId": "20"
+          }
+        ]
+      },
+      {
+        "MarketName": "Single 7",
+        "Runners": [
+          {
+            "RunnerName": "Single 7",
+            "SelectionId": "21"
+          }
+        ]
+      },
+      {
+        "MarketName": "Single 8",
+        "Runners": [
+          {
+            "RunnerName": "Single 8",
+            "SelectionId": "22"
+          }
+        ]
+      },
+      {
+        "MarketName": "Single 9",
+        "Runners": [
+          {
+            "RunnerName": "Single 9",
+            "SelectionId": "23"
+          }
+        ]
+      },
+      {
+        "MarketName": "Single 0",
+        "Runners": [
+          {
+            "RunnerName": "Single 0",
+            "SelectionId": "24"
+          }
+        ]
+      },
+      {
+        "MarketName": "Total Market",
+        "Runners": [
+          {
+            "RunnerName": "8 & 9 Total",
+            "SelectionId": "25"
+          },
+          {
+            "RunnerName": "10 & 11 Total",
+            "SelectionId": "26"
+          }
+        ]
+      }
+    ],
+    "RunnerName": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ]
+  },
+  "isDisable": false,
+  "updatedAt": {
+    "$date": "2023-10-14T13:47:39.719Z"
+  }
+}

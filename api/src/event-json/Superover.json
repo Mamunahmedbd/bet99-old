@@ -1,0 +1,352 @@
+{
+  "image": "https://dzm0kbaskt4pv.cloudfront.net/v11/static/front/img/casinoicons/img/superover.jpg",
+  "title": "Super Over",
+  "slug": "Superover",
+  "order": 1,
+  "match_id": 52,
+  "status": 1,
+  "id": 3060,
+  "event_data": {
+    "title": "Super Over",
+    "autotime": "0",
+    "remark": "15 min maintance",
+    "gtype": "superover",
+    "min": 0,
+    "max": 0,
+    "C1": "1",
+    "C2": "1",
+    "C3": "1",
+    "C4": "1",
+    "C5": "1",
+    "C6": "1",
+    "market": [
+      {
+        "MarketName": "Match Odds",
+        "Runners": [
+          {
+            "RunnerName": "ENG",
+            "SelectionId": "1"
+          },
+          {
+            "RunnerName": "RSA",
+            "SelectionId": "2"
+          }
+        ]
+      },
+      {
+        "MarketName": "Fancy Market",
+        "Runners": [
+          {
+            "RunnerName": "1 Over Run Bhav ENG",
+            "SelectionId": "3"
+          },
+          {
+            "RunnerName": "1 Over ENG",
+            "SelectionId": "5"
+          }
+        ]
+      },
+      {
+        "MarketName": "Fancy1 Market",
+        "Runners": [
+          {
+            "RunnerName": "Common Wicket ENG",
+            "SelectionId": "7"
+          },
+          {
+            "RunnerName": "Common Boundry ENG",
+            "SelectionId": "9"
+          },
+          {
+            "RunnerName": "0.1 Over Wicket ENG",
+            "SelectionId": "11"
+          },
+          {
+            "RunnerName": "0.1 Over Zero ENG",
+            "SelectionId": "12"
+          },
+          {
+            "RunnerName": "0.1 Over One ENG",
+            "SelectionId": "13"
+          },
+          {
+            "RunnerName": "0.1 Over Two ENG",
+            "SelectionId": "14"
+          },
+          {
+            "RunnerName": "0.1 Over Three ENG",
+            "SelectionId": "15"
+          },
+          {
+            "RunnerName": "0.1 Over Boundry ENG",
+            "SelectionId": "16"
+          },
+          {
+            "RunnerName": "0.2 Over Wicket ENG",
+            "SelectionId": "17"
+          },
+          {
+            "RunnerName": "0.2 Over Zero ENG",
+            "SelectionId": "18"
+          },
+          {
+            "RunnerName": "0.2 Over One ENG",
+            "SelectionId": "19"
+          },
+          {
+            "RunnerName": "0.2 Over Two ENG",
+            "SelectionId": "20"
+          },
+          {
+            "RunnerName": "0.2 Over Three ENG",
+            "SelectionId": "21"
+          },
+          {
+            "RunnerName": "0.2 Over Boundry ENG",
+            "SelectionId": "22"
+          },
+          {
+            "RunnerName": "0.3 Over Wicket ENG",
+            "SelectionId": "23"
+          },
+          {
+            "RunnerName": "0.3 Over Zero ENG",
+            "SelectionId": "24"
+          },
+          {
+            "RunnerName": "0.3 Over One ENG",
+            "SelectionId": "25"
+          },
+          {
+            "RunnerName": "0.3 Over Two ENG",
+            "SelectionId": "26"
+          },
+          {
+            "RunnerName": "0.3 Over Three ENG",
+            "SelectionId": "27"
+          },
+          {
+            "RunnerName": "0.3 Over Boundry ENG",
+            "SelectionId": "28"
+          },
+          {
+            "RunnerName": "0.4 Over Wicket ENG",
+            "SelectionId": "29"
+          },
+          {
+            "RunnerName": "0.4 Over Zero ENG",
+            "SelectionId": "30"
+          },
+          {
+            "RunnerName": "0.4 Over One ENG",
+            "SelectionId": "31"
+          },
+          {
+            "RunnerName": "0.4 Over Two ENG",
+            "SelectionId": "32"
+          },
+          {
+            "RunnerName": "0.4 Over Three ENG",
+            "SelectionId": "33"
+          },
+          {
+            "RunnerName": "0.4 Over Boundry ENG",
+            "SelectionId": "34"
+          },
+          {
+            "RunnerName": "0.5 Over Wicket ENG",
+            "SelectionId": "35"
+          },
+          {
+            "RunnerName": "0.5 Over Zero ENG",
+            "SelectionId": "36"
+          },
+          {
+            "RunnerName": "0.5 Over One ENG",
+            "SelectionId": "37"
+          },
+          {
+            "RunnerName": "0.5 Over Two ENG",
+            "SelectionId": "38"
+          },
+          {
+            "RunnerName": "0.5 Over Three ENG",
+            "SelectionId": "39"
+          },
+          {
+            "RunnerName": "0.5 Over Boundry ENG",
+            "SelectionId": "40"
+          },
+          {
+            "RunnerName": "0.6 Over Wicket ENG",
+            "SelectionId": "41"
+          },
+          {
+            "RunnerName": "0.6 Over Zero ENG",
+            "SelectionId": "42"
+          },
+          {
+            "RunnerName": "0.6 Over One ENG",
+            "SelectionId": "43"
+          },
+          {
+            "RunnerName": "0.6 Over Two ENG",
+            "SelectionId": "44"
+          },
+          {
+            "RunnerName": "0.6 Over Three ENG",
+            "SelectionId": "45"
+          },
+          {
+            "RunnerName": "0.6 Over Boundry ENG",
+            "SelectionId": "46"
+          },
+          {
+            "RunnerName": "0.1 Over Wicket RSA",
+            "SelectionId": "47"
+          },
+          {
+            "RunnerName": "0.1 Over Zero RSA",
+            "SelectionId": "48"
+          },
+          {
+            "RunnerName": "0.1 Over One RSA",
+            "SelectionId": "49"
+          },
+          {
+            "RunnerName": "0.1 Over Two RSA",
+            "SelectionId": "50"
+          },
+          {
+            "RunnerName": "0.1 Over Three RSA",
+            "SelectionId": "51"
+          },
+          {
+            "RunnerName": "0.1 Over Boundry RSA",
+            "SelectionId": "52"
+          },
+          {
+            "RunnerName": "0.2 Over Wicket RSA",
+            "SelectionId": "53"
+          },
+          {
+            "RunnerName": "0.2 Over Zero RSA",
+            "SelectionId": "54"
+          },
+          {
+            "RunnerName": "0.2 Over One RSA",
+            "SelectionId": "55"
+          },
+          {
+            "RunnerName": "0.2 Over Two RSA",
+            "SelectionId": "56"
+          },
+          {
+            "RunnerName": "0.2 Over Three RSA",
+            "SelectionId": "57"
+          },
+          {
+            "RunnerName": "0.2 Over Boundry RSA",
+            "SelectionId": "58"
+          },
+          {
+            "RunnerName": "0.3 Over Wicket RSA",
+            "SelectionId": "59"
+          },
+          {
+            "RunnerName": "0.3 Over Zero RSA",
+            "SelectionId": "60"
+          },
+          {
+            "RunnerName": "0.3 Over One RSA",
+            "SelectionId": "61"
+          },
+          {
+            "RunnerName": "0.3 Over Two RSA",
+            "SelectionId": "62"
+          },
+          {
+            "RunnerName": "0.3 Over Three RSA",
+            "SelectionId": "63"
+          },
+          {
+            "RunnerName": "0.3 Over Boundry RSA",
+            "SelectionId": "64"
+          },
+          {
+            "RunnerName": "0.4 Over Wicket RSA",
+            "SelectionId": "65"
+          },
+          {
+            "RunnerName": "0.4 Over Zero RSA",
+            "SelectionId": "66"
+          },
+          {
+            "RunnerName": "0.4 Over One RSA",
+            "SelectionId": "67"
+          },
+          {
+            "RunnerName": "0.4 Over Two RSA",
+            "SelectionId": "68"
+          },
+          {
+            "RunnerName": "0.4 Over Three RSA",
+            "SelectionId": "69"
+          },
+          {
+            "RunnerName": "0.4 Over Boundry RSA",
+            "SelectionId": "70"
+          },
+          {
+            "RunnerName": "0.5 Over Wicket RSA",
+            "SelectionId": "71"
+          },
+          {
+            "RunnerName": "0.5 Over Zero RSA",
+            "SelectionId": "72"
+          },
+          {
+            "RunnerName": "0.5 Over One RSA",
+            "SelectionId": "73"
+          },
+          {
+            "RunnerName": "0.5 Over Two RSA",
+            "SelectionId": "74"
+          },
+          {
+            "RunnerName": "0.5 Over Three RSA",
+            "SelectionId": "75"
+          },
+          {
+            "RunnerName": "0.5 Over Boundry RSA",
+            "SelectionId": "76"
+          },
+          {
+            "RunnerName": "0.6 Over Wicket RSA",
+            "SelectionId": "77"
+          },
+          {
+            "RunnerName": "0.6 Over Zero RSA",
+            "SelectionId": "78"
+          },
+          {
+            "RunnerName": "0.6 Over One RSA",
+            "SelectionId": "79"
+          },
+          {
+            "RunnerName": "0.6 Over Two RSA",
+            "SelectionId": "80"
+          },
+          {
+            "RunnerName": "0.6 Over Three RSA",
+            "SelectionId": "81"
+          },
+          {
+            "RunnerName": "0.6 Over Boundry RSA",
+            "SelectionId": "82"
+          }
+        ]
+      }
+    ]
+  }
+}

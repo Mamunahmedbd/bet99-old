@@ -1,0 +1,49 @@
+{
+  "_id": {
+    "$oid": "64f1dc6f55c949738c486715"
+  },
+  "image": "https://dzm0kbaskt4pv.cloudfront.net/v11/static/front/img/casinoicons/img/cmeter.jpg",
+  "title": "Casino Meter",
+  "slug": "cmeter2020",
+  "order": 12,
+  "match_id": 33,
+  "status": 1,
+  "id": 3046,
+  "event_data": {
+    "match_id": "33",
+    "title": "Casino Meter",
+    "autotime": "0",
+    "remark": "",
+    "gtype": "cmeter",
+    "min": 100,
+    "max": 500000,
+    "C1": "1",
+    "C2": "1",
+    "C3": "1",
+    "market": [
+      {
+        "MarketName": "Low",
+        "Runners": [
+          {
+            "RunnerName": "Low",
+            "SelectionId": "1"
+          }
+        ]
+      },
+      {
+        "MarketName": "High",
+        "Runners": [
+          {
+            "RunnerName": "High",
+            "SelectionId": "2"
+          }
+        ]
+      }
+    ],
+    "RunnerName": ["L", "H"]
+  },
+  "isDisable": false,
+  "updatedAt": {
+    "$date": "2023-10-14T13:30:49.265Z"
+  }
+}

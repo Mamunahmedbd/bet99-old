@@ -1,0 +1,8 @@
+{
+  "endpoint": "base_url/diamond-proxy/match/tv?diamondeventid=472474852&diamondsportsid=4",
+  "status": true,
+  "data": {
+    "diamond_score_one": "https://cloud.turnkeyxgaming.com:9086/score?room=472474852",
+    "diamond_tv_one": "https://cloud.turnkeyxgaming.com:9086/sports/diamondoriginaltv?gmid=472474852&sid=4&token=f4b99fd6-0559-449c-9108-2c161b4cab61"
+  }
+}

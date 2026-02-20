@@ -1,0 +1,161 @@
+{
+  "image": "https://dzm0kbaskt4pv.cloudfront.net/v11/static/front/img/casinoicons/img/andar-bahar2.jpg",
+  "title": "Andar Bahar 2",
+  "slug": "Andarbahar2",
+  "match_id": 38,
+  "status": 1,
+  "id": 3043,
+  "event_data": {
+    "match_id": "38",
+    "title": "Andar Bahar 2",
+    "autotime": "0",
+    "remark": "",
+    "gtype": "abj",
+    "min": 100,
+    "max": 500000,
+    "C1": "1",
+    "C2": "1",
+    "C3": "1",
+    "market": [
+      {
+        "MarketName": "A Market",
+        "Runners": [
+          {
+            "RunnerName": "SA",
+            "SelectionId": "1"
+          }
+        ]
+      },
+      {
+        "MarketName": "B Market",
+        "Runners": [
+          {
+            "RunnerName": "SB",
+            "SelectionId": "4"
+          }
+        ]
+      },
+      {
+        "MarketName": "1st Bet Market",
+        "Runners": [
+          {
+            "RunnerName": "A 1st Bet",
+            "SelectionId": "2"
+          },
+          {
+            "RunnerName": "B 1st Bet",
+            "SelectionId": "5"
+          }
+        ]
+      },
+      {
+        "MarketName": "2nd Bet Market",
+        "Runners": [
+          {
+            "RunnerName": "A 2nd Bet",
+            "SelectionId": "3"
+          },
+          {
+            "RunnerName": "B 2nd Bet",
+            "SelectionId": "6"
+          }
+        ]
+      },
+      {
+        "MarketName": "Odd Even Market",
+        "Runners": [
+          {
+            "RunnerName": "Odd",
+            "SelectionId": "24"
+          },
+          {
+            "RunnerName": "Even",
+            "SelectionId": "25"
+          }
+        ]
+      },
+      {
+        "MarketName": "Card Club Market",
+        "Runners": [
+          {
+            "RunnerName": "Spade",
+            "SelectionId": "20"
+          },
+          {
+            "RunnerName": "Club",
+            "SelectionId": "21"
+          },
+          {
+            "RunnerName": "Heart",
+            "SelectionId": "22"
+          },
+          {
+            "RunnerName": "Diamond",
+            "SelectionId": "23"
+          }
+        ]
+      },
+      {
+        "MarketName": "Total Card",
+        "Runners": [
+          {
+            "RunnerName": "A",
+            "SelectionId": "7"
+          },
+          {
+            "RunnerName": "2",
+            "SelectionId": "8"
+          },
+          {
+            "RunnerName": "3",
+            "SelectionId": "9"
+          },
+          {
+            "RunnerName": "4",
+            "SelectionId": "10"
+          },
+          {
+            "RunnerName": "5",
+            "SelectionId": "11"
+          },
+          {
+            "RunnerName": "6",
+            "SelectionId": "12"
+          },
+          {
+            "RunnerName": "7",
+            "SelectionId": "13"
+          },
+          {
+            "RunnerName": "8",
+            "SelectionId": "14"
+          },
+          {
+            "RunnerName": "9",
+            "SelectionId": "15"
+          },
+          {
+            "RunnerName": "10",
+            "SelectionId": "16"
+          },
+          {
+            "RunnerName": "J",
+            "SelectionId": "17"
+          },
+          {
+            "RunnerName": "Q",
+            "SelectionId": "18"
+          },
+          {
+            "RunnerName": "K",
+            "SelectionId": "19"
+          }
+        ]
+      }
+    ],
+    "RunnerName": [
+      "A",
+      "B"
+    ]
+  }
+}

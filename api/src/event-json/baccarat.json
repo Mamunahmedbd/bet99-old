@@ -1,0 +1,111 @@
+{
+  "_id": {
+    "$oid": "63f33df036d8ad66ce9550d3"
+  },
+  "image": "https://dzm0kbaskt4pv.cloudfront.net/v11/static/front/img/casinoicons/img/baccarat.png",
+  "title": "Baccarat",
+  "slug": "baccarat",
+  "order": 8,
+  "match_id": 37,
+  "status": 1,
+  "id": 3044,
+  "event_data": {
+    "match_id": "37",
+    "title": "Baccarat",
+    "autotime": "0",
+    "remark": "",
+    "gtype": "baccarat",
+    "min": 100,
+    "max": 500000,
+    "C1": "1",
+    "C2": "1",
+    "C3": "1",
+    "C4": "1",
+    "C5": "1",
+    "C6": "1",
+    "market": [
+      {
+        "MarketName": "Player",
+        "Runners": [
+          {
+            "RunnerName": "Player",
+            "SelectionId": "1"
+          }
+        ]
+      },
+      {
+        "MarketName": "Banker",
+        "Runners": [
+          {
+            "RunnerName": "Banker",
+            "SelectionId": "2"
+          }
+        ]
+      },
+      {
+        "MarketName": "Tie",
+        "Runners": [
+          {
+            "RunnerName": "Tie",
+            "SelectionId": "3"
+          }
+        ]
+      },
+      {
+        "MarketName": "Player Pair",
+        "Runners": [
+          {
+            "RunnerName": "Player Pair",
+            "SelectionId": "4"
+          }
+        ]
+      },
+      {
+        "MarketName": "Banker Pair",
+        "Runners": [
+          {
+            "RunnerName": "Banker Pair",
+            "SelectionId": "5"
+          }
+        ]
+      },
+      {
+        "MarketName": "Perferct Pair",
+        "Runners": [
+          {
+            "RunnerName": "Perferct Pair",
+            "SelectionId": "6"
+          }
+        ]
+      },
+      {
+        "MarketName": "Big",
+        "Runners": [
+          {
+            "RunnerName": "Big",
+            "SelectionId": "7"
+          }
+        ]
+      },
+      {
+        "MarketName": "Small",
+        "Runners": [
+          {
+            "RunnerName": "Small",
+            "SelectionId": "8"
+          }
+        ]
+      },
+      {
+        "MarketName": "Either Pair",
+        "Runners": [
+          {
+            "RunnerName": "Either Pair",
+            "SelectionId": "9"
+          }
+        ]
+      }
+    ],
+    "RunnerName": ["P", "B", "T"]
+  }
+}

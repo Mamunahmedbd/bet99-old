@@ -1,0 +1,6570 @@
+{
+  "endpoint": "base_url/diamond-proxy/sidebar",
+  "success": true,
+  "msg": "success",
+  "status": 200,
+  "data": {
+    "t1": [
+      {
+        "etid": 40,
+        "name": "Politics",
+        "oid": 1,
+        "children": null
+      },
+      {
+        "etid": 4,
+        "name": "Cricket",
+        "oid": 2,
+        "children": [
+          {
+            "cid": "46201121",
+            "name": "T5 XI",
+            "children": [
+              {
+                "gmid": "91672488",
+                "name": "SNP XI v GAW XI",
+                "etid": 4,
+                "iscc": 1
+              }
+            ]
+          },
+          {
+            "cid": "56100513",
+            "name": "T10 XI",
+            "children": [
+              {
+                "gmid": "67310743",
+                "name": "Punjab Kings XI v Lucknow Super Giants XI",
+                "etid": 4,
+                "iscc": 1
+              }
+            ]
+          },
+          {
+            "cid": "8590658",
+            "name": "Virtual Cricket League",
+            "children": [
+              {
+                "gmid": "741236547",
+                "name": "Lucknow Super Giants T10 v Gujarat Titans T10",
+                "etid": 4,
+                "iscc": 2
+              }
+            ]
+          },
+          {
+            "cid": "5573302",
+            "name": "Ranji Trophy Elite 2025-26",
+            "children": [
+              {
+                "gmid": "732674663",
+                "name": "Bengal v Jammu and Kashmir",
+                "etid": 4,
+                "iscc": 0
+              },
+              {
+                "gmid": "756511146",
+                "name": "Uttarakhand v Karnataka",
+                "etid": 4,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "7172716",
+            "name": "ICC Mens T20 World Cup",
+            "children": [
+              {
+                "gmid": "674444460",
+                "name": "    ICC Mens T20 World Cup",
+                "etid": 4,
+                "iscc": 0
+              },
+              {
+                "gmid": "676645759",
+                "name": "India v Netherlands",
+                "etid": 4,
+                "iscc": 0
+              },
+              {
+                "gmid": "820254883",
+                "name": "Ireland v Zimbabwe",
+                "etid": 4,
+                "iscc": 0
+              },
+              {
+                "gmid": "689878567",
+                "name": "New Zealand v Canada",
+                "etid": 4,
+                "iscc": 0
+              },
+              {
+                "gmid": "643604572",
+                "name": "Pakistan v Namibia",
+                "etid": 4,
+                "iscc": 0
+              },
+              {
+                "gmid": "573626616",
+                "name": "Scotland v Nepal",
+                "etid": 4,
+                "iscc": 0
+              },
+              {
+                "gmid": "711190356",
+                "name": "South Africa v United Arab Emirates",
+                "etid": 4,
+                "iscc": 0
+              },
+              {
+                "gmid": "688159737",
+                "name": "West Indies v Italy",
+                "etid": 4,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "8890304",
+            "name": "Testing Match",
+            "children": [
+              {
+                "gmid": "592015580",
+                "name": "Test A v Test B",
+                "etid": 4,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "6033541",
+            "name": "Ford Trophy",
+            "children": [
+              {
+                "gmid": "472886516",
+                "name": "Wellington Firebirds v Northern Brave",
+                "etid": 4,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "4847287",
+            "name": "Australia NCL Women",
+            "children": [
+              {
+                "gmid": "869476025",
+                "name": "Victoria W v Western Australia W",
+                "etid": 4,
+                "iscc": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "etid": 1,
+        "name": "Football",
+        "oid": 3,
+        "children": [
+          {
+            "cid": "5833910",
+            "name": "EUROPE EUROPA  LEAGUE",
+            "children": [
+              {
+                "gmid": "791813897",
+                "name": "Brann v Bologna",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "722201638",
+                "name": "Celtic v Stuttgart",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "508864439",
+                "name": "Dinamo Zagreb v Genk",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "727411997",
+                "name": "Fenerbahce v Nottm Forest",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "684571567",
+                "name": "Lille v Crvena Zvezda",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "611176972",
+                "name": "Ludogorets v Ferencvaros",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "789933348",
+                "name": "Panathinaikos v Plzen",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "559117700",
+                "name": "PAOK v Celta Vigo",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "8224979",
+            "name": "GAMBIA  GFA League",
+            "children": [
+              {
+                "gmid": "717971589",
+                "name": "Greater Tomorrow v Brikama Utd",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "800500577",
+                "name": "Medina United FC v Bombada FC",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "722028069",
+                "name": "Samger FC v Hart FC",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "508899858",
+                "name": "Steve Biko FC v BST Galaxy",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "4725647",
+            "name": "ASIA  AFC Champions League",
+            "children": [
+              {
+                "gmid": "599345090",
+                "name": "Al-Sadd v Al-Ittihad",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "622750705",
+                "name": "Buriram Utd v Shanghai Shenhua",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "866136959",
+                "name": "FC Machida v Chengdu Rongcheng",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "867681405",
+                "name": "FC Seoul v Hiroshima",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "498381441",
+                "name": "Johor Darul Tazim v Kobe",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "685374590",
+                "name": "Shanghai Port FC v Ulsan Hyundai Horang-i",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "8150830",
+            "name": "ENGLAND League One",
+            "children": [
+              {
+                "gmid": "749499247",
+                "name": "Barnsley v Peterborough",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "666140314",
+                "name": "Blackpool v Mansfield",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "907260384",
+                "name": "Bradford v Stockport",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "913344948",
+                "name": "Burton Albion v Rotherham",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "809380093",
+                "name": "Cardiff v AFC Wimbledon",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "852529738",
+                "name": "Doncaster v Huddersfield",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "758448017",
+                "name": "Exeter v Wycombe",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "830971651",
+                "name": "Leyton Orient v Plymouth",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "531408145",
+                "name": "Lincoln v Northampton",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "711755722",
+                "name": "Reading v Bolton",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "860869083",
+                "name": "Stevenage v Port Vale",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "9118984",
+            "name": "TURKEY 1. Lig",
+            "children": [
+              {
+                "gmid": "854018986",
+                "name": "Hatayspor v 76 Igdir Belediyespor",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "840783319",
+                "name": "Istanbulspor v Erokspor A.S",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "719479855",
+                "name": "Keciorengucu v Erzurum BB",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "615080161",
+                "name": "Manisa FK v Bandirmaspor",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "900294999",
+                "name": "Umraniyespor v Boluspor",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "885064741",
+                "name": "Van Buyuksehir Belediye v Bodrum Belediyesi Bodru",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "7567572",
+            "name": "TUNISIA Ligue Professionnelle 1",
+            "children": [
+              {
+                "gmid": "789571672",
+                "name": "AS Solimane v Sportive De Tunis",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "8501833",
+            "name": "UEFA CHAMPIONS LEAGUE - WINNER 2025/26",
+            "children": [
+              {
+                "gmid": "564514347",
+                "name": "UEFA CHAMPIONS LEAGUE - WINNER 2025/26",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "7846996",
+            "name": "EUROPE CHAMPIONS LEAGUE",
+            "children": [
+              {
+                "gmid": "828594661",
+                "name": "Benfica v Real Madrid",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "637972815",
+                "name": "Bodo Glimt v Inter",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "739410106",
+                "name": "Club Brugge v Atletico Madrid",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "722537737",
+                "name": "Dortmund v Atalanta",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "728514923",
+                "name": "Galatasaray v Juventus",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "910676905",
+                "name": "Monaco v Paris St-G",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "526490123",
+                "name": "Olympiakos v Leverkusen",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "564842995",
+                "name": "Qarabag FK v Newcastle",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "6010256",
+            "name": "ALGERIA Ligue 2",
+            "children": [
+              {
+                "gmid": "539279197",
+                "name": "ASM Oran v NA Hussein Dey",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "650532894",
+                "name": "Chelghoum Laid v NC Magra",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "765817515",
+                "name": "JS Texraine v RC Arba",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "859728900",
+                "name": "JSM Tiaret v WA Tlemcen",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "818793701",
+                "name": "MC Saida v JS El Biar",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "575945524",
+                "name": "MO Constantine v JSD Jijel",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "706516219",
+                "name": "Msp Batna v JS Bordj Menaiel",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "664844559",
+                "name": "RC Kouba v CRB Adrar",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "702245329",
+                "name": "US Chaouia v AS Khroub",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "683664524",
+                "name": "WA Mostaganem v US Bechar Djedid",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5671068",
+            "name": "PORTUGAL Liga Revelacao U23",
+            "children": [
+              {
+                "gmid": "854134243",
+                "name": "Benfica U23 v Sporting Lisbon U23",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5109917",
+            "name": "WORLD Club Friendly",
+            "children": [
+              {
+                "gmid": "616307112",
+                "name": "Cashmere Technical - Selwyn United",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5986914",
+            "name": "MALTA Premier League",
+            "children": [
+              {
+                "gmid": "592315265",
+                "name": "St. Patrick F.C. v Valletta",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "8892926",
+            "name": "SCOTLAND CHALLENGE CUP - QUARTER-FINALS",
+            "children": [
+              {
+                "gmid": "607465982",
+                "name": "St Johnstone v Ayr",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "8353777",
+            "name": "BULGARIA Vtora liga",
+            "children": [
+              {
+                "gmid": "727935775",
+                "name": "Etar v FC Fratria",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5787068",
+            "name": "EUROPE CHAMPIONS LEAGUE  WOMEN",
+            "children": [
+              {
+                "gmid": "548777243",
+                "name": "Real Madrid FC (W) v Paris FC (W)",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "7389467",
+            "name": "ARGENTINA Copa Argentina",
+            "children": [
+              {
+                "gmid": "481968983",
+                "name": "Aldosivi v CA San Miguel",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "794022879",
+                "name": "River Plate v Ciudad de Bolivar",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "669716851",
+                "name": "Tigre v CA Claypole",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5212499",
+            "name": "EGYPT Egypt Cup",
+            "children": [
+              {
+                "gmid": "906785238",
+                "name": "Zamalek v Ceramica Cleopatra",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "4778771",
+            "name": "WORLD Friendly International",
+            "children": [
+              {
+                "gmid": "499245859",
+                "name": "Czech Rep U19 v Türkiye U19",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "7275591",
+            "name": "ENGLAND Premier League 2",
+            "children": [
+              {
+                "gmid": "492860017",
+                "name": "Sunderland U21 v Reading U21",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "8604550",
+            "name": "SCOTLAND Championship",
+            "children": [
+              {
+                "gmid": "641985465",
+                "name": "Morton v Dunfermline",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "7161054",
+            "name": "ENGLAND Championship",
+            "children": [
+              {
+                "gmid": "838818373",
+                "name": "Bristol City v Wrexham",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "890032913",
+                "name": "Charlton v Portsmouth",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5196591",
+            "name": "AUSTRALIA A-League",
+            "children": [
+              {
+                "gmid": "819360781",
+                "name": "Sydney FC v Auckland FC",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5390759",
+            "name": "KUWAIT Premier League",
+            "children": [
+              {
+                "gmid": "636298414",
+                "name": "Al Tadhamon v Kazma SC",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "7740540",
+            "name": "SCOTLAND Scottish  Cup",
+            "children": [
+              {
+                "gmid": "465825931",
+                "name": "Dundee Utd v Spartans",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "8487752",
+            "name": "GUATEMALA Liga Nacional",
+            "children": [
+              {
+                "gmid": "515969157",
+                "name": "Achuapa FC v Guastatoya",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5240718",
+            "name": "NETHERLANDS Eredivisie",
+            "children": [
+              {
+                "gmid": "877455065",
+                "name": "Sparta Rotterdam v NEC Nijmegen",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "6193771",
+            "name": "COLOMBIA Primera A",
+            "children": [
+              {
+                "gmid": "916522174",
+                "name": "Alianza FC Valledupar v Cucuta Deportivo",
+                "etid": 1,
+                "iscc": 0
+              },
+              {
+                "gmid": "683698590",
+                "name": "Jaguares de Cordoba v Santa Fe",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "7683887",
+            "name": "COLOMBIA Primera B",
+            "children": [
+              {
+                "gmid": "792522138",
+                "name": "Boca Juniors de Cali v Orsomarso",
+                "etid": 1,
+                "iscc": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "etid": 2,
+        "name": "Tennis",
+        "oid": 4,
+        "children": [
+          {
+            "cid": "5717285",
+            "name": "CHALLENGER WOMEN - SINGLES LES SABLES (FRANCE)",
+            "children": [
+              {
+                "gmid": "633326339",
+                "name": "Dar Semenistaja v Aliona Bolsova",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "726969019",
+                "name": "Iren Burillo v H Tan",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "786167454",
+                "name": "L Bronzetti v And Lazaro Garcia",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "668148551",
+                "name": "M Leonard v Serban",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "659638219",
+                "name": "Minnen v Rosatello",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "803316940",
+                "name": "O Dodin v Tama Korpatsch",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "594304577",
+                "name": "Siskova v Jes Ponchet",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "555653108",
+                "name": "Yid Yang v Mladenovic",
+                "etid": 2,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "8165138",
+            "name": "ATP - SINGLES DOHA  (QATAR)",
+            "children": [
+              {
+                "gmid": "878453805",
+                "name": "Carlos Alcaraz v Rinderknech",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "868998231",
+                "name": "Carreno Busta v Halys",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "712262638",
+                "name": "Echargui v Tsitsipas",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "806126929",
+                "name": "Fucsovics v Ha Habib",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "851942014",
+                "name": "Humbert v Marozsan",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "470074140",
+                "name": "J De Jong v Rublev",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "548944791",
+                "name": "Lehecka v Brooksby",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "761977108",
+                "name": "Sh Mochizuki v Khachanov",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "592608118",
+                "name": "Zh Zhang v Carballes Baena",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "886904668",
+                "name": "Ziz Bergs v Mpetshi Perricard",
+                "etid": 2,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "6271542",
+            "name": "ATP RIO DE JANEIRO OPEN 2026",
+            "children": [
+              {
+                "gmid": "876467585",
+                "name": "ATP RIO DE JANEIRO OPEN 2026 - WINNER",
+                "etid": 2,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5928743",
+            "name": "CHALLENGER MEN - SINGLES METEPEC (MEXICO)",
+            "children": [
+              {
+                "gmid": "828131942",
+                "name": "Ben Jones v Ra De Alba Valdes",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "512319161",
+                "name": "Da Martin v O Ayeni",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "568644009",
+                "name": "Dalmasso v Ro Pacheco Mendez",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "753945880",
+                "name": "E Winter v Dickerson",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "482314621",
+                "name": "Ficovich v Ry Fishback",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "593409149",
+                "name": "Galarneau v N Hardt",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "551211136",
+                "name": "Gomez v Andr Andrade",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "882500659",
+                "name": "Juan Ca Aguilar v Andres Martin",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "547705513",
+                "name": "N Rodrigues v Tobon",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "478776235",
+                "name": "Nefve v Sau Franco",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "878372202",
+                "name": "Ta Baadi v Ca Kingsley",
+                "etid": 2,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "6978760",
+            "name": "CHALLENGER MEN - DOUBLES Tigre (Argentina)",
+            "children": [
+              {
+                "gmid": "820336848",
+                "name": "Joaquin  Aguilar Cardozo / Maximo Zeitune - Santiago Rodriguez Taverna / Gonzalo Villanueva",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "919748413",
+                "name": "Julian Cundom / Tomas Martinez - Juan Estevez / Lucio Ratti",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "575014289",
+                "name": "Thiago Cigarran / Lorenzo Joaquin Rodriguez - Tomas Farjat / Conner Huertas del Pino",
+                "etid": 2,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5169921",
+            "name": "CHALLENGER WOMEN - SINGLES MIDLAND (USA)",
+            "children": [
+              {
+                "gmid": "536847217",
+                "name": "Ali Charaeva v S Xu",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "769307941",
+                "name": "Cade Brace v Ka Cross",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "523238123",
+                "name": "Coleman v Kayl Day",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "734913816",
+                "name": "Dala Hewitt v Osuigwe",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "851190657",
+                "name": "Ga Lee v Lea Ma",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "610388768",
+                "name": "H Guo v Chirico",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "655171590",
+                "name": "Hosogi v C Liu",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "895165918",
+                "name": "Kalieva v An Rogers",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "520083754",
+                "name": "Kata Jokic v El Jones",
+                "etid": 2,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "6940031",
+            "name": "ATP - SINGLES RIO DE JANEIRO (BRAZIL)",
+            "children": [
+              {
+                "gmid": "482446538",
+                "name": "Barrios Vera v Berrettini",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "607779345",
+                "name": "Cam Ugo Carabelli v Burruchaga",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "904678718",
+                "name": "Cerundolo v Navone",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "623951942",
+                "name": "Dzumhur v Martinez",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "641442918",
+                "name": "Ja Faria v Se Baez",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "799681743",
+                "name": "Jo Fonseca v T Monteiro",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "774988284",
+                "name": "Luis  Miguel v Gaubas",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "883680082",
+                "name": "Manuel Cerundolo v Darderi",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "545297353",
+                "name": "Prizmic v Passaro",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "880432771",
+                "name": "To Etcheverry v Comesana",
+                "etid": 2,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "6330875",
+            "name": "ATP - SINGLES DELRAY BEACH (USA)",
+            "children": [
+              {
+                "gmid": "776394841",
+                "name": "Al Kovacevic v Svajda",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "820989689",
+                "name": "Et Quinn v Jodar",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "705406650",
+                "name": "Kecmanovic v Ma Bellucci",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "787855724",
+                "name": "Moutet v Paul",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "581651137",
+                "name": "Nakashima v Cilic",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "822333131",
+                "name": "Se Korda v Mac McDonald",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "796009513",
+                "name": "Walton v G Diallo",
+                "etid": 2,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "7596649",
+            "name": "WTA - DOUBLES   Dubai (United Arab Emirates)",
+            "children": [
+              {
+                "gmid": "882067253",
+                "name": "Alexandra Panova / Diana Shnaider - Jaqueline Adina Cristian / Elena Gabriela Ruse",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "841303073",
+                "name": "Cristina Bucsa / Nicole Melichar Martinez - Lyudmyla Kichenok / Desirae Krawczyk",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "695521908",
+                "name": "Ellen Perez / Demi Schuurs - Storm Hunter / Katerina Siniakova",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "864281525",
+                "name": "Gabriela Dabrowski / Luisa Stefani - Bouzkova Marie / Tjen Janice ",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "530925174",
+                "name": "Laura Siegemund / Vera Zvonareva - Marcinko/Ruzic",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "908235996",
+                "name": "Su-Wei Hsieh / Jelena Ostapenko - Hao-Ching Chan / Clara Tauson",
+                "etid": 2,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5886229",
+            "name": "ATP - DOUBLES Delray Beach (USA)",
+            "children": [
+              {
+                "gmid": "726828968",
+                "name": "Michelsen Alex / Ram Rajeev - Vasil Kirkov / Bart Stevens",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "839821623",
+                "name": "Robert Cash / James Tracy - Nuno Borges / Miguel Reyes-Varela",
+                "etid": 2,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "7106852",
+            "name": "CHALLENGER MEN - SINGLES TIGRE (ARGENTINA)",
+            "children": [
+              {
+                "gmid": "597732865",
+                "name": "Agamenone v Gu Justo",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "805855245",
+                "name": "Ambrogi v Olivieri",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "656870098",
+                "name": "Dutra da Silva v Go Bueno",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "518361920",
+                "name": "Gi Cadenasso v Kicker",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "500540572",
+                "name": "Guillen Meza v Jua Varillas",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "658446101",
+                "name": "Ju Torres v Kestelboim",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "781244581",
+                "name": "Pagani v L Midon",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "665516651",
+                "name": "Sakamoto v Sanchez Jover",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "774508804",
+                "name": "Zarate v Mi Damas",
+                "etid": 2,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "4882380",
+            "name": "CHALLENGER WOMEN - DOUBLES Midland (USA)",
+            "children": [
+              {
+                "gmid": "829227916",
+                "name": "Catherine Harrison / Katarina Jokic - Lea Ma / Darja Vidmanova",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "462126163",
+                "name": "Mary Lewis / Katherine Sebov - Gleason Q / Hewitt D",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "792196741",
+                "name": "Smith Alana / Stoiana Mary  - Sofia Elena Cabezas Dominguez / Sara Daavettila",
+                "etid": 2,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "6441987",
+            "name": "CHALLENGER WOMEN - SINGLES OEIRAS 3 (PORTUGAL)",
+            "children": [
+              {
+                "gmid": "641628128",
+                "name": "Bains v Bar Palicova",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "492353957",
+                "name": "Caro Werner v S Kraus",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "750381474",
+                "name": "El Avanesyan v An Voloshchuk",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "796883665",
+                "name": "F Jorge v Lin Klimovicova",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "725944531",
+                "name": "Iryn Shymanovich v Parrizas Diaz",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "841552559",
+                "name": "Mansouri v M Jorge",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "536978604",
+                "name": "Snigur v Hruncakova",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "688538971",
+                "name": "Sorribes Tormo v Te Kostovic",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "881775202",
+                "name": "Tikhonova v En- Liang",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "865582661",
+                "name": "V Tomova v Jakupovic",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "568684795",
+                "name": "Y Yuan v Ano Koevermans",
+                "etid": 2,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "6998538",
+            "name": "WTA - SINGLES DUBAI  (UNITED ARAB EMIRATES)",
+            "children": [
+              {
+                "gmid": "705868700",
+                "name": "Al Eala v J Paolini",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "521331720",
+                "name": "Alexandrova v Mag Linette",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "525044148",
+                "name": "Bencic v Bejlek",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "855041260",
+                "name": "C Gauff v A Kalinskaya",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "580066230",
+                "name": "E Rybakina v Birrell",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "758601717",
+                "name": "El Seidel v J Cristian",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "476460554",
+                "name": "I Jovic v Di Shnaider",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "467686638",
+                "name": "L Noskova v S Cirstea",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "761469241",
+                "name": "Mertens v Emm Navarro",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "716632745",
+                "name": "Mir Andreeva v D Kasatkina",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "683481652",
+                "name": "P Badosa v Svitolina",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "592138101",
+                "name": "Pe Stearns v C Tauson",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "785802132",
+                "name": "Ruzic v Zakharova",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "857729728",
+                "name": "V Gracheva v J Pegula",
+                "etid": 2,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "9006989",
+            "name": "CHALLENGER MEN - SINGLES LILLE (FRANCE)",
+            "children": [
+              {
+                "gmid": "613667090",
+                "name": "Blockx v Safiullin",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "735660565",
+                "name": "Bouquier v Coppejans",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "528771044",
+                "name": "Chidekh v Fearnley",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "541271133",
+                "name": "Goffin v Joe Schwaerzler",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "536020689",
+                "name": "Kukushkin v Zeppieri",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "841601495",
+                "name": "Lo Massard v Ju Engel",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "464793160",
+                "name": "Misolic v Ma Landaluce",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "601553388",
+                "name": "Mo Kouame v Ma Dodig",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "881015952",
+                "name": "Nish Basavareddy v Ug Blanchet",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "597965374",
+                "name": "Skatov v Hemery",
+                "etid": 2,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "6318909",
+            "name": "CHALLENGER WOMEN - DOUBLES Oeiras 3 (Portugal)",
+            "children": [
+              {
+                "gmid": "548206143",
+                "name": "Akli Ayana / Crawley Fiona  - Anastasia Detiuc / Anastasia Tikhonova",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "485209712",
+                "name": "Dalila Jakupovic / Nika Radisic - Carmen Corley / Ivana Corley",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "664226808",
+                "name": "Emily Appleton / Makoto Ninomiya - Anouk Koevermans / Suzan Lamens",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "832358194",
+                "name": "I-Hsuan Cho / Yi Tsen Cho - Freya Christie / Eden Silva",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "743086677",
+                "name": "Viktoria Hruncakova / Gabriela Knutson - Bara Irina Maria / Shymanovich Iryna ",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "756182590",
+                "name": "Warona Mdlulwa / Wozuko Mdlulwa - Monnet Carole / Tomova Viktoriya ",
+                "etid": 2,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "8529252",
+            "name": "CHALLENGER MEN - SINGLES NEW DELHI (INDIA)",
+            "children": [
+              {
+                "gmid": "883153094",
+                "name": "A Gray v Hy Chung",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "547702072",
+                "name": "Bar Biryukov v Digvija Singh",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "637061488",
+                "name": "Binda v Yevseyev",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "549024807",
+                "name": "Fe Cina v Io Xilas",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "786881200",
+                "name": "Fede Gomez v Fe Gill",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "704067306",
+                "name": "Ferreira Silva v Re Sakamoto",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "485234003",
+                "name": "Jorda Sanchis v Nagal",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "764536612",
+                "name": "Ma Dhamne v Ri Noguchi",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "865106029",
+                "name": "Ma Kasnikowski v Clarke",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "660511458",
+                "name": "Phi Sekulic v Kuzmanov",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "796266694",
+                "name": "S Sakellaridis v Man Sureshkumar",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "805350149",
+                "name": "San  Sin v Ivashka",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "711493552",
+                "name": "Sweeny v Zhukayev",
+                "etid": 2,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "7696472",
+            "name": "ATP - DOUBLES Doha (Qatar)",
+            "children": [
+              {
+                "gmid": "665358496",
+                "name": "Alexei Popyrin / Stefanos Tsitsipas - Victor Cornea / Szymon Walkow",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "586861720",
+                "name": "Francisco Cabral / Lucas Miedler - Sander Arends / Romain Arneodo",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "687314118",
+                "name": "Petr Nouza / Patrik Rikl - Marcelo Arevalo / Mate Pavic",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "463048192",
+                "name": "Reda Bennani / Pablo Carreno Busta - Quentin Halys / Pierre-Hugues Herbert",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "724336788",
+                "name": "Simone Bolelli / Andrea Vavassori - Adam Pavlasek / John-Patrick Smith",
+                "etid": 2,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "4661275",
+            "name": "ATP - DOUBLES Rio de Janeiro (Brazil)",
+            "children": [
+              {
+                "gmid": "903186493",
+                "name": "Jean-Julien Rojer / Gonzalo Escobar - Maximo Gonzalez / Andres Molteni",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "907777351",
+                "name": "Sander Gille / Sem Verbeek - Alves Felipe Meligeni / Marcelo Zormann",
+                "etid": 2,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "4726244",
+            "name": "CHALLENGER MEN - DOUBLES Lille (France)",
+            "children": [
+              {
+                "gmid": "466297782",
+                "name": "Blake Bayldon / Karol Drzewiecki - Mircea Alexandru Jecan / Mick Veldheer",
+                "etid": 2,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5697068",
+            "name": "CHALLENGER MEN - DOUBLES New Delhi (India)",
+            "children": [
+              {
+                "gmid": "701213467",
+                "name": "Tsung-Hao Huang / Uisung Park - Petr Bar Biryukov / Alexandr Binda",
+                "etid": 2,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "6167036",
+            "name": "ATP DELRAY BEACH OPEN 2026",
+            "children": [
+              {
+                "gmid": "639302864",
+                "name": "ATP DELRAY BEACH OPEN 2026 - WINNER",
+                "etid": 2,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "9174988",
+            "name": "UTR PRO TENNIS SERIES  KAWAGUCHI WOMEN",
+            "children": [
+              {
+                "gmid": "685446674",
+                "name": "Kanna Soeda - Yui Ohwaki",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "588310922",
+                "name": "Sera Nishimoto - Miyu Kato",
+                "etid": 2,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "8094618",
+            "name": "ITF WOMEN - SINGLES W100 Bangalore (India)",
+            "children": [
+              {
+                "gmid": "621394799",
+                "name": "Dayeon Back - Sahaja Yamalapalli",
+                "etid": 2,
+                "iscc": 0
+              },
+              {
+                "gmid": "789562142",
+                "name": "Nicole Fossa Huergo - Erika Andreeva",
+                "etid": 2,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "9007613",
+            "name": "Testing",
+            "children": [
+              {
+                "gmid": "466097106",
+                "name": "Test 1 v Test 2",
+                "etid": 2,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "8065027",
+            "name": "ATP DOHA OPEN 2026",
+            "children": [
+              {
+                "gmid": "834161536",
+                "name": "ATP DOHA OPEN 2026 - WINNER",
+                "etid": 2,
+                "iscc": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "etid": 8,
+        "name": "Table Tennis",
+        "oid": 7,
+        "children": [
+          {
+            "cid": "6989534",
+            "name": "CZECH Liga Pro",
+            "children": [
+              {
+                "gmid": "533193154",
+                "name": "Adam Brazda - Milan Klement",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "918150681",
+                "name": "Ales Barton - Jakub Vales",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "527828497",
+                "name": "Ales Barton - Jiri Ruzicka",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "555220972",
+                "name": "Ales Bayer - Vinter, Tomas",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "906734168",
+                "name": "Alexander Hejduk - Ludek Madle",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "479857298",
+                "name": "Alexander Hejduk - Tomas Kucera",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "678374582",
+                "name": "Dan Volhejn - Martin Huk",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "872963039",
+                "name": "Dan Volhejn - Matous Klimenta",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "611591730",
+                "name": "Daniel Tyn - Filip Zurek",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "766355604",
+                "name": "Daniel Tyn - Zbynek Zientek",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "604306237",
+                "name": "Daniel Unzeitig - Jaroslav Neuwirth Sr.",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "865387013",
+                "name": "Denis Hofman - Radim Urbaniec",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "904266634",
+                "name": "Denis Hofman - Sebastian Kasnik",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "721779911",
+                "name": "Filip Zurek - Ivan Kolenciak",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "751141912",
+                "name": "Filip Zurek - Zbynek Zientek",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "858555929",
+                "name": "Frantisek Laburda - Daniel Unzeitig",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "484596303",
+                "name": "Frantisek Laburda - Zdenek Babinec",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "515057760",
+                "name": "Ivan Kolenciak - Daniel Tyn",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "814138426",
+                "name": "Ivo Taichman - Milan Jasek",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "895791545",
+                "name": "Ivo Taichman - Petr Osvald",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "742215349",
+                "name": "Jakub Hradecky - Simon Kadavy",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "864681577",
+                "name": "Jakub Hradecky - Sychra Martin",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "586987833",
+                "name": "Jakub Pilch - Martin Skotnica",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "838167582",
+                "name": "Jakub Vales - Jiri Ruzicka",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "578192630",
+                "name": "Jan Dzida - Martin Biolek",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "482071554",
+                "name": "Jan Dzida - Pokorny Adam",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "820969759",
+                "name": "Jan Szotkowski - Jan Dzida",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "483528221",
+                "name": "Jan Varcl Junior - Kyryl Darin",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "502330247",
+                "name": "Jaroslav Neuwirth Sr. - Zdenek Babinec",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "730596202",
+                "name": "Jaroslav Strnad 1964 - Pavel Kulhanek",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "724317315",
+                "name": "Jiri Grohsgott - Jaroslav Strnad 1964",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "560973279",
+                "name": "Jiri Grohsgott - Pavel Kulhanek",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "714358899",
+                "name": "Jiri Havel - Mihail Trinta",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "648218038",
+                "name": "Jiri Havel - Tomas Regner",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "642214117",
+                "name": "Jiri Ruzicka - Michal Vavrecka",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "842110225",
+                "name": "Jiri Stach - Martin Jaksa",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "836085484",
+                "name": "Jiri Svec - Alexander Hejduk",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "489486170",
+                "name": "Karel Kapras - Simon Kadavy",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "834356337",
+                "name": "Karel Kapras - Vinter, Tomas",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "866968308",
+                "name": "Kyryl Darin - Martin Stefek",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "759663927",
+                "name": "Kyryl Darin - Rostislav Hasmanda",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "538290211",
+                "name": "Ludek Madle - Jiri Svec",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "555358480",
+                "name": "Ludek Madle - Tomas Kucera",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "605278164",
+                "name": "Lukas Velebil - Michal Cabis",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "604498182",
+                "name": "Martin Biolek - Jan Szotkowski",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "808112444",
+                "name": "Martin Huk - Matous Klimenta",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "881864886",
+                "name": "Martin Huk - Ondrej Cmerda",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "836998742",
+                "name": "Martin Jaksa - Radomir Vidlicka",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "836436237",
+                "name": "Martin Jaksa - Roman Guliak",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "657406541",
+                "name": "Martin Skotnica - Michal Hrabec",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "861960879",
+                "name": "Martin Skotnica - Tadeas Zika",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "740779796",
+                "name": "Martin Sobisek - Jakub Hradecky",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "762098691",
+                "name": "Martin Sobisek - Michal Vondrak",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "525281043",
+                "name": "Martin Sobisek - Viktor Vejvoda",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "882299992",
+                "name": "Martin Stefek - Jan Varcl Junior",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "820557066",
+                "name": "Matous Klimenta - Ondrej Cmerda",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "494109359",
+                "name": "Matyas Navedla - Lukas Velebil",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "876759342",
+                "name": "Matyas Navedla - Michal Cabis",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "859117999",
+                "name": "Michal Cabis - Michal Wollny",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "761139022",
+                "name": "Michal Hrabec - Jakub Pilch",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "880198654",
+                "name": "Michal Hrabec - Tadeas Zika",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "735441417",
+                "name": "Michal Regner - Ales Bayer",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "567290483",
+                "name": "Michal Regner - Michal Vondrak",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "703427704",
+                "name": "Michal Sedlacek - Ondrej Paril",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "702397460",
+                "name": "Michal Sedlacek - Tadeas Zika",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "693760459",
+                "name": "Michal Vavrecka - Ales Barton",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "469891582",
+                "name": "Michal Vavrecka - Jakub Vales",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "810345330",
+                "name": "Michal Vondrak - Ales Bayer",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "914770879",
+                "name": "Michal Vondrak - Sychra Martin",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "778829735",
+                "name": "Michal Wollny - Lukas Velebil",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "462637191",
+                "name": "Michal Wollny - Matyas Navedla",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "617165814",
+                "name": "Mihail Trinta - Milan Longin",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "912964254",
+                "name": "Mihail Trinta - Tomas Regner",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "596545802",
+                "name": "Milan Jasek - Petr Osvald",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "529808125",
+                "name": "Milan Jasek - Roman Guliak",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "764972767",
+                "name": "Milan Klement - Robin Pacha",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "539402387",
+                "name": "Milan Klement - Sebastian Kasnik",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "922296855",
+                "name": "Milan Longin - Jiri Havel",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "782380751",
+                "name": "Ondrej Cmerda - Dan Volhejn",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "819204338",
+                "name": "Ondrej Paril - Radovan Polasek",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "597702735",
+                "name": "Pavel Kulhanek - Vaclav Hruska snr",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "562971455",
+                "name": "Petr Osvald - Roman Guliak",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "825436045",
+                "name": "Petr Saleny - Denis Hofman",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "618936126",
+                "name": "Pokorny Adam - Jan Szotkowski",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "886423737",
+                "name": "Pokorny Adam - Martin Biolek",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "588671226",
+                "name": "Radim Urbaniec - Petr Saleny",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "462189929",
+                "name": "Radim Urbaniec - Sebastian Kasnik",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "616691703",
+                "name": "Radomir Vidlicka - Jiri Stach",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "782016907",
+                "name": "Radomir Vidlicka - Roman Guliak",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "918080334",
+                "name": "Radovan Polasek - Michal Sedlacek",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "473450012",
+                "name": "Robin Pacha - Adam Brazda",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "618220137",
+                "name": "Robin Pacha - Sebastian Kasnik",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "542675355",
+                "name": "Roman Guliak - Ivo Taichman",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "671452150",
+                "name": "Roman Guliak - Jiri Stach",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "921253733",
+                "name": "Rostislav Hasmanda - Jan Varcl Junior",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "899603553",
+                "name": "Rostislav Hasmanda - Martin Stefek",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "545890895",
+                "name": "Sebastian Kasnik - Adam Brazda",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "856006904",
+                "name": "Sebastian Kasnik - Petr Saleny",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "849036077",
+                "name": "Simon Kadavy - Martin Sobisek",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "636145053",
+                "name": "Simon Kadavy - Sychra Martin",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "755308483",
+                "name": "Simon Kadavy - Viktor Vejvoda",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "783183678",
+                "name": "Sychra Martin - Martin Sobisek",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "770437079",
+                "name": "Sychra Martin - Martin Sobisek",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "660259551",
+                "name": "Sychra Martin - Viktor Vejvoda",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "537682150",
+                "name": "Tadeas Zika - Jakub Pilch",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "824488874",
+                "name": "Tadeas Zika - Ondrej Paril",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "477848116",
+                "name": "Tadeas Zika - Radovan Polasek",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "478148022",
+                "name": "Tomas Kucera - Jiri Svec",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "766601729",
+                "name": "Tomas Regner - Milan Longin",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "744024194",
+                "name": "Vaclav Hruska snr - Jiri Grohsgott",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "609739673",
+                "name": "Viktor Vejvoda - Karel Kapras",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "839541303",
+                "name": "Viktor Vejvoda - Michal Vondrak",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "800868708",
+                "name": "Viktor Vejvoda - Vinter, Tomas",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "819195816",
+                "name": "Vinter, Tomas - Michal Regner",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "487366971",
+                "name": "Vinter, Tomas - Michal Vondrak",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "581248381",
+                "name": "Vinter, Tomas - Simon Kadavy",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "567327483",
+                "name": "Zbynek Zientek - Ivan Kolenciak",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "473550800",
+                "name": "Zdenek Babinec - Daniel Unzeitig",
+                "etid": 8,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "8776802",
+            "name": "MEN Setka Cup (World)",
+            "children": [
+              {
+                "gmid": "488668714",
+                "name": "Anatolii Nazarov - Andrii Derevianko",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "577146432",
+                "name": "Andrii Derevianko - Vadim Ishhuk",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "786882236",
+                "name": "Andrii Troian - Yuriy Volkov",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "578931967",
+                "name": "Anton Molochko - Dmitry Zenyuk",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "584708075",
+                "name": "Anton Molochko - Vasil Verbianyi",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "916194671",
+                "name": "Anton Shypilov - Denys Scherbak",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "864855255",
+                "name": "Anton Shypilov - Ruslan Lazebny",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "481729702",
+                "name": "Anton Tur - Oleksandr Zhurba",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "762978441",
+                "name": "Denys Maltsev - Oleksii Gazhula",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "833439616",
+                "name": "Dmitry Zenyuk - Bohdan Kohut",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "543939612",
+                "name": "Dmytro Kryshtal - Vadym Komar",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "577429878",
+                "name": "Dmytro Neborak - Anton Tur",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "814144853",
+                "name": "Dmytro Neborak - Oleksandr Zhurba",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "870397975",
+                "name": "Dmytro Prylepa - Artem Kasyanov",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "764379912",
+                "name": "Dmytro Prylepa - Maksym Hubenko",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "485834779",
+                "name": "Dmytro Prylepa - Roman Tveritinov",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "502849952",
+                "name": "Dmytro Prylepa - Serhii Chuhai",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "527468422",
+                "name": "Filip Husek - Adam Dvoracek",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "540254138",
+                "name": "Filip Husek - Marian Melisek",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "806357405",
+                "name": "Filip Kubos - Adam Dvoracek",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "640562930",
+                "name": "Filip Kubos - Filip Husek",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "850319756",
+                "name": "Filip Kubos - Marian Melisek",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "531582294",
+                "name": "Hryban, Vadym - Bohdan Kohut",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "830989876",
+                "name": "Ivan Fashchevskiy - Denys Maltsev",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "468137715",
+                "name": "Ivan Fashchevskiy - Mykola Slozka",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "604863729",
+                "name": "Ivan Kozachuk - Nazar Kovalchuck",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "740157536",
+                "name": "Ivan Kozachuk - Oleh Bindas",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "556241733",
+                "name": "Ivan Pytsko - Denys Maltsev",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "854693621",
+                "name": "Ivan Pytsko - Yaroslav Tebenko",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "588823940",
+                "name": "Josef Chalupa - Volodymyr Burylov",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "461898090",
+                "name": "Leon Kolman - David Sabuka",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "781659278",
+                "name": "Leon Kolman - Vladimir Lopata",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "779170863",
+                "name": "Maksym Hubenko - Artem Kasyanov",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "558086383",
+                "name": "Maksym Hubenko - Roman Tveritinov",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "485734238",
+                "name": "Maksym Hubenko - Serhii Chuhai",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "531198897",
+                "name": "Marian Melisek - Adam Dvoracek",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "857767145",
+                "name": "Mykola Slozka - Denys Maltsev",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "616554928",
+                "name": "Mykyta Fomin - Vitalii Kaganovych",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "814972512",
+                "name": "Mykyta Smyrnov - Oleksii Metla",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "767873399",
+                "name": "Mykyta Smyrnov - Serhii Kalenyk",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "634467629",
+                "name": "Mykyta Zavada - Dmytro Neborak",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "766925012",
+                "name": "Mykyta Zavada - Oleksandr Shkurupii",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "811731954",
+                "name": "Nazar Danilyuk - Bohdan Kohut",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "509167240",
+                "name": "Nazar Danilyuk - Dmitry Zenyuk",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "609695227",
+                "name": "Nazar Danilyuk - Hryban, Vadym",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "889199387",
+                "name": "Nazar Danilyuk - Vasil Verbianyi",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "614516824",
+                "name": "Oleg Volynets - Andrii Troian",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "582066210",
+                "name": "Oleg Volynets - Oleksandr Shyshman",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "610004233",
+                "name": "Oleg Volynets - Ruslan Sopivnik",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "637722531",
+                "name": "Oleg Volynets - Valerii Kolesnykov",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "791845779",
+                "name": "Oleh Bindas - Serhii Rak",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "633522827",
+                "name": "Oleksandr Hoholev - Vihen Saakian",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "772030505",
+                "name": "Oleksandr Hoholev - Yurii Zvolinskyi",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "839833199",
+                "name": "Oleksandr Lipeiko - Bogdan Zaika",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "681299779",
+                "name": "Oleksandr Maslov - Andrii Homylko",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "694534906",
+                "name": "Oleksandr Maslov - Mykola Polysynskyi",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "789618224",
+                "name": "Oleksandr Melashenko - Andrii Homylko",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "640720325",
+                "name": "Oleksandr Shkurupii - Anton Tur",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "726004060",
+                "name": "Oleksandr Shkurupii - Dmytro Neborak",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "867315868",
+                "name": "Oleksandr Shkurupii - Nazar Petukh",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "567709890",
+                "name": "Oleksandr Shyshman - Andrii Troian",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "669620350",
+                "name": "Oleksandr Shyshman - Yuriy Volkov",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "632494301",
+                "name": "Oleksii Metla - Anton Shypilov",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "834324140",
+                "name": "Oleksii Metla - Ruslan Lazebny",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "918452940",
+                "name": "Oleksii Metla - Serhii Kalenyk",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "919576508",
+                "name": "Ondrej Chadima - David Sabuka",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "481487871",
+                "name": "Ondrej Chadima - Leon Kolman",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "854189744",
+                "name": "Ondrej Chadima - Vladimir Lopata",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "781363646",
+                "name": "Petr Orlowski - Leon Kolman",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "897876348",
+                "name": "Petr Provaznik - Leon Kolman",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "496225656",
+                "name": "Petr Provaznik - Petr Orlowski",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "604097819",
+                "name": "Roman Horokh - Dmytro Kryshtal",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "821387596",
+                "name": "Roman Horokh - Sergey Ponomarenko",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "503662809",
+                "name": "Roman Horokh - Vadym Komar",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "796384851",
+                "name": "Roman Konkulovskyi - Sergey Maximiv",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "686075742",
+                "name": "Roman Tveritinov - Artem Kasyanov",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "888960079",
+                "name": "Roman Tveritinov - Serhii Chuhai",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "847773643",
+                "name": "Ruslan Lazebny - Denys Scherbak",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "896805261",
+                "name": "Ruslan Sopivnik - Andrii Troian",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "764863115",
+                "name": "Ruslan Sopivnik - Yuriy Volkov",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "492818863",
+                "name": "Samuel Koscelansky - Leon Kolman",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "514007387",
+                "name": "Samuel Koscelansky - Petr Orlowski",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "699260606",
+                "name": "Samuel Koscelansky - Petr Provaznik",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "703649294",
+                "name": "Serhii Chuhai - Artem Kasyanov",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "636294672",
+                "name": "Serhii Kalenyk - Anton Shypilov",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "574264353",
+                "name": "Serhii Kalenyk - Denys Scherbak",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "756151909",
+                "name": "Serhii Khandetskyi - Andrii Homylko",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "912286433",
+                "name": "Serhii Khandetskyi - Oleksandr Melashenko",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "531982217",
+                "name": "Sideltsev Segii - Simchuk Viacheslav",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "800207232",
+                "name": "Sideltsev Segii - Vihen Saakian",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "755974787",
+                "name": "Sideltsev Segii - Yurii Zvolinskyi",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "473042598",
+                "name": "Vadym Komar - Sergey Ponomarenko",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "674813512",
+                "name": "Valerii Kolesnykov - Ruslan Sopivnik",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "865434325",
+                "name": "Valerii Kolesnykov - Yuriy Volkov",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "602126246",
+                "name": "Vasil Verbianyi - Bohdan Kohut",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "831045265",
+                "name": "Vasil Verbianyi - Hryban, Vadym",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "822756012",
+                "name": "Vitalii Husiev - Volodymyr Hainiuk",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "646666004",
+                "name": "Vitalii Zharskyi - Andrey Regush",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "500290992",
+                "name": "Vitaliy Sydorenko - Mykyta Fomin",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "840576542",
+                "name": "Vitaliy Sydorenko - Vitalii Kaganovych",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "490440237",
+                "name": "Vladimir Lopata - David Sabuka",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "679773801",
+                "name": "Volodymyr Hainiuk - Mykyta Fomin",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "641435466",
+                "name": "Yaroslav Tebenko - Mykola Slozka",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "523112096",
+                "name": "Yaroslav Tebenko - Oleksii Gazhula",
+                "etid": 8,
+                "iscc": 0
+              },
+              {
+                "gmid": "672346327",
+                "name": "Yurii Zvolinskyi - Vihen Saakian",
+                "etid": 8,
+                "iscc": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "etid": 22,
+        "name": "Badminton",
+        "oid": 8,
+        "children": null
+      },
+      {
+        "etid": 68,
+        "name": "Esoccer",
+        "oid": 9,
+        "children": [
+          {
+            "cid": "8775292",
+            "name": "ESoccer GT Leagues (E)",
+            "children": [
+              {
+                "gmid": "718445125",
+                "name": "Bologna (fred) - Celta de Vigo (delpiero)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "794452644",
+                "name": "Bologna (fred) - Lille (hussein)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "508860771",
+                "name": "Celta de Vigo (delpiero) - Lille (hussein)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "770451057",
+                "name": "Galatasaray SK (snail) - Olympiakos Piraeus (leon)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "679020262",
+                "name": "Galatasaray SK (snail) - Sporting Clube De Portugal CP (habibi)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "576031534",
+                "name": "Galatasaray SK (snail) - Tottenham Hotspur Fc (jetli)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "647894039",
+                "name": "Galatasaray SK (snail) - Villarreal Cf (razvan)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "920478022",
+                "name": "Olympiakos Piraeus (leon) - Galatasaray SK (snail)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "730148167",
+                "name": "Olympiakos Piraeus (leon) - Sporting Clube De Portugal CP (habibi)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "485345554",
+                "name": "Olympiakos Piraeus (leon) - Villarreal Cf (razvan)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "543044199",
+                "name": "Sc Braga (sensei) - Lille (hussein)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "511091292",
+                "name": "Sc Braga (sensei) - VfB Stuttgart (kevin)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "563309745",
+                "name": "Sporting Clube De Portugal CP (habibi) - Olympiakos Piraeus (leon)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "558328785",
+                "name": "Sporting Clube De Portugal CP (habibi) - Villarreal Cf (razvan)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "688449276",
+                "name": "Tottenham Hotspur Fc (jetli) - Olympiakos Piraeus (leon)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "864325095",
+                "name": "Tottenham Hotspur Fc (jetli) - Sporting Clube De Portugal CP (habibi)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "703490325",
+                "name": "Tottenham Hotspur Fc (jetli) - Villarreal Cf (razvan)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "679504651",
+                "name": "VfB Stuttgart (kevin) - Celta de Vigo (delpiero)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "835650268",
+                "name": "Villarreal Cf (razvan) - Sporting Clube De Portugal CP (habibi)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "797903892",
+                "name": "Villarreal Cf (razvan) - Tottenham Hotspur Fc (jetli)",
+                "etid": 68,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "4815960",
+            "name": "E-Soccer Battle - 8 mins play",
+            "children": [
+              {
+                "gmid": "654549865",
+                "name": "Argentina (arcos) - England (uncle)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "575758523",
+                "name": "Argentina (arcos) - France (Bomb1to)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "730167228",
+                "name": "Argentina (arcos) - Germany (wboy)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "482954143",
+                "name": "England (uncle) - Argentina (arcos)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "801467301",
+                "name": "England (uncle) - France (Bomb1to)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "808148122",
+                "name": "England (uncle) - Germany (wboy)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "558699372",
+                "name": "England (uncle) - Spain (Laikingdast)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "492992003",
+                "name": "France (Bomb1to) - England (uncle)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "635870402",
+                "name": "France (Bomb1to) - Germany (wboy)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "526820217",
+                "name": "France (Bomb1to) - Spain (Laikingdast)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "716812949",
+                "name": "Germany (wboy) - Argentina (arcos)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "557609601",
+                "name": "Germany (wboy) - France (Bomb1to)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "865756685",
+                "name": "Germany (wboy) - Spain (Laikingdast)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "893680144",
+                "name": "Manchester City (nekishka) - Boca Juniors (gelennzz)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "738046198",
+                "name": "River Plate (aveaaaaa) - Boca Juniors (gelennzz)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "501429478",
+                "name": "River Plate (aveaaaaa) - Real Madrid (grellz)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "833636813",
+                "name": "Spain (Laikingdast) - Argentina (arcos)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "858069499",
+                "name": "Spain (Laikingdast) - England (uncle)",
+                "etid": 68,
+                "iscc": 0
+              },
+              {
+                "gmid": "536764353",
+                "name": "Spain (Laikingdast) - France (Bomb1to)",
+                "etid": 68,
+                "iscc": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "etid": 15,
+        "name": "Basketball",
+        "oid": 10,
+        "children": [
+          {
+            "cid": "7057514",
+            "name": "ITALY Italian Cup - QUARTER-FINALS",
+            "children": [
+              {
+                "gmid": "585465045",
+                "name": "Basket Brescia Leonessa - Apu Gsa Udine",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "8455630",
+            "name": "GERMANY BBL",
+            "children": [
+              {
+                "gmid": "918578807",
+                "name": "Alba Berlin - Hamburg",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "684761789",
+                "name": "Braunschweig - Wurzburg Baskets",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "580035314",
+                "name": "Ratiopharm Ulm - EWE Baskets Oldenburg",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "490521490",
+                "name": "Rostock Seawolves - Brose Bamberg",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "6526418",
+            "name": "SERBIA 2nd League",
+            "children": [
+              {
+                "gmid": "480323380",
+                "name": "Ibc - Nis",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5360896",
+            "name": "MEXICO CIBACOPA",
+            "children": [
+              {
+                "gmid": "805796981",
+                "name": "Astros de Jalisco - Angeles Cd Mexico",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "705356105",
+                "name": "Frayles de Guasave - Rayos de Hermosillo",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "7897807",
+            "name": "CZECH REPUBLIC NBL",
+            "children": [
+              {
+                "gmid": "655670730",
+                "name": "BK Opava - SLUNETA Usti nad Labem",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "656455992",
+                "name": "BLK Slavia Praha - BK GAPA Hradec Kralove",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "524210332",
+                "name": "JBC MMCITE Brno - NH Ostrava",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "483759398",
+                "name": "Olomoucko - USK Praha",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5137874",
+            "name": "GEORGIA  League U22",
+            "children": [
+              {
+                "gmid": "616863409",
+                "name": "Bc Wings U22 - Gurjaani Delta U22",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "855475937",
+                "name": "SBA Academy U22 - Swish U22",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "830687430",
+                "name": "TSU U22 - Rustavi U22",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "8256318",
+            "name": "FRANCE ELITE 2",
+            "children": [
+              {
+                "gmid": "643390230",
+                "name": "Elan Bearnais Pau-Lacq-Orthez - Nantes",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "727168377",
+                "name": "Vendee Challans Basket - Poitiers",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "7968735",
+            "name": "ITALY National U19 Division",
+            "children": [
+              {
+                "gmid": "617419427",
+                "name": "ASD College Borgomanero U19 - Vis 2008 Asd U19",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "797372927",
+                "name": "Varese U19 - Grantorino BK Draft U19",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5627589",
+            "name": "SOUTH KOREA KBL",
+            "children": [
+              {
+                "gmid": "628852791",
+                "name": "Daegu Korea Gas Corporation - Suwon KT Sonicboom",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "743211738",
+                "name": "Seoul Samsung Thunders - Seoul SK Knights",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "7185544",
+            "name": "NETHERLANDS DBL Cup - SEMI-FINALS",
+            "children": [
+              {
+                "gmid": "481839927",
+                "name": "Groningen GasTerra Flames - Heroes Den Bosch",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5051283",
+            "name": "ARGENTINA LIGA A",
+            "children": [
+              {
+                "gmid": "494062126",
+                "name": "Asociacion Deportiva Atenas - Union De Santa Fe",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "715298785",
+                "name": "CA Platense - Argentino de Junin",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "660770337",
+                "name": "Ferro Carril Oeste - Instituto de Cordoba",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5071176",
+            "name": "TUNISIA League",
+            "children": [
+              {
+                "gmid": "629205671",
+                "name": "Goulette ES - ES Rades",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "555319666",
+                "name": "Grombalia - Ansar",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "7490907",
+            "name": "AUSTRALIA WNBL WOMEN -SEMI-FINALS",
+            "children": [
+              {
+                "gmid": "639312744",
+                "name": "Bendigo Spirit W - Perth Lynx W",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "7036716",
+            "name": "FINLAND KORISLIIGA",
+            "children": [
+              {
+                "gmid": "495326818",
+                "name": "Bisons Loimaa - Lahti",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "582847292",
+                "name": "Helsinki Seagulls - Vilpas",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "835517109",
+                "name": "Tapiolan Honka - Kauhajoki Karhu Basket",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "4917853",
+            "name": "FRANCE  FRENCH CUP - QUARTER-FINALS",
+            "children": [
+              {
+                "gmid": "772514050",
+                "name": "Le Mans - Strasbourg",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "9114832",
+            "name": "ASIA WASL - Gulf League - QUARTER-FINALS",
+            "children": [
+              {
+                "gmid": "474291346",
+                "name": "Shabab Al Ahli Dubai - Al-Arabi Qatar",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "7350883",
+            "name": "TURKEY Turkish Cup - QUARTER-FINALS",
+            "children": [
+              {
+                "gmid": "639981614",
+                "name": "Bahcesehir Koleji - Anadolu Efes",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "905388813",
+                "name": "Tofas - Besiktas",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "588087905",
+                "name": "Turk Telekom Basketball - Trabzonspor MP",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5353827",
+            "name": "ALGERIA Super Divison",
+            "children": [
+              {
+                "gmid": "763154493",
+                "name": "CS Tlemcen - TRA Draria",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "849426686",
+                "name": "MC Alger - Cr Beni Saf",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "526984033",
+                "name": "Setif - USM Blida",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5295958",
+            "name": "ICELAND Premier League Women",
+            "children": [
+              {
+                "gmid": "473625494",
+                "name": "Haukar W - UMFN Njardvik W",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "911543887",
+                "name": "Valur Reykjavik W - Stjarnan W",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "6321839",
+            "name": "ARGENTINA La Liga Proximo",
+            "children": [
+              {
+                "gmid": "617669117",
+                "name": "Asociacion Deportiva Atenas LDD - Union De Santa Fe LDD",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "4684957",
+            "name": "ARGENTINA La Liga",
+            "children": [
+              {
+                "gmid": "757499445",
+                "name": "Amancay de La Rioja - Comunicaciones Mercedes",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "532111254",
+                "name": "Club Villa Mitre de Bahia Blanca - Lanus",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "836054959",
+                "name": "Pergamino Basket - La Union Colon Entre Rios",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "576009516",
+                "name": "Santa Paula de Galvez - Villa San Martin",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "916185936",
+                "name": "Sportivo Suardi - Rivadavia de Mendoza",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "4859274",
+            "name": "SWEDEN BASKETLIGAN",
+            "children": [
+              {
+                "gmid": "685213310",
+                "name": "KFUM Nassjo - Norrkoping Dolphins",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "583554260",
+                "name": "Sodertalje Kings - Koping Stars",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "7758143",
+            "name": "Testing",
+            "children": [
+              {
+                "gmid": "690967463",
+                "name": "Test A v Test B",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "8186306",
+            "name": "BRAZIL NBB",
+            "children": [
+              {
+                "gmid": "656049779",
+                "name": "Minas TC - Brasilia UniCEUB",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "7645336",
+            "name": "SERBIA Championship U19",
+            "children": [
+              {
+                "gmid": "898086051",
+                "name": "Kk Borac Cacak U19 - Partizan Belgrad U19",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "8402417",
+            "name": "ISRAEL  Liga Leumit",
+            "children": [
+              {
+                "gmid": "609640319",
+                "name": "Hapoel Migdal Haemek - Eliztur Shomron",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "649315534",
+                "name": "Ms Safed - Maccabi Rehovot",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "8081681",
+            "name": "GREECE GREEK CUP - QUARTER-FINALS",
+            "children": [
+              {
+                "gmid": "507724885",
+                "name": "Iraklis - AO Mykonoy",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "727822891",
+                "name": "Maroussi - Aris Thesalonikis",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "7812175",
+            "name": "CROATIA Croatian Cup",
+            "children": [
+              {
+                "gmid": "673989137",
+                "name": "Cibona Vip - KK Skrljevo",
+                "etid": 15,
+                "iscc": 0
+              },
+              {
+                "gmid": "579764476",
+                "name": "Kk Dakovo - GKK Sibenka",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "6840147",
+            "name": "El SALVADOR Fesabal U21",
+            "children": [
+              {
+                "gmid": "465040529",
+                "name": "Santa Tecla Imdels M1 U21 - San Salvador U21",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5826779",
+            "name": "ISRAEL  SUPER LEAGUE",
+            "children": [
+              {
+                "gmid": "602416383",
+                "name": "Maccabi Rishon Lezion - Ironi Kiryat Ata",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5373317",
+            "name": "SWEDEN  Basketligan Women",
+            "children": [
+              {
+                "gmid": "534198421",
+                "name": "Sodertalje W - Lulea Basketball W",
+                "etid": 15,
+                "iscc": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "etid": 18,
+        "name": "Volleyball",
+        "oid": 11,
+        "children": [
+          {
+            "cid": "9107942",
+            "name": "EUROPE CHAMPIONS LEAGUE",
+            "children": [
+              {
+                "gmid": "764566304",
+                "name": "Aluron CMC Warta Zawiercie - SVG Luneburg",
+                "etid": 18,
+                "iscc": 0
+              },
+              {
+                "gmid": "904565753",
+                "name": "Berlin Recikling Volleys - Sir Safety Perugia",
+                "etid": 18,
+                "iscc": 0
+              },
+              {
+                "gmid": "760882805",
+                "name": "Cucine Lube BdM Civitanova - Projekt Warszawa",
+                "etid": 18,
+                "iscc": 0
+              },
+              {
+                "gmid": "767097351",
+                "name": "VK LVI Prague - Guaguas",
+                "etid": 18,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "8037456",
+            "name": "KAZAKHSTAN  National League Women",
+            "children": [
+              {
+                "gmid": "691781574",
+                "name": "Astana W - Turan Turkestan W",
+                "etid": 18,
+                "iscc": 0
+              },
+              {
+                "gmid": "588597861",
+                "name": "Kuanysh W - Berel Bko W",
+                "etid": 18,
+                "iscc": 0
+              },
+              {
+                "gmid": "546977810",
+                "name": "VC Almaty W - Alkhan Aktobe W",
+                "etid": 18,
+                "iscc": 0
+              },
+              {
+                "gmid": "845079209",
+                "name": "Zhetysu W - Karaganda W",
+                "etid": 18,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "7279430",
+            "name": "FINLAND Mestaruusliiga",
+            "children": [
+              {
+                "gmid": "800012163",
+                "name": "Ac Oulu Volley - VaLePa",
+                "etid": 18,
+                "iscc": 0
+              },
+              {
+                "gmid": "572717020",
+                "name": "Akaa - Savo",
+                "etid": 18,
+                "iscc": 0
+              },
+              {
+                "gmid": "481274215",
+                "name": "Loimu - KyKy-Betset",
+                "etid": 18,
+                "iscc": 0
+              },
+              {
+                "gmid": "613375600",
+                "name": "TUTO Volley - Kokkolan Tiikerit",
+                "etid": 18,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5896773",
+            "name": "EUROPE CEV CUP WOMEN",
+            "children": [
+              {
+                "gmid": "847952941",
+                "name": "CS Volei Alba Blaj W - Voluntari W",
+                "etid": 18,
+                "iscc": 0
+              },
+              {
+                "gmid": "859971574",
+                "name": "Dresdner SC W - ASPTT Mulhouse W",
+                "etid": 18,
+                "iscc": 0
+              },
+              {
+                "gmid": "846342911",
+                "name": "Mariannes 92 W - Galatasaray W",
+                "etid": 18,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "4929703",
+            "name": "ISRAEL  Premier League",
+            "children": [
+              {
+                "gmid": "887893376",
+                "name": "Hapoel Yoav Kfar Saba - Maccabi AOV Ashdod",
+                "etid": 18,
+                "iscc": 0
+              },
+              {
+                "gmid": "524306390",
+                "name": "MS Eilabun - Hapoel Kiryat Ata",
+                "etid": 18,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5399263",
+            "name": "TURKEY 1. Ligi",
+            "children": [
+              {
+                "gmid": "580584545",
+                "name": "1954 Adana Spor - Sungurlu Spor",
+                "etid": 18,
+                "iscc": 0
+              },
+              {
+                "gmid": "809563608",
+                "name": "Duzce Belediyesi - Karapinar Anadolu",
+                "etid": 18,
+                "iscc": 0
+              },
+              {
+                "gmid": "798733527",
+                "name": "Siran Akademi - Fenerbahce 2",
+                "etid": 18,
+                "iscc": 0
+              },
+              {
+                "gmid": "841384100",
+                "name": "TVF Spor Lisesi - Yucelen Anamur Spor",
+                "etid": 18,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "6430243",
+            "name": "QATAR  Volleyball League",
+            "children": [
+              {
+                "gmid": "636474294",
+                "name": "Al-Sadd - Al Shamal",
+                "etid": 18,
+                "iscc": 0
+              },
+              {
+                "gmid": "775697022",
+                "name": "Police Club - Qatar Sports",
+                "etid": 18,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5050236",
+            "name": "SERBIA Regional League U19 Women",
+            "children": [
+              {
+                "gmid": "587699865",
+                "name": "Leskovac 98 U19 W - Vranje W U19",
+                "etid": 18,
+                "iscc": 0
+              },
+              {
+                "gmid": "602481174",
+                "name": "Partizan U19 W - Tent U19 W",
+                "etid": 18,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "4913315",
+            "name": "SLOVENIA  1. DOL",
+            "children": [
+              {
+                "gmid": "497255473",
+                "name": "Triglav Kranj - Calcit Kamnik",
+                "etid": 18,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "7600711",
+            "name": "FAROE ISLANDS Premier League",
+            "children": [
+              {
+                "gmid": "708161045",
+                "name": "Fleyr - Sorvagur",
+                "etid": 18,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5830628",
+            "name": "ROMANIA  Divizia A1",
+            "children": [
+              {
+                "gmid": "695140517",
+                "name": "Stiinta Explorari Baia Mare - Rapid Bucharesti",
+                "etid": 18,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "6748292",
+            "name": "CYPRUS Opap Championship",
+            "children": [
+              {
+                "gmid": "668857357",
+                "name": "A.E. Karava - Anorthosis Famagusta",
+                "etid": 18,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "7964225",
+            "name": "KAZAKHSTAN Major League U21",
+            "children": [
+              {
+                "gmid": "780364649",
+                "name": "Zhajyk 2 U21 - Esil-sk-2 U21",
+                "etid": 18,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "9184377",
+            "name": "BELGIUM  Volley League Women",
+            "children": [
+              {
+                "gmid": "849021890",
+                "name": "VC Oudegem W - Gea Happel Amigos Zoersel W",
+                "etid": 18,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5609561",
+            "name": "EUROPE CHAMPIONS LEAGUE WOMEN - PLAY-OFFS",
+            "children": [
+              {
+                "gmid": "772074950",
+                "name": "Igor Gorgonzola Novara W - Savino Del Bene Scandicci W",
+                "etid": 18,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "6420993",
+            "name": "KAZAKHSTAN Vyschaya League Women",
+            "children": [
+              {
+                "gmid": "694809798",
+                "name": "Shymkent W - Atyrau W",
+                "etid": 18,
+                "iscc": 0
+              },
+              {
+                "gmid": "605251951",
+                "name": "Taraz W - Kaisar Kyzylorda W",
+                "etid": 18,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "7631416",
+            "name": "POLAND  I. Liga Women",
+            "children": [
+              {
+                "gmid": "476557602",
+                "name": "Legionowo W - PMKS Nike Wegrow W",
+                "etid": 18,
+                "iscc": 0
+              },
+              {
+                "gmid": "777513911",
+                "name": "Solna Welichka W - SMS Szczyrk W",
+                "etid": 18,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5561138",
+            "name": "PHILIPPINES PVL Women",
+            "children": [
+              {
+                "gmid": "617026491",
+                "name": "Choco Mucho W - Capital1 Solar Spikers W",
+                "etid": 18,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "7273886",
+            "name": "SOUTH KOREA Volleyball League Women",
+            "children": [
+              {
+                "gmid": "594284067",
+                "name": "Gimcheon Expressway Co Hi-Pass W - Incheon Heungkuk Pink Spiders W",
+                "etid": 18,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "8761844",
+            "name": "EUROPE Challenge Cup - QUARTER-FINALS",
+            "children": [
+              {
+                "gmid": "672033595",
+                "name": "Slovan Bratislava - Maccabi Tel Aviv",
+                "etid": 18,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "8999648",
+            "name": "EUROPE Challenge Cup Women - SEMI-FINALS",
+            "children": [
+              {
+                "gmid": "812765789",
+                "name": "Panathinaikos W - Gs Panionios W",
+                "etid": 18,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "7477245",
+            "name": "TURKEY 1. Ligi Women",
+            "children": [
+              {
+                "gmid": "745528746",
+                "name": "Manavgat Belediyespor W - Zeren Spor-2 W",
+                "etid": 18,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "8152991",
+            "name": "AZERBAIJAN SuperLeague",
+            "children": [
+              {
+                "gmid": "490952346",
+                "name": "Murov - Gencler",
+                "etid": 18,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "6571241",
+            "name": "EUROPE Baltic League - QUARTER-FINALS",
+            "children": [
+              {
+                "gmid": "561996639",
+                "name": "Ezerzeme Juniors - Bigbank Tartu",
+                "etid": 18,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "6979393",
+            "name": "SLOVAKIA 1 Liga",
+            "children": [
+              {
+                "gmid": "578013809",
+                "name": "Tatran Banska Bystrica - SSS Trencin-Project RD SVF",
+                "etid": 18,
+                "iscc": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "etid": 59,
+        "name": "Snooker",
+        "oid": 12,
+        "children": [
+          {
+            "cid": "8326537",
+            "name": "WORLD PLAYERS CHAMPIONSHIP",
+            "children": [
+              {
+                "gmid": "730769474",
+                "name": "Chris Wakelin - Xiao Guodong",
+                "etid": 59,
+                "iscc": 0
+              },
+              {
+                "gmid": "687355305",
+                "name": "Judd Trump - Zhou Yuelong",
+                "etid": 59,
+                "iscc": 0
+              },
+              {
+                "gmid": "700292980",
+                "name": "Mark Selby - Jack Lisowski",
+                "etid": 59,
+                "iscc": 0
+              },
+              {
+                "gmid": "461170292",
+                "name": "Neil Robertson - John Higgins",
+                "etid": 59,
+                "iscc": 0
+              },
+              {
+                "gmid": "780452794",
+                "name": "Shaun Murphy - Zhang Anda",
+                "etid": 59,
+                "iscc": 0
+              },
+              {
+                "gmid": "555948120",
+                "name": "Yize Wu - Mark Allen",
+                "etid": 59,
+                "iscc": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "etid": 19,
+        "name": "Ice Hockey",
+        "oid": 13,
+        "children": null
+      },
+      {
+        "etid": 11,
+        "name": "E Games",
+        "oid": 14,
+        "children": [
+          {
+            "cid": "6411599",
+            "name": "LEAGUE OF LEGENDS LEC (Europe)",
+            "children": [
+              {
+                "gmid": "856125379",
+                "name": "Karmine Corp Gc - Giantx",
+                "etid": 11,
+                "iscc": 0
+              },
+              {
+                "gmid": "575871700",
+                "name": "Team Heretics - G2 Esports",
+                "etid": 11,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "4726400",
+            "name": "LEAGUE OF LEGENDS Prime League (Germany)",
+            "children": [
+              {
+                "gmid": "736680890",
+                "name": "Eintracht Spandau - Team Orange",
+                "etid": 11,
+                "iscc": 0
+              },
+              {
+                "gmid": "657611661",
+                "name": "G2 Nord - Rossmann Centaurs",
+                "etid": 11,
+                "iscc": 0
+              },
+              {
+                "gmid": "915996749",
+                "name": "kaufland hangry knights - Eintracht Spandau",
+                "etid": 11,
+                "iscc": 0
+              },
+              {
+                "gmid": "730392221",
+                "name": "Rossmann Centaurs - kaufland hangry knights",
+                "etid": 11,
+                "iscc": 0
+              },
+              {
+                "gmid": "590682632",
+                "name": "Team Orange - G2 Nord",
+                "etid": 11,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5216277",
+            "name": "LEAGUE OF LEGENDS LFL (France)",
+            "children": [
+              {
+                "gmid": "542744044",
+                "name": "BK ROG Esports - Galions",
+                "etid": 11,
+                "iscc": 0
+              },
+              {
+                "gmid": "602152702",
+                "name": "joblife - Lille Esport",
+                "etid": 11,
+                "iscc": 0
+              },
+              {
+                "gmid": "470063531",
+                "name": "Skillcamp - Zyb Esport",
+                "etid": 11,
+                "iscc": 0
+              },
+              {
+                "gmid": "483506412",
+                "name": "Solary - French Flair",
+                "etid": 11,
+                "iscc": 0
+              },
+              {
+                "gmid": "666927785",
+                "name": "Tln Pirates - Vitality.Bee",
+                "etid": 11,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "5906335",
+            "name": "LEAGUE OF LEGENDS - TCL (Turkey) -SEMI-FINALS",
+            "children": [
+              {
+                "gmid": "846824857",
+                "name": "Misa Esports - S2G Esports",
+                "etid": 11,
+                "iscc": 0
+              }
+            ]
+          },
+          {
+            "cid": "8211847",
+            "name": "LEAGUE OF LEGENDS - LCK (South Korea)",
+            "children": [
+              {
+                "gmid": "779166839",
+                "name": "Dn Soopers - DRX",
+                "etid": 11,
+                "iscc": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "etid": 9,
+        "name": "Futsal",
+        "oid": 15,
+        "children": null
+      },
+      {
+        "etid": 39,
+        "name": "Handball",
+        "oid": 16,
+        "children": null
+      },
+      {
+        "etid": 66,
+        "name": "Kabaddi",
+        "oid": 17,
+        "children": null
+      },
+      {
+        "etid": 5,
+        "name": "Golf",
+        "oid": 19,
+        "children": null
+      },
+      {
+        "etid": 55,
+        "name": "Rugby League",
+        "oid": 20,
+        "children": null
+      },
+      {
+        "etid": 6,
+        "name": "Boxing",
+        "oid": 21,
+        "children": null
+      },
+      {
+        "etid": 7,
+        "name": "Beach Volleyball",
+        "oid": 22,
+        "children": null
+      },
+      {
+        "etid": 3,
+        "name": "Mixed Martial Arts",
+        "oid": 23,
+        "children": null
+      },
+      {
+        "etid": 16,
+        "name": "MotoGP",
+        "oid": 26,
+        "children": null
+      },
+      {
+        "etid": 17,
+        "name": "Chess",
+        "oid": 27,
+        "children": null
+      },
+      {
+        "etid": 29,
+        "name": "Cycling",
+        "oid": 36,
+        "children": null
+      },
+      {
+        "etid": 32,
+        "name": "Motorbikes",
+        "oid": 39,
+        "children": null
+      },
+      {
+        "etid": 33,
+        "name": "Athletics",
+        "oid": 40,
+        "children": null
+      },
+      {
+        "etid": 35,
+        "name": "Basketball 3X3",
+        "oid": 42,
+        "children": null
+      },
+      {
+        "etid": 37,
+        "name": "Sumo",
+        "oid": 44,
+        "children": null
+      },
+      {
+        "etid": 38,
+        "name": "Virtual sports",
+        "oid": 45,
+        "children": null
+      },
+      {
+        "etid": 52,
+        "name": "Motor Sports",
+        "oid": 57,
+        "children": null
+      },
+      {
+        "etid": 53,
+        "name": "Baseball",
+        "oid": 58,
+        "children": null
+      },
+      {
+        "etid": 54,
+        "name": "Rugby Union",
+        "oid": 59,
+        "children": null
+      },
+      {
+        "etid": 57,
+        "name": "Darts",
+        "oid": 61,
+        "children": null
+      },
+      {
+        "etid": 58,
+        "name": "American Football",
+        "oid": 62,
+        "children": null
+      },
+      {
+        "etid": 62,
+        "name": "Soccer",
+        "oid": 65,
+        "children": null
+      },
+      {
+        "etid": 64,
+        "name": "Esports",
+        "oid": 67,
+        "children": null
+      },
+      {
+        "etid": 67,
+        "name": "Boat Racing",
+        "oid": 68,
+        "children": null
+      },
+      {
+        "etid": 69,
+        "name": "Wrestling",
+        "oid": 90,
+        "children": [
+          {
+            "cid": "8524813",
+            "name": "WWE Virtual",
+            "children": [
+              {
+                "gmid": "908211380",
+                "name": "Batista v Bobby Lashley",
+                "etid": 69,
+                "iscc": 2
+              },
+              {
+                "gmid": "525537540",
+                "name": "Drew Mcintyre v Sami Zayn",
+                "etid": 69,
+                "iscc": 2
+              },
+              {
+                "gmid": "803440945",
+                "name": "Kevin Owens v Aj Styles",
+                "etid": 69,
+                "iscc": 2
+              },
+              {
+                "gmid": "489156497",
+                "name": "Sami Zayn v Drew Mcintyre",
+                "etid": 69,
+                "iscc": 2
+              },
+              {
+                "gmid": "609630303",
+                "name": "Shinsuke Nakamura v Solo Sikoa",
+                "etid": 69,
+                "iscc": 2
+              },
+              {
+                "gmid": "513829422",
+                "name": "Triple H 08 v Cody Rhodes",
+                "etid": 69,
+                "iscc": 2
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "t2": [
+      {
+        "etid": 10,
+        "name": "Horse Racing",
+        "oid": 5,
+        "children": [
+          {
+            "gmid": "604718486",
+            "name": "Shepparton (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 01:02:00 PM"
+          },
+          {
+            "gmid": "465175517",
+            "name": "Young (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 01:10:00 PM"
+          },
+          {
+            "gmid": "751367777",
+            "name": "Mount Gambier (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 01:20:00 PM"
+          },
+          {
+            "gmid": "741954885",
+            "name": "Shepparton (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 01:30:00 PM"
+          },
+          {
+            "gmid": "643284217",
+            "name": "Young (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 01:40:00 PM"
+          },
+          {
+            "gmid": "800687262",
+            "name": "Gloucester Park (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 01:47:00 PM"
+          },
+          {
+            "gmid": "717843389",
+            "name": "Mount Gambier (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 01:54:00 PM"
+          },
+          {
+            "gmid": "847468785",
+            "name": "Shepparton (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 02:04:00 PM"
+          },
+          {
+            "gmid": "770121407",
+            "name": "Young (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 02:14:00 PM"
+          },
+          {
+            "gmid": "777852555",
+            "name": "Gloucester Park (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 02:21:00 PM"
+          },
+          {
+            "gmid": "856065533",
+            "name": "Mount Gambier (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 02:28:00 PM"
+          },
+          {
+            "gmid": "912787561",
+            "name": "Shepparton (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 02:38:00 PM"
+          },
+          {
+            "gmid": "682714264",
+            "name": "Young (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 02:48:00 PM"
+          },
+          {
+            "gmid": "484516061",
+            "name": "Gloucester Park (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 02:55:00 PM"
+          },
+          {
+            "gmid": "863524940",
+            "name": "Mount Gambier (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 03:02:00 PM"
+          },
+          {
+            "gmid": "703787775",
+            "name": "Shepparton (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 03:12:00 PM"
+          },
+          {
+            "gmid": "653020276",
+            "name": "Young (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 03:22:00 PM"
+          },
+          {
+            "gmid": "751465899",
+            "name": "Gloucester Park (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 03:29:00 PM"
+          },
+          {
+            "gmid": "852950109",
+            "name": "Mount Gambier (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 03:36:00 PM"
+          },
+          {
+            "gmid": "676009800",
+            "name": "Shepparton (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 03:46:00 PM"
+          },
+          {
+            "gmid": "682974907",
+            "name": "Young (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 03:56:00 PM"
+          },
+          {
+            "gmid": "668993495",
+            "name": "Gloucester Park (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 04:03:00 PM"
+          },
+          {
+            "gmid": "689341060",
+            "name": "Mount Gambier (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 04:10:00 PM"
+          },
+          {
+            "gmid": "679311743",
+            "name": "Shepparton (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 04:20:00 PM"
+          },
+          {
+            "gmid": "607764609",
+            "name": "Toulouse (FR)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 04:21:00 PM"
+          },
+          {
+            "gmid": "531332609",
+            "name": "Young (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 04:30:00 PM"
+          },
+          {
+            "gmid": "815952363",
+            "name": "Gloucester Park (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 04:37:00 PM"
+          },
+          {
+            "gmid": "796285092",
+            "name": "Toulouse (FR)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 04:53:00 PM"
+          },
+          {
+            "gmid": "856932270",
+            "name": "Shepparton (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 04:57:00 PM"
+          },
+          {
+            "gmid": "615007856",
+            "name": "Gloucester Park (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 05:07:00 PM"
+          },
+          {
+            "gmid": "580013292",
+            "name": "Toulouse (FR)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 05:25:00 PM"
+          },
+          {
+            "gmid": "562775374",
+            "name": "Gloucester Park (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 05:35:00 PM"
+          },
+          {
+            "gmid": "808778831",
+            "name": "Toulouse (FR)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 05:57:00 PM"
+          },
+          {
+            "gmid": "780682855",
+            "name": "Gloucester Park (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 06:07:00 PM"
+          },
+          {
+            "gmid": "759980885",
+            "name": "Gloucester Park (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 06:37:00 PM"
+          },
+          {
+            "gmid": "868828373",
+            "name": "Toulouse (FR)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 06:42:00 PM"
+          },
+          {
+            "gmid": "920849974",
+            "name": "Market Rasen (GB)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 07:00:00 PM"
+          },
+          {
+            "gmid": "864817034",
+            "name": "Gloucester Park (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 07:05:00 PM"
+          },
+          {
+            "gmid": "666412691",
+            "name": "Toulouse (FR)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 07:17:00 PM"
+          },
+          {
+            "gmid": "597118045",
+            "name": "Market Rasen (GB)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 07:30:00 PM"
+          },
+          {
+            "gmid": "674527060",
+            "name": "Newbury (GB)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 07:45:00 PM"
+          },
+          {
+            "gmid": "593987580",
+            "name": "Toulouse (FR)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 07:52:00 PM"
+          },
+          {
+            "gmid": "684463241",
+            "name": "Market Rasen (GB)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 08:00:00 PM"
+          },
+          {
+            "gmid": "654890113",
+            "name": "Newbury (GB)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 08:15:00 PM"
+          },
+          {
+            "gmid": "569867766",
+            "name": "Toulouse (FR)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 08:27:00 PM"
+          },
+          {
+            "gmid": "794122466",
+            "name": "Market Rasen (GB)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 08:32:00 PM"
+          },
+          {
+            "gmid": "813745194",
+            "name": "Newbury (GB)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 08:50:00 PM"
+          },
+          {
+            "gmid": "677706455",
+            "name": "Market Rasen (GB)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 09:07:00 PM"
+          },
+          {
+            "gmid": "881236750",
+            "name": "Newbury (GB)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 09:25:00 PM"
+          },
+          {
+            "gmid": "854880078",
+            "name": "Market Rasen (GB)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 09:42:00 PM"
+          },
+          {
+            "gmid": "781076432",
+            "name": "Wolverhampton (GB)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 09:52:00 PM"
+          },
+          {
+            "gmid": "578168955",
+            "name": "Newbury (GB)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 10:00:00 PM"
+          },
+          {
+            "gmid": "726327805",
+            "name": "Market Rasen (GB)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 10:17:00 PM"
+          },
+          {
+            "gmid": "617640674",
+            "name": "Wolverhampton (GB)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 10:27:00 PM"
+          },
+          {
+            "gmid": "534886529",
+            "name": "Newbury (GB)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 10:35:00 PM"
+          },
+          {
+            "gmid": "744776757",
+            "name": "Wolverhampton (GB)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 11:00:00 PM"
+          },
+          {
+            "gmid": "624154462",
+            "name": "Wolverhampton (GB)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 11:30:00 PM"
+          },
+          {
+            "gmid": "488523480",
+            "name": "Shepparton (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 12:35:00 PM"
+          },
+          {
+            "gmid": "734411608",
+            "name": "Young (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 12:41:00 PM"
+          },
+          {
+            "gmid": "652076109",
+            "name": "Albion Park (AU)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 12:54:00 PM"
+          },
+          {
+            "gmid": "501131459",
+            "name": "Wolverhampton (GB)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 01:00:00 AM"
+          },
+          {
+            "gmid": "759159079",
+            "name": "Wolverhampton (GB)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 01:30:00 AM"
+          },
+          {
+            "gmid": "498573126",
+            "name": "Wolverhampton (GB)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 02:00:00 AM"
+          },
+          {
+            "gmid": "556495071",
+            "name": "Wolverhampton (GB)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 12:00:00 AM"
+          },
+          {
+            "gmid": "636558676",
+            "name": "Wolverhampton (GB)",
+            "etid": 10,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 12:30:00 AM"
+          }
+        ]
+      },
+      {
+        "etid": 65,
+        "name": "Greyhound Racing",
+        "oid": 6,
+        "children": [
+          {
+            "gmid": "482596944",
+            "name": "Geelong (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 01:05:00 PM"
+          },
+          {
+            "gmid": "862036223",
+            "name": "Q1 Lakeside (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 01:08:00 PM"
+          },
+          {
+            "gmid": "608254056",
+            "name": "Warragul (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 01:15:00 PM"
+          },
+          {
+            "gmid": "670389224",
+            "name": "Grafton (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 01:18:00 PM"
+          },
+          {
+            "gmid": "675186491",
+            "name": "Q1 Lakeside (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 01:22:00 PM"
+          },
+          {
+            "gmid": "670057816",
+            "name": "Geelong (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 01:25:00 PM"
+          },
+          {
+            "gmid": "724224997",
+            "name": "Gosford (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 01:28:00 PM"
+          },
+          {
+            "gmid": "870959832",
+            "name": "Warragul (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 01:35:00 PM"
+          },
+          {
+            "gmid": "790719548",
+            "name": "Grafton (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 01:38:00 PM"
+          },
+          {
+            "gmid": "881193144",
+            "name": "Geelong (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 01:45:00 PM"
+          },
+          {
+            "gmid": "696376137",
+            "name": "Gosford (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 01:52:00 PM"
+          },
+          {
+            "gmid": "522769988",
+            "name": "Warragul (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 01:59:00 PM"
+          },
+          {
+            "gmid": "774244724",
+            "name": "Grafton (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 02:02:00 PM"
+          },
+          {
+            "gmid": "523949787",
+            "name": "Townsville (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 02:09:00 PM"
+          },
+          {
+            "gmid": "780739437",
+            "name": "Gosford (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 02:12:00 PM"
+          },
+          {
+            "gmid": "753372738",
+            "name": "Warragul (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 02:19:00 PM"
+          },
+          {
+            "gmid": "569822469",
+            "name": "Grafton (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 02:26:00 PM"
+          },
+          {
+            "gmid": "731844768",
+            "name": "Townsville (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 02:33:00 PM"
+          },
+          {
+            "gmid": "782431905",
+            "name": "Gosford (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 02:36:00 PM"
+          },
+          {
+            "gmid": "571323833",
+            "name": "Warragul (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 02:43:00 PM"
+          },
+          {
+            "gmid": "899247928",
+            "name": "Grafton (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 02:46:00 PM"
+          },
+          {
+            "gmid": "688533598",
+            "name": "Townsville (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 02:53:00 PM"
+          },
+          {
+            "gmid": "491579643",
+            "name": "Gosford (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 03:00:00 PM"
+          },
+          {
+            "gmid": "860555477",
+            "name": "Warragul (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 03:07:00 PM"
+          },
+          {
+            "gmid": "918119319",
+            "name": "Grafton (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 03:10:00 PM"
+          },
+          {
+            "gmid": "638728939",
+            "name": "Townsville (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 03:17:00 PM"
+          },
+          {
+            "gmid": "813540531",
+            "name": "Gosford (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 03:20:00 PM"
+          },
+          {
+            "gmid": "815006096",
+            "name": "Warragul (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 03:27:00 PM"
+          },
+          {
+            "gmid": "576275346",
+            "name": "Mandurah (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 03:31:00 PM"
+          },
+          {
+            "gmid": "683024378",
+            "name": "Grafton (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 03:34:00 PM"
+          },
+          {
+            "gmid": "780811916",
+            "name": "Townsville (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 03:41:00 PM"
+          },
+          {
+            "gmid": "849339221",
+            "name": "Gosford (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 03:44:00 PM"
+          },
+          {
+            "gmid": "875531478",
+            "name": "Mandurah (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 03:48:00 PM"
+          },
+          {
+            "gmid": "721376431",
+            "name": "Warragul (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 03:51:00 PM"
+          },
+          {
+            "gmid": "526194768",
+            "name": "Grafton (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 03:54:00 PM"
+          },
+          {
+            "gmid": "871169072",
+            "name": "Townsville (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 04:01:00 PM"
+          },
+          {
+            "gmid": "793795545",
+            "name": "Gosford (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 04:08:00 PM"
+          },
+          {
+            "gmid": "879523586",
+            "name": "Mandurah (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 04:12:00 PM"
+          },
+          {
+            "gmid": "705123006",
+            "name": "Warragul (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 04:15:00 PM"
+          },
+          {
+            "gmid": "864858164",
+            "name": "Grafton (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 04:18:00 PM"
+          },
+          {
+            "gmid": "599950993",
+            "name": "Townsville (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 04:25:00 PM"
+          },
+          {
+            "gmid": "825673992",
+            "name": "Gosford (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 04:28:00 PM"
+          },
+          {
+            "gmid": "704625509",
+            "name": "Sheffield (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 04:31:00 PM"
+          },
+          {
+            "gmid": "799061742",
+            "name": "Mandurah (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 04:32:00 PM"
+          },
+          {
+            "gmid": "908278905",
+            "name": "Warragul (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 04:35:00 PM"
+          },
+          {
+            "gmid": "770466843",
+            "name": "Newcastle (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 04:39:00 PM"
+          },
+          {
+            "gmid": "692149351",
+            "name": "Grafton (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 04:42:00 PM"
+          },
+          {
+            "gmid": "730951969",
+            "name": "Townsville (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 04:45:00 PM"
+          },
+          {
+            "gmid": "472678662",
+            "name": "Mandurah (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 04:48:00 PM"
+          },
+          {
+            "gmid": "580754873",
+            "name": "Sheffield (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 04:48:00 PM"
+          },
+          {
+            "gmid": "845908638",
+            "name": "Gosford (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 04:51:00 PM"
+          },
+          {
+            "gmid": "672569975",
+            "name": "Warragul (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 04:54:00 PM"
+          },
+          {
+            "gmid": "884467106",
+            "name": "Newcastle (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 04:57:00 PM"
+          },
+          {
+            "gmid": "634862923",
+            "name": "Sheffield (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 05:04:00 PM"
+          },
+          {
+            "gmid": "894096236",
+            "name": "Townsville (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 05:05:00 PM"
+          },
+          {
+            "gmid": "594193735",
+            "name": "Mandurah (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 05:10:00 PM"
+          },
+          {
+            "gmid": "513689835",
+            "name": "Newcastle (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 05:13:00 PM"
+          },
+          {
+            "gmid": "668191991",
+            "name": "Gosford (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 05:13:00 PM"
+          },
+          {
+            "gmid": "809822159",
+            "name": "Warragul (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 05:16:00 PM"
+          },
+          {
+            "gmid": "876502118",
+            "name": "Sheffield (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 05:22:00 PM"
+          },
+          {
+            "gmid": "646139135",
+            "name": "Townsville (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 05:25:00 PM"
+          },
+          {
+            "gmid": "709829649",
+            "name": "Mandurah (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 05:25:00 PM"
+          },
+          {
+            "gmid": "536457009",
+            "name": "Gosford (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 05:28:00 PM"
+          },
+          {
+            "gmid": "743028680",
+            "name": "Newcastle (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 05:31:00 PM"
+          },
+          {
+            "gmid": "781315304",
+            "name": "Sheffield (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 05:39:00 PM"
+          },
+          {
+            "gmid": "724751178",
+            "name": "Townsville (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 05:40:00 PM"
+          },
+          {
+            "gmid": "564051996",
+            "name": "Mandurah (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 05:42:00 PM"
+          },
+          {
+            "gmid": "852865710",
+            "name": "Newcastle (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 05:48:00 PM"
+          },
+          {
+            "gmid": "884393529",
+            "name": "Townsville (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 05:55:00 PM"
+          },
+          {
+            "gmid": "781645350",
+            "name": "Sheffield (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 05:56:00 PM"
+          },
+          {
+            "gmid": "889604408",
+            "name": "Mandurah (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 05:57:00 PM"
+          },
+          {
+            "gmid": "536118870",
+            "name": "Newcastle (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 06:04:00 PM"
+          },
+          {
+            "gmid": "564714626",
+            "name": "Sheffield (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 06:12:00 PM"
+          },
+          {
+            "gmid": "773119466",
+            "name": "Mandurah (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 06:17:00 PM"
+          },
+          {
+            "gmid": "918737698",
+            "name": "Newcastle (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 06:21:00 PM"
+          },
+          {
+            "gmid": "732842619",
+            "name": "Sheffield (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 06:29:00 PM"
+          },
+          {
+            "gmid": "642945953",
+            "name": "Mandurah (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 06:35:00 PM"
+          },
+          {
+            "gmid": "905030289",
+            "name": "Newcastle (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 06:38:00 PM"
+          },
+          {
+            "gmid": "774361961",
+            "name": "Sheffield (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 06:47:00 PM"
+          },
+          {
+            "gmid": "495274908",
+            "name": "Mandurah (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 06:52:00 PM"
+          },
+          {
+            "gmid": "765254696",
+            "name": "Newcastle (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 06:56:00 PM"
+          },
+          {
+            "gmid": "732405164",
+            "name": "Sheffield (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 07:03:00 PM"
+          },
+          {
+            "gmid": "877556514",
+            "name": "Newcastle (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 07:12:00 PM"
+          },
+          {
+            "gmid": "544018357",
+            "name": "Sheffield (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 07:21:00 PM"
+          },
+          {
+            "gmid": "465740384",
+            "name": "Newcastle (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 07:29:00 PM"
+          },
+          {
+            "gmid": "745079004",
+            "name": "Sheffield (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 07:37:00 PM"
+          },
+          {
+            "gmid": "583259928",
+            "name": "Newcastle (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 07:44:00 PM"
+          },
+          {
+            "gmid": "634399756",
+            "name": "Romford (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 07:53:00 PM"
+          },
+          {
+            "gmid": "478628673",
+            "name": "Oxford (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 07:56:00 PM"
+          },
+          {
+            "gmid": "868276201",
+            "name": "Monmore (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 08:01:00 PM"
+          },
+          {
+            "gmid": "521753490",
+            "name": "Romford (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 08:11:00 PM"
+          },
+          {
+            "gmid": "685396855",
+            "name": "Oxford (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 08:14:00 PM"
+          },
+          {
+            "gmid": "730586334",
+            "name": "Monmore (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 08:19:00 PM"
+          },
+          {
+            "gmid": "697381924",
+            "name": "Romford (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 08:31:00 PM"
+          },
+          {
+            "gmid": "862480074",
+            "name": "Oxford (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 08:33:00 PM"
+          },
+          {
+            "gmid": "510478109",
+            "name": "Monmore (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 08:39:00 PM"
+          },
+          {
+            "gmid": "813960544",
+            "name": "Romford (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 08:49:00 PM"
+          },
+          {
+            "gmid": "908860009",
+            "name": "Oxford (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 08:52:00 PM"
+          },
+          {
+            "gmid": "690140339",
+            "name": "Monmore (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 08:57:00 PM"
+          },
+          {
+            "gmid": "572268564",
+            "name": "Romford (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 09:08:00 PM"
+          },
+          {
+            "gmid": "529210708",
+            "name": "Oxford (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 09:11:00 PM"
+          },
+          {
+            "gmid": "512612853",
+            "name": "Monmore (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 09:17:00 PM"
+          },
+          {
+            "gmid": "663417959",
+            "name": "Romford (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 09:27:00 PM"
+          },
+          {
+            "gmid": "563345235",
+            "name": "Oxford (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 09:29:00 PM"
+          },
+          {
+            "gmid": "629914301",
+            "name": "Monmore (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 09:34:00 PM"
+          },
+          {
+            "gmid": "860982144",
+            "name": "Romford (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 09:46:00 PM"
+          },
+          {
+            "gmid": "881485016",
+            "name": "Oxford (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 09:48:00 PM"
+          },
+          {
+            "gmid": "696022314",
+            "name": "Monmore (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 09:54:00 PM"
+          },
+          {
+            "gmid": "576103085",
+            "name": "Romford (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 10:04:00 PM"
+          },
+          {
+            "gmid": "705215869",
+            "name": "Oxford (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 10:07:00 PM"
+          },
+          {
+            "gmid": "808583323",
+            "name": "Monmore (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 10:12:00 PM"
+          },
+          {
+            "gmid": "472757191",
+            "name": "Romford (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 10:23:00 PM"
+          },
+          {
+            "gmid": "769730194",
+            "name": "Oxford (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 10:26:00 PM"
+          },
+          {
+            "gmid": "858160496",
+            "name": "Monmore (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 10:31:00 PM"
+          },
+          {
+            "gmid": "889557046",
+            "name": "Romford (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 10:42:00 PM"
+          },
+          {
+            "gmid": "908905311",
+            "name": "Oxford (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 10:44:00 PM"
+          },
+          {
+            "gmid": "520926175",
+            "name": "Monmore (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 10:49:00 PM"
+          },
+          {
+            "gmid": "718498654",
+            "name": "Romford (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 11:01:00 PM"
+          },
+          {
+            "gmid": "849572341",
+            "name": "Monmore (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 11:07:00 PM"
+          },
+          {
+            "gmid": "514486904",
+            "name": "Romford (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 11:19:00 PM"
+          },
+          {
+            "gmid": "628498014",
+            "name": "Monmore (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 11:27:00 PM"
+          },
+          {
+            "gmid": "773280603",
+            "name": "Suffolk Downs (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 11:34:00 PM"
+          },
+          {
+            "gmid": "486036588",
+            "name": "Towcester (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 11:38:00 PM"
+          },
+          {
+            "gmid": "584031418",
+            "name": "Star Pelaw (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 11:41:00 PM"
+          },
+          {
+            "gmid": "467904292",
+            "name": "Central Park (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 11:44:00 PM"
+          },
+          {
+            "gmid": "877800610",
+            "name": "Suffolk Downs (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 11:51:00 PM"
+          },
+          {
+            "gmid": "725285425",
+            "name": "Towcester (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 11:56:00 PM"
+          },
+          {
+            "gmid": "514270175",
+            "name": "Star Pelaw (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 11:59:00 PM"
+          },
+          {
+            "gmid": "802273404",
+            "name": "Geelong (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 12:30:00 PM"
+          },
+          {
+            "gmid": "526018361",
+            "name": "Q1 Lakeside (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 12:33:00 PM"
+          },
+          {
+            "gmid": "559817446",
+            "name": "Geelong (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 12:47:00 PM"
+          },
+          {
+            "gmid": "692420317",
+            "name": "Q1 Lakeside (AU)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/17/2026 12:51:00 PM"
+          },
+          {
+            "gmid": "872643815",
+            "name": "Suffolk Downs (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 01:01:00 AM"
+          },
+          {
+            "gmid": "468716093",
+            "name": "Towcester (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 01:03:00 AM"
+          },
+          {
+            "gmid": "793555559",
+            "name": "Central Park (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 01:09:00 AM"
+          },
+          {
+            "gmid": "635418228",
+            "name": "Star Pelaw (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 01:12:00 AM"
+          },
+          {
+            "gmid": "845960332",
+            "name": "Sunderland (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 01:14:00 AM"
+          },
+          {
+            "gmid": "604236789",
+            "name": "Towcester (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 01:19:00 AM"
+          },
+          {
+            "gmid": "688812237",
+            "name": "Suffolk Downs (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 01:21:00 AM"
+          },
+          {
+            "gmid": "567781411",
+            "name": "Central Park (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 01:26:00 AM"
+          },
+          {
+            "gmid": "571793922",
+            "name": "Star Pelaw (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 01:28:00 AM"
+          },
+          {
+            "gmid": "694910231",
+            "name": "Sunderland (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 01:31:00 AM"
+          },
+          {
+            "gmid": "674176695",
+            "name": "Towcester (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 01:37:00 AM"
+          },
+          {
+            "gmid": "550039933",
+            "name": "Suffolk Downs (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 01:39:00 AM"
+          },
+          {
+            "gmid": "872031499",
+            "name": "Central Park (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 01:43:00 AM"
+          },
+          {
+            "gmid": "482566424",
+            "name": "Star Pelaw (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 01:46:00 AM"
+          },
+          {
+            "gmid": "629539907",
+            "name": "Sunderland (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 01:49:00 AM"
+          },
+          {
+            "gmid": "730120206",
+            "name": "Towcester (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 01:54:00 AM"
+          },
+          {
+            "gmid": "859633880",
+            "name": "Suffolk Downs (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 01:56:00 AM"
+          },
+          {
+            "gmid": "791688559",
+            "name": "Central Park (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 02:01:00 AM"
+          },
+          {
+            "gmid": "747822200",
+            "name": "Star Pelaw (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 02:04:00 AM"
+          },
+          {
+            "gmid": "693016212",
+            "name": "Sunderland (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 02:06:00 AM"
+          },
+          {
+            "gmid": "859045702",
+            "name": "Towcester (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 02:11:00 AM"
+          },
+          {
+            "gmid": "913934651",
+            "name": "Suffolk Downs (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 02:13:00 AM"
+          },
+          {
+            "gmid": "727800042",
+            "name": "Central Park (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 02:17:00 AM"
+          },
+          {
+            "gmid": "772967167",
+            "name": "Star Pelaw (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 02:22:00 AM"
+          },
+          {
+            "gmid": "871007297",
+            "name": "Sunderland (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 02:24:00 AM"
+          },
+          {
+            "gmid": "483076284",
+            "name": "Towcester (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 02:29:00 AM"
+          },
+          {
+            "gmid": "917119810",
+            "name": "Central Park (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 02:34:00 AM"
+          },
+          {
+            "gmid": "879921072",
+            "name": "Sunderland (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 02:41:00 AM"
+          },
+          {
+            "gmid": "621849707",
+            "name": "Towcester (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 02:46:00 AM"
+          },
+          {
+            "gmid": "819077346",
+            "name": "Central Park (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 02:53:00 AM"
+          },
+          {
+            "gmid": "469630244",
+            "name": "Sunderland (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 02:58:00 AM"
+          },
+          {
+            "gmid": "462321833",
+            "name": "Sunderland (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 03:16:00 AM"
+          },
+          {
+            "gmid": "499779683",
+            "name": "Central Park (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 12:01:00 AM"
+          },
+          {
+            "gmid": "731983331",
+            "name": "Sunderland (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 12:07:00 AM"
+          },
+          {
+            "gmid": "882720462",
+            "name": "Suffolk Downs (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 12:09:00 AM"
+          },
+          {
+            "gmid": "658344039",
+            "name": "Towcester (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 12:12:00 AM"
+          },
+          {
+            "gmid": "625728503",
+            "name": "Star Pelaw (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 12:16:00 AM"
+          },
+          {
+            "gmid": "781217963",
+            "name": "Central Park (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 12:18:00 AM"
+          },
+          {
+            "gmid": "746221845",
+            "name": "Sunderland (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 12:23:00 AM"
+          },
+          {
+            "gmid": "809776769",
+            "name": "Suffolk Downs (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 12:26:00 AM"
+          },
+          {
+            "gmid": "911463231",
+            "name": "Towcester (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 12:29:00 AM"
+          },
+          {
+            "gmid": "839806247",
+            "name": "Star Pelaw (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 12:34:00 AM"
+          },
+          {
+            "gmid": "779663494",
+            "name": "Central Park (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 12:36:00 AM"
+          },
+          {
+            "gmid": "875848673",
+            "name": "Sunderland (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 12:41:00 AM"
+          },
+          {
+            "gmid": "520460181",
+            "name": "Suffolk Downs (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 12:44:00 AM"
+          },
+          {
+            "gmid": "552745827",
+            "name": "Towcester (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 12:46:00 AM"
+          },
+          {
+            "gmid": "535206962",
+            "name": "Central Park (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 12:52:00 AM"
+          },
+          {
+            "gmid": "894275959",
+            "name": "Star Pelaw (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 12:54:00 AM"
+          },
+          {
+            "gmid": "891121301",
+            "name": "Sunderland (GB)",
+            "etid": 65,
+            "iscc": 0,
+            "sdatetime": "02/18/2026 12:57:00 AM"
+          }
+        ]
+      }
+    ]
+  }
+}

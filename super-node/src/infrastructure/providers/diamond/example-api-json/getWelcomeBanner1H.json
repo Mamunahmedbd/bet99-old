@@ -1,0 +1,8 @@
+{
+  "endpoint": "base_url/sports/welcomebanner",
+  "status": true,
+  "data": {
+    "desktopbanner": "https://sitethemedata.com/common/wel-banner/wel-1771278161438.png",
+    "mobilebanner": "https://sitethemedata.com/common/wel-banner/wel-1771278155161.png"
+  }
+}

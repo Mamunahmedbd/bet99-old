@@ -1,0 +1,167 @@
+{
+  "image": "https://dzm0kbaskt4pv.cloudfront.net/v11/static/front/img/casinoicons/img/teenpatti.jpg",
+  "title": "Open Teenpatti",
+  "slug": "opentp",
+  "match_id": 22,
+  "status": 1,
+  "id": 3049,
+  "event_data": {
+    "match_id": "22",
+    "title": "Open Teenpatti",
+    "autotime": "0",
+    "remark": "",
+    "gtype": "opentp",
+    "min": 100,
+    "max": 500000,
+    "C1": "1",
+    "C2": "1",
+    "C3": "1",
+    "market": [
+      {
+        "MarketName": "Player1",
+        "Runners": [
+          {
+            "RunnerName": "Player 1",
+            "SelectionId": "1"
+          }
+        ]
+      },
+      {
+        "MarketName": "Player2",
+        "Runners": [
+          {
+            "RunnerName": "Player 2",
+            "SelectionId": "2"
+          }
+        ]
+      },
+      {
+        "MarketName": "Player3",
+        "Runners": [
+          {
+            "RunnerName": "Player 3",
+            "SelectionId": "3"
+          }
+        ]
+      },
+      {
+        "MarketName": "Player4",
+        "Runners": [
+          {
+            "RunnerName": "Player 4",
+            "SelectionId": "4"
+          }
+        ]
+      },
+      {
+        "MarketName": "Player5",
+        "Runners": [
+          {
+            "RunnerName": "Player 5",
+            "SelectionId": "5"
+          }
+        ]
+      },
+      {
+        "MarketName": "Player6",
+        "Runners": [
+          {
+            "RunnerName": "Player 6",
+            "SelectionId": "6"
+          }
+        ]
+      },
+      {
+        "MarketName": "Player7",
+        "Runners": [
+          {
+            "RunnerName": "Player 7",
+            "SelectionId": "7"
+          }
+        ]
+      },
+      {
+        "MarketName": "Player8",
+        "Runners": [
+          {
+            "RunnerName": "Player 8",
+            "SelectionId": "8"
+          }
+        ]
+      },
+      {
+        "MarketName": "Pair1",
+        "Runners": [
+          {
+            "RunnerName": "Pair plus 1",
+            "SelectionId": "11"
+          }
+        ]
+      },
+      {
+        "MarketName": "Pair2",
+        "Runners": [
+          {
+            "RunnerName": "Pair plus 2",
+            "SelectionId": "12"
+          }
+        ]
+      },
+      {
+        "MarketName": "Pair3",
+        "Runners": [
+          {
+            "RunnerName": "Pair plus 3",
+            "SelectionId": "13"
+          }
+        ]
+      },
+      {
+        "MarketName": "Pair4",
+        "Runners": [
+          {
+            "RunnerName": "Pair plus 4",
+            "SelectionId": "14"
+          }
+        ]
+      },
+      {
+        "MarketName": "Pair5",
+        "Runners": [
+          {
+            "RunnerName": "Pair plus 5",
+            "SelectionId": "15"
+          }
+        ]
+      },
+      {
+        "MarketName": "Pair6",
+        "Runners": [
+          {
+            "RunnerName": "Pair plus 6",
+            "SelectionId": "16"
+          }
+        ]
+      },
+      {
+        "MarketName": "Pair7",
+        "Runners": [
+          {
+            "RunnerName": "Pair plus 7",
+            "SelectionId": "17"
+          }
+        ]
+      },
+      {
+        "MarketName": "Pair8",
+        "Runners": [
+          {
+            "RunnerName": "Pair plus 8",
+            "SelectionId": "18"
+          }
+        ]
+      }
+    ],
+    "RunnerName": ["Player A", "Player B"]
+  }
+}

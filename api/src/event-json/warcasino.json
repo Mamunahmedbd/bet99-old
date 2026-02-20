@@ -1,0 +1,512 @@
+{
+  "image": "https://dzm0kbaskt4pv.cloudfront.net/v11/static/front/img/casinoicons/img/war.jpg",
+  "title": "Casino War",
+  "slug": "warcasino",
+  "order": 13,
+  "match_id": 31,
+  "status": 1,
+  "id": 3038,
+  "event_data": {
+    "title": "Casino war",
+    "autotime": "0",
+    "remark": "",
+    "gtype": "warcasino",
+    "min": 100,
+    "max": 100000,
+    "C1": "1",
+    "C2": "1",
+    "C3": "1",
+    "C4": "1",
+    "C5": "1",
+    "C6": "1",
+    "C7": "1",
+    "market": [
+      {
+        "MarketName": "Winner 1",
+        "Runners": [
+          {
+            "RunnerName": "Winner 1",
+            "SelectionId": "1"
+          }
+        ]
+      },
+      {
+        "MarketName": "Black 1",
+        "Runners": [
+          {
+            "RunnerName": "Black 1",
+            "SelectionId": "2"
+          }
+        ]
+      },
+      {
+        "MarketName": "Red 1",
+        "Runners": [
+          {
+            "RunnerName": "Red 1",
+            "SelectionId": "3"
+          }
+        ]
+      },
+      {
+        "MarketName": "Odd 1",
+        "Runners": [
+          {
+            "RunnerName": "Odd 1",
+            "SelectionId": "4"
+          }
+        ]
+      },
+      {
+        "MarketName": "Even 1",
+        "Runners": [
+          {
+            "RunnerName": "Even 1",
+            "SelectionId": "5"
+          }
+        ]
+      },
+      {
+        "MarketName": "Spade 1",
+        "Runners": [
+          {
+            "RunnerName": "Spade 1",
+            "SelectionId": "6"
+          }
+        ]
+      },
+      {
+        "MarketName": "Club 1",
+        "Runners": [
+          {
+            "RunnerName": "Club 1",
+            "SelectionId": "7"
+          }
+        ]
+      },
+      {
+        "MarketName": "Heart 1",
+        "Runners": [
+          {
+            "RunnerName": "Heart 1",
+            "SelectionId": "8"
+          }
+        ]
+      },
+      {
+        "MarketName": "Diamond 1",
+        "Runners": [
+          {
+            "RunnerName": "Diamond 1",
+            "SelectionId": "9"
+          }
+        ]
+      },
+      {
+        "MarketName": "Winner 2",
+        "Runners": [
+          {
+            "RunnerName": "Winner 2",
+            "SelectionId": "11"
+          }
+        ]
+      },
+      {
+        "MarketName": "Black 2",
+        "Runners": [
+          {
+            "RunnerName": "Black 2",
+            "SelectionId": "12"
+          }
+        ]
+      },
+      {
+        "MarketName": "Red 2",
+        "Runners": [
+          {
+            "RunnerName": "Red 2",
+            "SelectionId": "13"
+          }
+        ]
+      },
+      {
+        "MarketName": "Odd 2",
+        "Runners": [
+          {
+            "RunnerName": "Odd 2",
+            "SelectionId": "14"
+          }
+        ]
+      },
+      {
+        "MarketName": "Even 2",
+        "Runners": [
+          {
+            "RunnerName": "Even 2",
+            "SelectionId": "15"
+          }
+        ]
+      },
+      {
+        "MarketName": "Spade 2",
+        "Runners": [
+          {
+            "RunnerName": "Spade 2",
+            "SelectionId": "16"
+          }
+        ]
+      },
+      {
+        "MarketName": "Club 2",
+        "Runners": [
+          {
+            "RunnerName": "Club 2",
+            "SelectionId": "17"
+          }
+        ]
+      },
+      {
+        "MarketName": "Heart 2",
+        "Runners": [
+          {
+            "RunnerName": "Heart 2",
+            "SelectionId": "18"
+          }
+        ]
+      },
+      {
+        "MarketName": "Diamond 2",
+        "Runners": [
+          {
+            "RunnerName": "Diamond 2",
+            "SelectionId": "19"
+          }
+        ]
+      },
+      {
+        "MarketName": "Winner 3",
+        "Runners": [
+          {
+            "RunnerName": "Winner 3",
+            "SelectionId": "21"
+          }
+        ]
+      },
+      {
+        "MarketName": "Black 3",
+        "Runners": [
+          {
+            "RunnerName": "Black 3",
+            "SelectionId": "22"
+          }
+        ]
+      },
+      {
+        "MarketName": "Red 3",
+        "Runners": [
+          {
+            "RunnerName": "Red 3",
+            "SelectionId": "23"
+          }
+        ]
+      },
+      {
+        "MarketName": "Odd 3",
+        "Runners": [
+          {
+            "RunnerName": "Odd 3",
+            "SelectionId": "24"
+          }
+        ]
+      },
+      {
+        "MarketName": "Even 3",
+        "Runners": [
+          {
+            "RunnerName": "Even 3",
+            "SelectionId": "25"
+          }
+        ]
+      },
+      {
+        "MarketName": "Spade 3",
+        "Runners": [
+          {
+            "RunnerName": "Spade 3",
+            "SelectionId": "26"
+          }
+        ]
+      },
+      {
+        "MarketName": "Club 3",
+        "Runners": [
+          {
+            "RunnerName": "Club 3",
+            "SelectionId": "27"
+          }
+        ]
+      },
+      {
+        "MarketName": "Heart 3",
+        "Runners": [
+          {
+            "RunnerName": "Heart 3",
+            "SelectionId": "28"
+          }
+        ]
+      },
+      {
+        "MarketName": "Diamond 3",
+        "Runners": [
+          {
+            "RunnerName": "Diamond 3",
+            "SelectionId": "29"
+          }
+        ]
+      },
+      {
+        "MarketName": "Winner 4",
+        "Runners": [
+          {
+            "RunnerName": "Winner 4",
+            "SelectionId": "31"
+          }
+        ]
+      },
+      {
+        "MarketName": "Black 4",
+        "Runners": [
+          {
+            "RunnerName": "Black 4",
+            "SelectionId": "32"
+          }
+        ]
+      },
+      {
+        "MarketName": "Red 4",
+        "Runners": [
+          {
+            "RunnerName": "Red 4",
+            "SelectionId": "33"
+          }
+        ]
+      },
+      {
+        "MarketName": "Odd 4",
+        "Runners": [
+          {
+            "RunnerName": "Odd 4",
+            "SelectionId": "34"
+          }
+        ]
+      },
+      {
+        "MarketName": "Even 4",
+        "Runners": [
+          {
+            "RunnerName": "Even 4",
+            "SelectionId": "35"
+          }
+        ]
+      },
+      {
+        "MarketName": "Spade 4",
+        "Runners": [
+          {
+            "RunnerName": "Spade 4",
+            "SelectionId": "36"
+          }
+        ]
+      },
+      {
+        "MarketName": "Club 4",
+        "Runners": [
+          {
+            "RunnerName": "Club 4",
+            "SelectionId": "37"
+          }
+        ]
+      },
+      {
+        "MarketName": "Heart 4",
+        "Runners": [
+          {
+            "RunnerName": "Heart 4",
+            "SelectionId": "38"
+          }
+        ]
+      },
+      {
+        "MarketName": "Diamond 4",
+        "Runners": [
+          {
+            "RunnerName": "Diamond 4",
+            "SelectionId": "39"
+          }
+        ]
+      },
+      {
+        "MarketName": "Winner 5",
+        "Runners": [
+          {
+            "RunnerName": "Winner 5",
+            "SelectionId": "41"
+          }
+        ]
+      },
+      {
+        "MarketName": "Black 5",
+        "Runners": [
+          {
+            "RunnerName": "Black 5",
+            "SelectionId": "42"
+          }
+        ]
+      },
+      {
+        "MarketName": "Red 5",
+        "Runners": [
+          {
+            "RunnerName": "Red 5",
+            "SelectionId": "43"
+          }
+        ]
+      },
+      {
+        "MarketName": "Odd 5",
+        "Runners": [
+          {
+            "RunnerName": "Odd 5",
+            "SelectionId": "44"
+          }
+        ]
+      },
+      {
+        "MarketName": "Even 5",
+        "Runners": [
+          {
+            "RunnerName": "Even 5",
+            "SelectionId": "45"
+          }
+        ]
+      },
+      {
+        "MarketName": "Spade 5",
+        "Runners": [
+          {
+            "RunnerName": "Spade 5",
+            "SelectionId": "46"
+          }
+        ]
+      },
+      {
+        "MarketName": "Club 5",
+        "Runners": [
+          {
+            "RunnerName": "Club 5",
+            "SelectionId": "47"
+          }
+        ]
+      },
+      {
+        "MarketName": "Heart 5",
+        "Runners": [
+          {
+            "RunnerName": "Heart 5",
+            "SelectionId": "48"
+          }
+        ]
+      },
+      {
+        "MarketName": "Diamond 5",
+        "Runners": [
+          {
+            "RunnerName": "Diamond 5",
+            "SelectionId": "49"
+          }
+        ]
+      },
+      {
+        "MarketName": "Winner 6",
+        "Runners": [
+          {
+            "RunnerName": "Winner 6",
+            "SelectionId": "51"
+          }
+        ]
+      },
+      {
+        "MarketName": "Black 6",
+        "Runners": [
+          {
+            "RunnerName": "Black 6",
+            "SelectionId": "52"
+          }
+        ]
+      },
+      {
+        "MarketName": "Red 6",
+        "Runners": [
+          {
+            "RunnerName": "Red 6",
+            "SelectionId": "53"
+          }
+        ]
+      },
+      {
+        "MarketName": "Odd 6",
+        "Runners": [
+          {
+            "RunnerName": "Odd 6",
+            "SelectionId": "54"
+          }
+        ]
+      },
+      {
+        "MarketName": "Even 6",
+        "Runners": [
+          {
+            "RunnerName": "Even 6",
+            "SelectionId": "55"
+          }
+        ]
+      },
+      {
+        "MarketName": "Spade 6",
+        "Runners": [
+          {
+            "RunnerName": "Spade 6",
+            "SelectionId": "56"
+          }
+        ]
+      },
+      {
+        "MarketName": "Club 6",
+        "Runners": [
+          {
+            "RunnerName": "Club 6",
+            "SelectionId": "57"
+          }
+        ]
+      },
+      {
+        "MarketName": "Heart 6",
+        "Runners": [
+          {
+            "RunnerName": "Heart 6",
+            "SelectionId": "58"
+          }
+        ]
+      },
+      {
+        "MarketName": "Diamond 6",
+        "Runners": [
+          {
+            "RunnerName": "Diamond 6",
+            "SelectionId": "59"
+          }
+        ]
+      }
+    ]
+  }
+}

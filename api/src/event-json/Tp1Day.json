@@ -1,0 +1,47 @@
+{
+    "_id": {
+      "$oid": "63a53fd2eeeb33a4ad240846"
+    },
+    "image": "https://dzm0kbaskt4pv.cloudfront.net/v11/static/front/img/casinoicons/img/teenpatti.jpg",
+    "title": "1 Day Teenpatti",
+    "slug": "Tp1Day",
+    "order": 15,
+    "match_id": 9,
+    "status": 1,
+    "id": 3031,
+    "event_data": {
+      "match_id": "9",
+      "title": "1 Day Teenpatti",
+      "autotime": "0",
+      "remark": "",
+      "gtype": "Teen",
+      "min": 100,
+      "max": 500000,
+      "C1": "1",
+      "C2": "1",
+      "C3": "1",
+      "market": [
+        {
+          "MarketName": "Bookmaker",
+          "Runners": [
+            {
+              "RunnerName": "Player A",
+              "SelectionId": "1"
+            },
+            {
+              "RunnerName": "Player B",
+              "SelectionId": "2"
+            }
+          ]
+        }
+      ],
+      "RunnerName": [
+        "Player A",
+        "Player B"
+      ]
+    },
+    "isDisable": false,
+    "updatedAt": {
+      "$date": "2023-10-26T03:53:39.883Z"
+    }
+  }

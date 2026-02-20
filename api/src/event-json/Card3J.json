@@ -1,0 +1,38 @@
+{
+    "_id": {
+      "$oid": "63a53fd2eeeb33a4ad24084e"
+    },
+    "image": "https://dzm0kbaskt4pv.cloudfront.net/v11/static/front/img/casinoicons/img/3cardsJ.jpg",
+    "title": "3 Cards Judgement",
+    "slug": "Cards3J",
+    "order": 31,
+    "match_id": 16,
+    "status": 1,
+    "id": 3039,
+    "event_data": {
+      "title": "3 CARDS JUDGEMENT",
+      "autotime": "0",
+      "remark": "",
+      "gtype": "3cardj",
+      "min": 100,
+      "max": 100000,
+      "C1": "1",
+      "C2": "1",
+      "C3": "1",
+      "market": [
+        {
+          "MarketName": "Bookmaker",
+          "Runners": [
+            {
+              "RunnerName": "YES",
+              "SelectionId": "1"
+            },
+            {
+              "RunnerName": "NO",
+              "SelectionId": "2"
+            }
+          ]
+        }
+      ]
+    }
+  }

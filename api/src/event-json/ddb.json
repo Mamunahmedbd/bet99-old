@@ -1,0 +1,193 @@
+{
+  "image": "https://dzm0kbaskt4pv.cloudfront.net/v11/static/front/img/casinoicons/img/bollywood-casino.jpg",
+  "title": "Bollywood Table",
+  "slug": "ddb",
+  "order": 27,
+  "match_id": 26,
+  "status": 1,
+  "id": 3041,
+  "event_data": {
+    "match_id": "26",
+    "title": "Bollywood Casino",
+    "autotime": "0",
+    "remark": "",
+    "gtype": "btable",
+    "min": 100,
+    "max": 100000,
+    "C1": "1",
+    "C2": "1",
+    "C3": "1",
+    "market": [
+      {
+        "MarketName": "Lay Back Market",
+        "Runners": [
+          {
+            "RunnerName": "DON",
+            "SelectionId": "1",
+            "b1": "0.00",
+            "l1": "0.00",
+            "min": 100,
+            "max": 100000
+          },
+          {
+            "RunnerName": "Amar Akbar Anthony",
+            "SelectionId": "2",
+            "b1": "0.00",
+            "l1": "0.00",
+            "min": 100,
+            "max": 100000
+          },
+          {
+            "RunnerName": "Sahib Bibi Aur Ghulam",
+            "SelectionId": "3",
+            "b1": "0.00",
+            "l1": "0.00",
+            "min": 100,
+            "max": 100000
+          },
+          {
+            "RunnerName": "Dharam Veer",
+            "SelectionId": "4",
+            "b1": "0.00",
+            "l1": "0.00",
+            "min": 100,
+            "max": 100000
+          },
+          {
+            "RunnerName": "Kis KisKo Pyaar Karoon",
+            "SelectionId": "5",
+            "b1": "0.00",
+            "l1": "0.00",
+            "min": 100,
+            "max": 100000
+          },
+          {
+            "RunnerName": "Ghulam",
+            "SelectionId": "6",
+            "b1": "0.00",
+            "l1": "0.00",
+            "min": 100,
+            "max": 100000
+          }
+        ]
+      },
+      {
+        "MarketName": "Odd",
+        "Runners": [
+          {
+            "RunnerName": "Odd",
+            "SelectionId": "7",
+            "b1": "1.31",
+            "l1": "1.36",
+            "min": 100,
+            "max": 25000
+          }
+        ]
+      },
+      {
+        "MarketName": "Red",
+        "Runners": [
+          {
+            "RunnerName": "Red",
+            "SelectionId": "8",
+            "b1": "1.97",
+            "min": 100,
+            "max": 25000
+          }
+        ]
+      },
+      {
+        "MarketName": "Black",
+        "Runners": [
+          {
+            "RunnerName": "Black",
+            "SelectionId": "9",
+            "b1": "1.97",
+            "min": 100,
+            "max": 25000
+          }
+        ]
+      },
+      {
+        "MarketName": "Dulha Dulhan",
+        "Runners": [
+          {
+            "RunnerName": "Dulha Dulhan K-Q",
+            "SelectionId": "14",
+            "b1": "1.97",
+            "min": 100,
+            "max": 100000
+          }
+        ]
+      },
+      {
+        "MarketName": "Barati",
+        "Runners": [
+          {
+            "RunnerName": "Barati J-A",
+            "SelectionId": "15",
+            "b1": "1.97",
+            "min": 100,
+            "max": 100000
+          }
+        ]
+      },
+      {
+        "MarketName": "Card J",
+        "Runners": [
+          {
+            "RunnerName": "Card J",
+            "SelectionId": "10",
+            "b1": "3.75",
+            "min": 100,
+            "max": 100000
+          }
+        ]
+      },
+      {
+        "MarketName": "Card Q",
+        "Runners": [
+          {
+            "RunnerName": "Card Q",
+            "SelectionId": "11",
+            "b1": "3.75",
+            "min": 100,
+            "max": 100000
+          }
+        ]
+      },
+      {
+        "MarketName": "Card K",
+        "Runners": [
+          {
+            "RunnerName": "Card K",
+            "SelectionId": "12",
+            "b1": "3.75",
+            "min": 100,
+            "max": 100000
+          }
+        ]
+      },
+      {
+        "MarketName": "Card A",
+        "Runners": [
+          {
+            "RunnerName": "Card A",
+            "SelectionId": "13",
+            "b1": "3.75",
+            "min": 100,
+            "max": 100000
+          }
+        ]
+      }
+    ],
+    "RunnerName": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ]
+  }
+}

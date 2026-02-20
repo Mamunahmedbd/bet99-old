@@ -1,0 +1,196 @@
+{
+  "_id": {
+    "$oid": "63a53fd2eeeb33a4ad240854"
+  },
+  "image": "https://dzm0kbaskt4pv.cloudfront.net/v11/static/front/img/casinoicons/img/dt.jpg",
+  "title": "1 Day Dragon Tiger",
+  "slug": "dragontiger1Day",
+  "order": 23,
+  "match_id": 28,
+  "status": 1,
+  "id": 3057,
+  "event_data": {
+    "match_id": "28",
+    "title": "1 Day Dragon Tiger",
+    "autotime": "0",
+    "remark": "",
+    "gtype": "dt6",
+    "min": 100,
+    "max": 500000,
+    "C1": "1",
+    "C2": "1",
+    "C3": "1",
+    "market": [
+      {
+        "MarketName": "Bookmaker",
+        "Runners": [
+          {
+            "RunnerName": "Dragon",
+            "SelectionId": "1"
+          },
+          {
+            "RunnerName": "Tiger",
+            "SelectionId": "2"
+          }
+        ]
+      },
+      {
+        "MarketName": "Pair",
+        "Runners": [
+          {
+            "RunnerName": "Pair",
+            "SelectionId": "3"
+          }
+        ]
+      },
+      {
+        "MarketName": "Dragon Even",
+        "Runners": [
+          {
+            "RunnerName": "Dragon Even",
+            "SelectionId": "4"
+          }
+        ]
+      },
+      {
+        "MarketName": "Dragon Odd",
+        "Runners": [
+          {
+            "RunnerName": "Dragon Odd",
+            "SelectionId": "5"
+          }
+        ]
+      },
+      {
+        "MarketName": "Dragon Red",
+        "Runners": [
+          {
+            "RunnerName": "Dragon Red",
+            "SelectionId": "6"
+          }
+        ]
+      },
+      {
+        "MarketName": "Dragon Black",
+        "Runners": [
+          {
+            "RunnerName": "Dragon Black",
+            "SelectionId": "7"
+          }
+        ]
+      },
+      {
+        "MarketName": "Dragon Spade",
+        "Runners": [
+          {
+            "RunnerName": "Dragon Spade",
+            "SelectionId": "8"
+          }
+        ]
+      },
+      {
+        "MarketName": "Dragon Heart",
+        "Runners": [
+          {
+            "RunnerName": "Dragon Heart",
+            "SelectionId": "9"
+          }
+        ]
+      },
+      {
+        "MarketName": "Dragon Diamond",
+        "Runners": [
+          {
+            "RunnerName": "Dragon Diamond",
+            "SelectionId": "10"
+          }
+        ]
+      },
+      {
+        "MarketName": "Dragon Club",
+        "Runners": [
+          {
+            "RunnerName": "Dragon Club",
+            "SelectionId": "11"
+          }
+        ]
+      },
+      {
+        "MarketName": "Tiger Even",
+        "Runners": [
+          {
+            "RunnerName": "Tiger Even",
+            "SelectionId": "12"
+          }
+        ]
+      },
+      {
+        "MarketName": "Tiger Odd",
+        "Runners": [
+          {
+            "RunnerName": "Tiger Odd",
+            "SelectionId": "13"
+          }
+        ]
+      },
+      {
+        "MarketName": "Tiger Red",
+        "Runners": [
+          {
+            "RunnerName": "Tiger Red",
+            "SelectionId": "14"
+          }
+        ]
+      },
+      {
+        "MarketName": "Tiger Black",
+        "Runners": [
+          {
+            "RunnerName": "Tiger Black",
+            "SelectionId": "15"
+          }
+        ]
+      },
+      {
+        "MarketName": "Tiger Spade",
+        "Runners": [
+          {
+            "RunnerName": "Tiger Spade",
+            "SelectionId": "16"
+          }
+        ]
+      },
+      {
+        "MarketName": "Tiger Heart",
+        "Runners": [
+          {
+            "RunnerName": "Tiger Heart",
+            "SelectionId": "17"
+          }
+        ]
+      },
+      {
+        "MarketName": "Tiger Diamond",
+        "Runners": [
+          {
+            "RunnerName": "Tiger Diamond",
+            "SelectionId": "18"
+          }
+        ]
+      },
+      {
+        "MarketName": "Tiger Club",
+        "Runners": [
+          {
+            "RunnerName": "Tiger Club",
+            "SelectionId": "19"
+          }
+        ]
+      }
+    ],
+    "RunnerName": [
+      "Dragon",
+      "Tiger"
+    ]
+  }
+}

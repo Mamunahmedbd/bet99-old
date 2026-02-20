@@ -1,0 +1,2397 @@
+{
+  "endpoint": "base_url/diamond-proxy/match/odds/614525355?sid=4",
+  "success": true,
+  "msg": "Success",
+  "status": 200,
+  "data": [
+    {
+      "gmid": 689878567,
+      "mid": 8673718759374,
+      "pmid": null,
+      "mname": "MATCH_ODDS",
+      "rem": "",
+      "gtype": "match",
+      "status": "OPEN",
+      "rc": 2,
+      "visible": false,
+      "pid": 0,
+      "gscode": 1,
+      "maxb": 100000,
+      "sno": 1,
+      "dtype": 4,
+      "ocnt": 6,
+      "m": 0,
+      "max": 2000,
+      "min": 0,
+      "biplay": true,
+      "umaxbof": 1,
+      "boplay": true,
+      "iplay": true,
+      "btcnt": 4,
+      "company": null,
+      "section": [
+        {
+          "sid": 686850,
+          "psid": 0,
+          "sno": 1,
+          "psrno": 1,
+          "gstatus": "ACTIVE",
+          "nat": "New Zealand",
+          "gscode": 1,
+          "max": 0,
+          "min": 0,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 1.13,
+              "otype": "back",
+              "oname": "back3",
+              "tno": 2,
+              "size": 126781.43
+            },
+            {
+              "psid": 0,
+              "odds": 1.14,
+              "otype": "back",
+              "oname": "back2",
+              "tno": 1,
+              "size": 146688.77
+            },
+            {
+              "psid": 0,
+              "odds": 1.15,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 42233.75
+            },
+            {
+              "psid": 0,
+              "odds": 1.16,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 21635.52
+            },
+            {
+              "psid": 0,
+              "odds": 1.17,
+              "otype": "lay",
+              "oname": "lay2",
+              "tno": 1,
+              "size": 61107.87
+            },
+            {
+              "psid": 0,
+              "odds": 1.18,
+              "otype": "lay",
+              "oname": "lay3",
+              "tno": 2,
+              "size": 131014.46
+            }
+          ]
+        },
+        {
+          "sid": 47271,
+          "psid": 0,
+          "sno": 2,
+          "psrno": 2,
+          "gstatus": "ACTIVE",
+          "nat": "Canada",
+          "gscode": 1,
+          "max": 0,
+          "min": 0,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 6.8,
+              "otype": "back",
+              "oname": "back3",
+              "tno": 2,
+              "size": 17670.72
+            },
+            {
+              "psid": 0,
+              "odds": 7,
+              "otype": "back",
+              "oname": "back2",
+              "tno": 1,
+              "size": 190.76
+            },
+            {
+              "psid": 0,
+              "odds": 7.2,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 3485.72
+            },
+            {
+              "psid": 0,
+              "odds": 7.6,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 3.74
+            },
+            {
+              "psid": 0,
+              "odds": 7.8,
+              "otype": "lay",
+              "oname": "lay2",
+              "tno": 1,
+              "size": 6223.13
+            },
+            {
+              "psid": 0,
+              "odds": 8,
+              "otype": "lay",
+              "oname": "lay3",
+              "tno": 2,
+              "size": 1721.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gmid": 689878567,
+      "mid": 6026223316736,
+      "pmid": null,
+      "mname": "Bookmaker",
+      "rem": "Win big in T10 Card Cricket — the shortest format, biggest rewards",
+      "gtype": "match1",
+      "status": "SUSPENDED",
+      "rc": 2,
+      "visible": false,
+      "pid": 0,
+      "gscode": 1,
+      "maxb": 0,
+      "sno": 2,
+      "dtype": 4,
+      "ocnt": 6,
+      "m": 0,
+      "max": 2500000,
+      "min": 100,
+      "biplay": true,
+      "umaxbof": 0,
+      "boplay": true,
+      "iplay": true,
+      "btcnt": 0,
+      "company": null,
+      "section": [
+        {
+          "sid": 1,
+          "psid": 0,
+          "sno": 1,
+          "psrno": 1,
+          "gstatus": "ACTIVE",
+          "nat": "New Zealand",
+          "gscode": 1,
+          "max": 0,
+          "min": 0,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "back",
+              "oname": "back3",
+              "tno": 2,
+              "size": 0
+            },
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "back",
+              "oname": "back2",
+              "tno": 1,
+              "size": 0
+            },
+            {
+              "psid": 0,
+              "odds": 15,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 2500000
+            },
+            {
+              "psid": 0,
+              "odds": 17,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 2500000
+            },
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "lay",
+              "oname": "lay2",
+              "tno": 1,
+              "size": 0
+            },
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "lay",
+              "oname": "lay3",
+              "tno": 2,
+              "size": 0
+            }
+          ]
+        },
+        {
+          "sid": 2,
+          "psid": 0,
+          "sno": 2,
+          "psrno": 2,
+          "gstatus": "ACTIVE",
+          "nat": "Canada",
+          "gscode": 1,
+          "max": 0,
+          "min": 0,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "back",
+              "oname": "back3",
+              "tno": 2,
+              "size": 0
+            },
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "back",
+              "oname": "back2",
+              "tno": 1,
+              "size": 0
+            },
+            {
+              "psid": 0,
+              "odds": 588,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 250000
+            },
+            {
+              "psid": 0,
+              "odds": 666,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 250000
+            },
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "lay",
+              "oname": "lay2",
+              "tno": 1,
+              "size": 0
+            },
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "lay",
+              "oname": "lay3",
+              "tno": 2,
+              "size": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gmid": 689878567,
+      "mid": 6127511960580,
+      "pmid": null,
+      "mname": "Bookmaker2",
+      "rem": "ICC Mens T20 World Cup Winner Bets Started In Our Exchange",
+      "gtype": "match1",
+      "status": "SUSPENDED",
+      "rc": 2,
+      "visible": false,
+      "pid": 0,
+      "gscode": 1,
+      "maxb": 0,
+      "sno": 2.1,
+      "dtype": 2,
+      "ocnt": 2,
+      "m": 0,
+      "max": 1500000,
+      "min": 100,
+      "biplay": true,
+      "umaxbof": 0,
+      "boplay": true,
+      "iplay": true,
+      "btcnt": 0,
+      "company": null,
+      "section": [
+        {
+          "sid": 1,
+          "psid": 0,
+          "sno": 1,
+          "psrno": 1,
+          "gstatus": "ACTIVE",
+          "nat": "New Zealand.",
+          "gscode": 1,
+          "max": 0,
+          "min": 0,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 15,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 1500000
+            },
+            {
+              "psid": 0,
+              "odds": 16.5,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 1500000
+            }
+          ]
+        },
+        {
+          "sid": 2,
+          "psid": 0,
+          "sno": 2,
+          "psrno": 2,
+          "gstatus": "ACTIVE",
+          "nat": "Canada.",
+          "gscode": 1,
+          "max": 0,
+          "min": 0,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 606,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 150000
+            },
+            {
+              "psid": 0,
+              "odds": 666,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 150000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gmid": 689878567,
+      "mid": 7335367367118,
+      "pmid": null,
+      "mname": "6 Over Bookmaker( NZ VS CAN )",
+      "rem": "51 Runs Target For NZ In 6 Over",
+      "gtype": "match1",
+      "status": "SUSPENDED",
+      "rc": 2,
+      "visible": false,
+      "pid": 0,
+      "gscode": 1,
+      "maxb": 0,
+      "sno": 2.2,
+      "dtype": 2,
+      "ocnt": 2,
+      "m": 0,
+      "max": 200000,
+      "min": 100,
+      "biplay": true,
+      "umaxbof": 0,
+      "boplay": true,
+      "iplay": true,
+      "btcnt": 0,
+      "company": null,
+      "section": [
+        {
+          "sid": 1,
+          "psid": 0,
+          "sno": 1,
+          "psrno": 1,
+          "gstatus": "SUSPENDED",
+          "nat": "NZ 1 TO 6 Over Runs",
+          "gscode": 0,
+          "max": 0,
+          "min": 0,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 0
+            },
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 0
+            }
+          ]
+        },
+        {
+          "sid": 2,
+          "psid": 0,
+          "sno": 2,
+          "psrno": 2,
+          "gstatus": "SUSPENDED",
+          "nat": "CAN 1 TO 6 Over Runs",
+          "gscode": 0,
+          "max": 0,
+          "min": 0,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 0
+            },
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gmid": 689878567,
+      "mid": 8971997498782,
+      "pmid": null,
+      "mname": "Tied Match",
+      "rem": "Virtual Cricket or WWE? Why not both? Play anytime, 24/7!",
+      "gtype": "match1",
+      "status": "SUSPENDED",
+      "rc": 2,
+      "visible": false,
+      "pid": 0,
+      "gscode": 1,
+      "maxb": 0,
+      "sno": 2.3000000000000003,
+      "dtype": 2,
+      "ocnt": 2,
+      "m": 0,
+      "max": 200000,
+      "min": 100,
+      "biplay": true,
+      "umaxbof": 0,
+      "boplay": true,
+      "iplay": true,
+      "btcnt": 0,
+      "company": null,
+      "section": [
+        {
+          "sid": 1,
+          "psid": 0,
+          "sno": 1,
+          "psrno": 1,
+          "gstatus": "SUSPENDED",
+          "nat": "YES",
+          "gscode": 0,
+          "max": 0,
+          "min": 0,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 0
+            },
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 0
+            }
+          ]
+        },
+        {
+          "sid": 2,
+          "psid": 0,
+          "sno": 2,
+          "psrno": 2,
+          "gstatus": "ACTIVE",
+          "nat": "NO",
+          "gscode": 1,
+          "max": 0,
+          "min": 0,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 1.25,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 200000
+            },
+            {
+              "psid": 0,
+              "odds": 2.25,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 200000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gmid": 689878567,
+      "mid": 7621242523163,
+      "pmid": null,
+      "mname": "1st Innings 20 Overs Line",
+      "rem": "",
+      "gtype": "fancy2",
+      "status": "OPEN",
+      "rc": 1,
+      "visible": false,
+      "pid": 0,
+      "gscode": 1,
+      "maxb": 1,
+      "sno": 2.9,
+      "dtype": 14,
+      "ocnt": 6,
+      "m": 0,
+      "max": 0,
+      "min": 0,
+      "biplay": true,
+      "umaxbof": 1,
+      "boplay": true,
+      "iplay": true,
+      "btcnt": 0,
+      "company": null,
+      "section": [
+        {
+          "sid": 706620,
+          "psid": 0,
+          "sno": 1,
+          "psrno": 1,
+          "gstatus": "ACTIVE",
+          "nat": "Total Runs",
+          "gscode": 1,
+          "max": 0,
+          "min": 0,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 173,
+              "otype": "back",
+              "oname": "back3",
+              "tno": 2,
+              "size": 19871.75
+            },
+            {
+              "psid": 0,
+              "odds": 174,
+              "otype": "back",
+              "oname": "back2",
+              "tno": 1,
+              "size": 21843.1
+            },
+            {
+              "psid": 0,
+              "odds": 175,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 51573.04
+            },
+            {
+              "psid": 0,
+              "odds": 176,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 7538.65
+            },
+            {
+              "psid": 0,
+              "odds": 177,
+              "otype": "lay",
+              "oname": "lay2",
+              "tno": 1,
+              "size": 46688.06
+            },
+            {
+              "psid": 0,
+              "odds": 178,
+              "otype": "lay",
+              "oname": "lay3",
+              "tno": 2,
+              "size": 17789.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gmid": 689878567,
+      "mid": 283119958919,
+      "pmid": null,
+      "mname": "Normal",
+      "rem": "",
+      "gtype": "fancy",
+      "status": "OPEN",
+      "rc": 2,
+      "visible": false,
+      "pid": 0,
+      "gscode": 1,
+      "maxb": 0,
+      "sno": 3,
+      "dtype": 6,
+      "ocnt": 6,
+      "m": 0,
+      "max": 0,
+      "min": 0,
+      "biplay": true,
+      "umaxbof": 0,
+      "boplay": true,
+      "iplay": true,
+      "btcnt": 0,
+      "company": null,
+      "section": [
+        {
+          "sid": 26,
+          "psid": 0,
+          "sno": 4,
+          "psrno": 4,
+          "gstatus": "",
+          "nat": "20 over runs CAN(NZ vs CAN)adv",
+          "gscode": 1,
+          "max": 400000,
+          "min": 100,
+          "rem": "",
+          "br": true,
+          "ik": 1,
+          "ikm": 2,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 177,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            },
+            {
+              "psid": 0,
+              "odds": 175,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 27,
+          "psid": 0,
+          "sno": 4,
+          "psrno": 4,
+          "gstatus": "Ball Running",
+          "nat": "20 over runs CAN 2",
+          "gscode": 0,
+          "max": 50000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 0
+            },
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 0
+            }
+          ]
+        },
+        {
+          "sid": 28,
+          "psid": 0,
+          "sno": 4,
+          "psrno": 4,
+          "gstatus": "",
+          "nat": "20 over Run bhav CAN",
+          "gscode": 1,
+          "max": 300000,
+          "min": 100,
+          "rem": "",
+          "br": true,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 175,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 70
+            },
+            {
+              "psid": 0,
+              "odds": 175,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 90
+            }
+          ]
+        },
+        {
+          "sid": 29,
+          "psid": 0,
+          "sno": 4,
+          "psrno": 4,
+          "gstatus": "Ball Running",
+          "nat": "20 over Run bhav CAN 2",
+          "gscode": 0,
+          "max": 400000,
+          "min": 100,
+          "rem": "",
+          "br": true,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 0
+            },
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 0
+            }
+          ]
+        },
+        {
+          "sid": 30,
+          "psid": 0,
+          "sno": 4,
+          "psrno": 4,
+          "gstatus": "",
+          "nat": "20 over Run bhav CAN 3",
+          "gscode": 1,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": true,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 176,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 95
+            },
+            {
+              "psid": 0,
+              "odds": 176,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 115
+            }
+          ]
+        },
+        {
+          "sid": 205,
+          "psid": 0,
+          "sno": 4,
+          "psrno": 4,
+          "gstatus": "",
+          "nat": "19 over run CAN",
+          "gscode": 1,
+          "max": 400000,
+          "min": 100,
+          "rem": "",
+          "br": true,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 165,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            },
+            {
+              "psid": 0,
+              "odds": 164,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 206,
+          "psid": 0,
+          "sno": 4,
+          "psrno": 4,
+          "gstatus": "",
+          "nat": "19.3 over run CAN",
+          "gscode": 1,
+          "max": 400000,
+          "min": 100,
+          "rem": "",
+          "br": true,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 171,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            },
+            {
+              "psid": 0,
+              "odds": 170,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gmid": 689878567,
+      "mid": 565714916065,
+      "pmid": null,
+      "mname": "Over By Over",
+      "rem": "",
+      "gtype": "fancy",
+      "status": "OPEN",
+      "rc": 2,
+      "visible": false,
+      "pid": 0,
+      "gscode": 1,
+      "maxb": 0,
+      "sno": 3.1,
+      "dtype": 6,
+      "ocnt": 6,
+      "m": 0,
+      "max": 0,
+      "min": 0,
+      "biplay": true,
+      "umaxbof": 0,
+      "boplay": true,
+      "iplay": true,
+      "btcnt": 0,
+      "company": null,
+      "section": [
+        {
+          "sid": 266,
+          "psid": 0,
+          "sno": 1,
+          "psrno": 1,
+          "gstatus": "SUSPENDED",
+          "nat": "Only 20 over run CAN",
+          "gscode": 0,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": true,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 0
+            },
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 0
+            }
+          ]
+        },
+        {
+          "sid": 117,
+          "psid": 0,
+          "sno": 3,
+          "psrno": 3,
+          "gstatus": "",
+          "nat": "19 over two boundaries bhav CAN",
+          "gscode": 1,
+          "max": 100000,
+          "min": 100,
+          "rem": "",
+          "br": true,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 2,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 600
+            },
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 0
+            }
+          ]
+        },
+        {
+          "sid": 118,
+          "psid": 0,
+          "sno": 3,
+          "psrno": 3,
+          "gstatus": "SUSPENDED",
+          "nat": "20 over two boundaries bhav CAN",
+          "gscode": 0,
+          "max": 100000,
+          "min": 100,
+          "rem": "",
+          "br": true,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 0
+            },
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gmid": 689878567,
+      "mid": 589003274720,
+      "pmid": null,
+      "mname": "Ball By Ball",
+      "rem": "",
+      "gtype": "fancy",
+      "status": "OPEN",
+      "rc": 2,
+      "visible": false,
+      "pid": 0,
+      "gscode": 1,
+      "maxb": 0,
+      "sno": 3.2,
+      "dtype": 6,
+      "ocnt": 6,
+      "m": 0,
+      "max": 0,
+      "min": 0,
+      "biplay": true,
+      "umaxbof": 0,
+      "boplay": true,
+      "iplay": true,
+      "btcnt": 0,
+      "company": null,
+      "section": [
+        {
+          "sid": 394,
+          "psid": 0,
+          "sno": 1,
+          "psrno": 1,
+          "gstatus": "",
+          "nat": "18.4 ball run CAN",
+          "gscode": 1,
+          "max": 100000,
+          "min": 100,
+          "rem": "",
+          "br": true,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 162,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 250
+            },
+            {
+              "psid": 0,
+              "odds": 162,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 400
+            }
+          ]
+        },
+        {
+          "sid": 396,
+          "psid": 0,
+          "sno": 1,
+          "psrno": 1,
+          "gstatus": "Ball Running",
+          "nat": "18.5 ball run CAN",
+          "gscode": 0,
+          "max": 100000,
+          "min": 100,
+          "rem": "",
+          "br": true,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 0
+            },
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 0
+            }
+          ]
+        },
+        {
+          "sid": 397,
+          "psid": 0,
+          "sno": 1,
+          "psrno": 1,
+          "gstatus": "SUSPENDED",
+          "nat": "18.6 ball run CAN",
+          "gscode": 0,
+          "max": 100000,
+          "min": 100,
+          "rem": "",
+          "br": true,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 0
+            },
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 0
+            }
+          ]
+        },
+        {
+          "sid": 399,
+          "psid": 0,
+          "sno": 1,
+          "psrno": 1,
+          "gstatus": "SUSPENDED",
+          "nat": "19.1 ball run CAN",
+          "gscode": 0,
+          "max": 100000,
+          "min": 100,
+          "rem": "",
+          "br": true,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 0
+            },
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 0
+            }
+          ]
+        },
+        {
+          "sid": 400,
+          "psid": 0,
+          "sno": 1,
+          "psrno": 1,
+          "gstatus": "Ball Running",
+          "nat": "19.2 ball run CAN",
+          "gscode": 0,
+          "max": 100000,
+          "min": 100,
+          "rem": "",
+          "br": true,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 0
+            },
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 0
+            }
+          ]
+        },
+        {
+          "sid": 401,
+          "psid": 0,
+          "sno": 1,
+          "psrno": 1,
+          "gstatus": "SUSPENDED",
+          "nat": "19.3 ball run CAN",
+          "gscode": 0,
+          "max": 100000,
+          "min": 100,
+          "rem": "",
+          "br": true,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 0
+            },
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 0
+            }
+          ]
+        },
+        {
+          "sid": 407,
+          "psid": 0,
+          "sno": 1,
+          "psrno": 1,
+          "gstatus": "SUSPENDED",
+          "nat": "19.6 ball run CAN",
+          "gscode": 0,
+          "max": 100000,
+          "min": 100,
+          "rem": "17.1 TO 19.6 2 RUN KA BHAV CHALEGA",
+          "br": true,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 0
+            },
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gmid": 689878567,
+      "mid": 862833242631,
+      "pmid": null,
+      "mname": "oddeven",
+      "rem": "",
+      "gtype": "oddeven",
+      "status": "OPEN",
+      "rc": 2,
+      "visible": false,
+      "pid": 0,
+      "gscode": 1,
+      "maxb": 0,
+      "sno": 4.1,
+      "dtype": 8,
+      "ocnt": 2,
+      "m": 0,
+      "max": 0,
+      "min": 0,
+      "biplay": true,
+      "umaxbof": 0,
+      "boplay": true,
+      "iplay": true,
+      "btcnt": 0,
+      "company": null,
+      "section": [
+        {
+          "sid": 2532,
+          "psid": 0,
+          "sno": 6,
+          "psrno": 6,
+          "gstatus": "",
+          "nat": "1st inn run odd even(NZ vs CAN)adv",
+          "gscode": 1,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 1.98,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 2000000
+            },
+            {
+              "psid": 0,
+              "odds": 1.98,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 2000000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gmid": 689878567,
+      "mid": 976606972364,
+      "pmid": null,
+      "mname": "1ST INN LAMBI NZ VS CAN",
+      "rem": "",
+      "gtype": "cricketcasino",
+      "status": "OPEN",
+      "rc": 2,
+      "visible": false,
+      "pid": 0,
+      "gscode": 1,
+      "maxb": 0,
+      "sno": 4.499999999999998,
+      "dtype": 9,
+      "ocnt": 2,
+      "m": 0,
+      "max": 0,
+      "min": 0,
+      "biplay": true,
+      "umaxbof": 0,
+      "boplay": true,
+      "iplay": true,
+      "btcnt": 0,
+      "company": null,
+      "section": [
+        {
+          "sid": 1,
+          "psid": 0,
+          "sno": 1,
+          "psrno": 1,
+          "gstatus": "Suspended",
+          "nat": "0 Number",
+          "gscode": 0,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 2,
+          "psid": 0,
+          "sno": 2,
+          "psrno": 2,
+          "gstatus": "Suspended",
+          "nat": "1 Number",
+          "gscode": 0,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 3,
+          "psid": 0,
+          "sno": 3,
+          "psrno": 3,
+          "gstatus": "Suspended",
+          "nat": "2 Number",
+          "gscode": 0,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 4,
+          "psid": 0,
+          "sno": 4,
+          "psrno": 4,
+          "gstatus": "Suspended",
+          "nat": "3 Number",
+          "gscode": 0,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 5,
+          "psid": 0,
+          "sno": 5,
+          "psrno": 5,
+          "gstatus": "Suspended",
+          "nat": "4 Number",
+          "gscode": 0,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 6,
+          "psid": 0,
+          "sno": 6,
+          "psrno": 6,
+          "gstatus": "Suspended",
+          "nat": "5 Number",
+          "gscode": 0,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 7,
+          "psid": 0,
+          "sno": 7,
+          "psrno": 7,
+          "gstatus": "Suspended",
+          "nat": "6 Number",
+          "gscode": 0,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 8,
+          "psid": 0,
+          "sno": 8,
+          "psrno": 8,
+          "gstatus": "Suspended",
+          "nat": "7 Number",
+          "gscode": 0,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 9,
+          "psid": 0,
+          "sno": 9,
+          "psrno": 9,
+          "gstatus": "Suspended",
+          "nat": "8 Number",
+          "gscode": 0,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 10,
+          "psid": 0,
+          "sno": 10,
+          "psrno": 10,
+          "gstatus": "Suspended",
+          "nat": "9 Number",
+          "gscode": 0,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gmid": 689878567,
+      "mid": 187686611166,
+      "pmid": null,
+      "mname": "2ND INN 6 OVER NZ VS CAN",
+      "rem": "",
+      "gtype": "cricketcasino",
+      "status": "OPEN",
+      "rc": 2,
+      "visible": false,
+      "pid": 0,
+      "gscode": 1,
+      "maxb": 0,
+      "sno": 4.599999999999998,
+      "dtype": 9,
+      "ocnt": 2,
+      "m": 0,
+      "max": 0,
+      "min": 0,
+      "biplay": true,
+      "umaxbof": 0,
+      "boplay": true,
+      "iplay": true,
+      "btcnt": 0,
+      "company": null,
+      "section": [
+        {
+          "sid": 1,
+          "psid": 0,
+          "sno": 1,
+          "psrno": 1,
+          "gstatus": "",
+          "nat": "0 Number",
+          "gscode": 1,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 2,
+          "psid": 0,
+          "sno": 2,
+          "psrno": 2,
+          "gstatus": "",
+          "nat": "1 Number",
+          "gscode": 1,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 3,
+          "psid": 0,
+          "sno": 3,
+          "psrno": 3,
+          "gstatus": "",
+          "nat": "2 Number",
+          "gscode": 1,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 4,
+          "psid": 0,
+          "sno": 4,
+          "psrno": 4,
+          "gstatus": "",
+          "nat": "3 Number",
+          "gscode": 1,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 5,
+          "psid": 0,
+          "sno": 5,
+          "psrno": 5,
+          "gstatus": "",
+          "nat": "4 Number",
+          "gscode": 1,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 6,
+          "psid": 0,
+          "sno": 6,
+          "psrno": 6,
+          "gstatus": "",
+          "nat": "5 Number",
+          "gscode": 1,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 7,
+          "psid": 0,
+          "sno": 7,
+          "psrno": 7,
+          "gstatus": "",
+          "nat": "6 Number",
+          "gscode": 1,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 8,
+          "psid": 0,
+          "sno": 8,
+          "psrno": 8,
+          "gstatus": "",
+          "nat": "7 Number",
+          "gscode": 1,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 9,
+          "psid": 0,
+          "sno": 9,
+          "psrno": 9,
+          "gstatus": "",
+          "nat": "8 Number",
+          "gscode": 1,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 10,
+          "psid": 0,
+          "sno": 10,
+          "psrno": 10,
+          "gstatus": "",
+          "nat": "9 Number",
+          "gscode": 1,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gmid": 689878567,
+      "mid": 389436349352,
+      "pmid": null,
+      "mname": "2ND INN 10 OVER NZ VS CAN",
+      "rem": "",
+      "gtype": "cricketcasino",
+      "status": "OPEN",
+      "rc": 2,
+      "visible": false,
+      "pid": 0,
+      "gscode": 1,
+      "maxb": 0,
+      "sno": 4.6999999999999975,
+      "dtype": 9,
+      "ocnt": 2,
+      "m": 0,
+      "max": 0,
+      "min": 0,
+      "biplay": true,
+      "umaxbof": 0,
+      "boplay": true,
+      "iplay": true,
+      "btcnt": 0,
+      "company": null,
+      "section": [
+        {
+          "sid": 1,
+          "psid": 0,
+          "sno": 1,
+          "psrno": 1,
+          "gstatus": "",
+          "nat": "0 Number",
+          "gscode": 1,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 2,
+          "psid": 0,
+          "sno": 2,
+          "psrno": 2,
+          "gstatus": "",
+          "nat": "1 Number",
+          "gscode": 1,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 3,
+          "psid": 0,
+          "sno": 3,
+          "psrno": 3,
+          "gstatus": "",
+          "nat": "2 Number",
+          "gscode": 1,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 4,
+          "psid": 0,
+          "sno": 4,
+          "psrno": 4,
+          "gstatus": "",
+          "nat": "3 Number",
+          "gscode": 1,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 5,
+          "psid": 0,
+          "sno": 5,
+          "psrno": 5,
+          "gstatus": "",
+          "nat": "4 Number",
+          "gscode": 1,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 6,
+          "psid": 0,
+          "sno": 6,
+          "psrno": 6,
+          "gstatus": "",
+          "nat": "5 Number",
+          "gscode": 1,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 7,
+          "psid": 0,
+          "sno": 7,
+          "psrno": 7,
+          "gstatus": "",
+          "nat": "6 Number",
+          "gscode": 1,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 8,
+          "psid": 0,
+          "sno": 8,
+          "psrno": 8,
+          "gstatus": "",
+          "nat": "7 Number",
+          "gscode": 1,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 9,
+          "psid": 0,
+          "sno": 9,
+          "psrno": 9,
+          "gstatus": "",
+          "nat": "8 Number",
+          "gscode": 1,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        },
+        {
+          "sid": 10,
+          "psid": 0,
+          "sno": 10,
+          "psrno": 10,
+          "gstatus": "",
+          "nat": "9 Number",
+          "gscode": 1,
+          "max": 200000,
+          "min": 100,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 9.5,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gmid": 689878567,
+      "mid": 5013864612335,
+      "pmid": null,
+      "mname": "TIED_MATCH",
+      "rem": "",
+      "gtype": "match",
+      "status": "OPEN",
+      "rc": 2,
+      "visible": false,
+      "pid": 0,
+      "gscode": 1,
+      "maxb": 1,
+      "sno": 7.001,
+      "dtype": 4,
+      "ocnt": 6,
+      "m": 0,
+      "max": 0,
+      "min": 0,
+      "biplay": true,
+      "umaxbof": 1,
+      "boplay": true,
+      "iplay": true,
+      "btcnt": 4,
+      "company": null,
+      "section": [
+        {
+          "sid": 71170,
+          "psid": 0,
+          "sno": 1,
+          "psrno": 1,
+          "gstatus": "ACTIVE",
+          "nat": "Yes",
+          "gscode": 1,
+          "max": 0,
+          "min": 0,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 70,
+              "otype": "back",
+              "oname": "back3",
+              "tno": 2,
+              "size": 27.86
+            },
+            {
+              "psid": 0,
+              "odds": 75,
+              "otype": "back",
+              "oname": "back2",
+              "tno": 1,
+              "size": 25.35
+            },
+            {
+              "psid": 0,
+              "odds": 80,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 14.62
+            },
+            {
+              "psid": 0,
+              "odds": 95,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 5.4
+            },
+            {
+              "psid": 0,
+              "odds": 100,
+              "otype": "lay",
+              "oname": "lay2",
+              "tno": 1,
+              "size": 6.62
+            },
+            {
+              "psid": 0,
+              "odds": 110,
+              "otype": "lay",
+              "oname": "lay3",
+              "tno": 2,
+              "size": 111.31
+            }
+          ]
+        },
+        {
+          "sid": 573481,
+          "psid": 0,
+          "sno": 2,
+          "psrno": 2,
+          "gstatus": "ACTIVE",
+          "nat": "No",
+          "gscode": 1,
+          "max": 0,
+          "min": 0,
+          "rem": "",
+          "br": false,
+          "ik": 0,
+          "ikm": 0,
+          "odds": [
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "back",
+              "oname": "back3",
+              "tno": 2,
+              "size": 0
+            },
+            {
+              "psid": 0,
+              "odds": 0,
+              "otype": "back",
+              "oname": "back2",
+              "tno": 1,
+              "size": 0
+            },
+            {
+              "psid": 0,
+              "odds": 1.01,
+              "otype": "back",
+              "oname": "back1",
+              "tno": 0,
+              "size": 12768.01
+            },
+            {
+              "psid": 0,
+              "odds": 1.02,
+              "otype": "lay",
+              "oname": "lay1",
+              "tno": 0,
+              "size": 20346.07
+            },
+            {
+              "psid": 0,
+              "odds": 1.03,
+              "otype": "lay",
+              "oname": "lay2",
+              "tno": 1,
+              "size": 13994.07
+            },
+            {
+              "psid": 0,
+              "odds": 1.04,
+              "otype": "lay",
+              "oname": "lay3",
+              "tno": 2,
+              "size": 8690.83
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

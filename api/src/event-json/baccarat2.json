@@ -1,0 +1,124 @@
+{
+  "_id": {
+    "$oid": "63f093775e7be8063c693b09"
+  },
+  "image": "https://dzm0kbaskt4pv.cloudfront.net/v11/static/front/img/casinoicons/img/baccarat2.jpg",
+  "title": "Baccarat 2",
+  "slug": "baccarat2",
+  "order": 7,
+  "match_id": 39,
+  "status": 1,
+  "id": 3033,
+  "event_data": {
+    "match_id": "39",
+    "title": "Baccarat 2",
+    "autotime": "0",
+    "remark": "",
+    "gtype": "baccarat2",
+    "min": 100,
+    "max": 500000,
+    "C1": "1",
+    "C2": "1",
+    "C3": "1",
+    "C4": "1",
+    "C5": "1",
+    "C6": "1",
+    "market": [
+      {
+        "MarketName": "Player",
+        "Runners": [
+          {
+            "RunnerName": "Player",
+            "SelectionId": "1"
+          }
+        ]
+      },
+      {
+        "MarketName": "Banker",
+        "Runners": [
+          {
+            "RunnerName": "Banker",
+            "SelectionId": "2"
+          }
+        ]
+      },
+      {
+        "MarketName": "Tie",
+        "Runners": [
+          {
+            "RunnerName": "Tie",
+            "SelectionId": "3"
+          }
+        ]
+      },
+      {
+        "MarketName": "Player Pair",
+        "Runners": [
+          {
+            "RunnerName": "Player Pair",
+            "SelectionId": "4"
+          }
+        ]
+      },
+      {
+        "MarketName": "Banker Pair",
+        "Runners": [
+          {
+            "RunnerName": "Banker Pair",
+            "SelectionId": "5"
+          }
+        ]
+      },
+      {
+        "MarketName": "Score 1-4",
+        "Runners": [
+          {
+            "RunnerName": "Score 1-4",
+            "SelectionId": "6"
+          }
+        ]
+      },
+      {
+        "MarketName": "Score 5-6",
+        "Runners": [
+          {
+            "RunnerName": "Score 5-6",
+            "SelectionId": "7"
+          }
+        ]
+      },
+      {
+        "MarketName": "Score 7",
+        "Runners": [
+          {
+            "RunnerName": "Score 7",
+            "SelectionId": "8"
+          }
+        ]
+      },
+      {
+        "MarketName": "Score 8",
+        "Runners": [
+          {
+            "RunnerName": "Score 8",
+            "SelectionId": "9"
+          }
+        ]
+      },
+      {
+        "MarketName": "Score 9",
+        "Runners": [
+          {
+            "RunnerName": "Score 9",
+            "SelectionId": "10"
+          }
+        ]
+      }
+    ],
+    "RunnerName": [
+      "P",
+      "B",
+      "T"
+    ]
+  }
+}

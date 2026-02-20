@@ -1,0 +1,63 @@
+{
+  "image": "https://dzm0kbaskt4pv.cloudfront.net/v11/static/front/img/casinoicons/img/teenpatti.jpg",
+  "title": "20-20 Teenpatti",
+  "slug": "teen20",
+  "order": 17,
+  "match_id": 11,
+  "status": 1,
+  "id": 3030,
+  "event_data": {
+    "match_id": "11",
+    "title": "20-20 Teenpatti",
+    "autotime": "0",
+    "remark": "",
+    "gtype": "teen20",
+    "min": 100,
+    "max": 500000,
+    "C1": "1",
+    "C2": "1",
+    "C3": "1",
+    "market": [
+      {
+        "MarketName": "Player A",
+        "Runners": [
+          {
+            "RunnerName": "Player A",
+            "SelectionId": "1"
+          }
+        ]
+      },
+      {
+        "MarketName": "Player B",
+        "Runners": [
+          {
+            "RunnerName": "Player B",
+            "SelectionId": "3"
+          }
+        ]
+      },
+      {
+        "MarketName": "PairA",
+        "Runners": [
+          {
+            "RunnerName": "Pair plus A",
+            "SelectionId": "2"
+          }
+        ]
+      },
+      {
+        "MarketName": "PairB",
+        "Runners": [
+          {
+            "RunnerName": "Pair plus B",
+            "SelectionId": "4"
+          }
+        ]
+      }
+    ],
+    "RunnerName": [
+      "A",
+      "B"
+    ]
+  }
+}

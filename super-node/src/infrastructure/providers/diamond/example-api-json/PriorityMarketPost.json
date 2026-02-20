@@ -1,0 +1,47 @@
+{
+  "endpoint": "base_url/sports/post-market",
+  "body": {
+    "sportsid": 4,
+    "gmid": "882309963",
+    "marketName": "15 OVER RUN AA",
+    "mname": "NORMAL",
+    "gtype": "FANCY"
+  },
+  "response": {
+    "success": true,
+    "msg": "Success",
+    "status": 200,
+    "data": [
+      {
+        "name": "Ireland v Zimbabwe",
+        "sportId": 4,
+        "id": "820254883",
+        "lid": "820254883_4"
+      },
+      {
+        "name": "Sydney FC v Auckland FC",
+        "sportId": 1,
+        "id": "819360781",
+        "lid": "819360781_1"
+      },
+      {
+        "name": "I Jovic v Di Shnaider",
+        "sportId": 2,
+        "id": "476460554",
+        "lid": "476460554_2"
+      },
+      {
+        "name": "Mertens v Emm Navarro",
+        "sportId": 2,
+        "id": "761469241",
+        "lid": "761469241_2"
+      },
+      {
+        "name": "El Seidel v J Cristian",
+        "sportId": 2,
+        "id": "758601717",
+        "lid": "758601717_2"
+      }
+    ]
+  }
+}

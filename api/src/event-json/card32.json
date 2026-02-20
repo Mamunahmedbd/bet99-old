@@ -1,0 +1,53 @@
+{
+    "_id": {
+      "$oid": "63a53fd2eeeb33a4ad24084f"
+    },
+    "image": "https://dzm0kbaskt4pv.cloudfront.net/v11/static/front/img/casinoicons/img/32cardsA.jpg",
+    "title": "32 Cards A",
+    "slug": "card32",
+    "order": 22,
+    "match_id": 18,
+    "status": 1,
+    "id": 3055,
+    "event_data": {
+      "match_id": "18",
+      "title": "32 Cards A",
+      "autotime": "0",
+      "remark": "",
+      "gtype": "card32",
+      "min": 100,
+      "max": 500000,
+      "C1": "1",
+      "C2": "1",
+      "C3": "1",
+      "market": [
+        {
+          "MarketName": "Fancy Market",
+          "Runners": [
+            {
+              "RunnerName": "Player 8",
+              "SelectionId": "1"
+            },
+            {
+              "RunnerName": "Player 9",
+              "SelectionId": "2"
+            },
+            {
+              "RunnerName": "Player 10",
+              "SelectionId": "3"
+            },
+            {
+              "RunnerName": "Player 11",
+              "SelectionId": "4"
+            }
+          ]
+        }
+      ],
+      "RunnerName": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ]
+    }
+  }

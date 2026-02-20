@@ -1,0 +1,196 @@
+{
+  "image": "https://dzm0kbaskt4pv.cloudfront.net/v11/static/front/img/casinoicons/img/teenpatti.jpg",
+  "title": "Test Teenpatti",
+  "slug": "testtp",
+  "order": 16,
+  "match_id": 10,
+  "status": 1,
+  "id": 3048,
+  "event_data": {
+    "match_id": "10",
+    "title": "Test Teenpatti",
+    "autotime": "0",
+    "remark": "Incase of Tie, The entire round will be cancelled || Odds are considered same as international exchange. || In \"Trio\" result, \"Pair\" should not be considered. || In \"Straight Flush\" result, \"Straight\" and \"Flush\" should not be considered.",
+    "gtype": "teen9",
+    "min": 100,
+    "max": 300000,
+    "C1": "2SS",
+    "C2": "8SS",
+    "C3": "1",
+    "C4": "KHH",
+    "C5": "7DD",
+    "C6": "1",
+    "C7": "6SS",
+    "C8": "10HH",
+    "C9": "1",
+    "market": [
+      {
+        "MarketName": "Winner Tiger",
+        "Runners": [
+          {
+            "RunnerName": "Winner Tiger",
+            "SelectionId": "11"
+          }
+        ]
+      },
+      {
+        "MarketName": "Winner Lion",
+        "Runners": [
+          {
+            "RunnerName": "Winner Lion",
+            "SelectionId": "21"
+          }
+        ]
+      },
+      {
+        "MarketName": "Winner Dragon",
+        "Runners": [
+          {
+            "RunnerName": "Winner Dragon",
+            "SelectionId": "31"
+          }
+        ]
+      },
+      {
+        "MarketName": "Pair Tiger",
+        "Runners": [
+          {
+            "RunnerName": "Pair Tiger",
+            "SelectionId": "12"
+          }
+        ]
+      },
+      {
+        "MarketName": "Pair Lion",
+        "Runners": [
+          {
+            "RunnerName": "Pair Lion",
+            "SelectionId": "22"
+          }
+        ]
+      },
+      {
+        "MarketName": "Pair Dragon",
+        "Runners": [
+          {
+            "RunnerName": "Pair Dragon",
+            "SelectionId": "32"
+          }
+        ]
+      },
+      {
+        "MarketName": "Flush Tiger",
+        "Runners": [
+          {
+            "RunnerName": "Flush Tiger",
+            "SelectionId": "13"
+          }
+        ]
+      },
+      {
+        "MarketName": "Flush Lion",
+        "Runners": [
+          {
+            "RunnerName": "Flush Lion",
+            "SelectionId": "23"
+          }
+        ]
+      },
+      {
+        "MarketName": "Flush Dragon",
+        "Runners": [
+          {
+            "RunnerName": "Flush Dragon",
+            "SelectionId": "33"
+          }
+        ]
+      },
+      {
+        "MarketName": "Straight Tiger",
+        "Runners": [
+          {
+            "RunnerName": "Straight Tiger",
+            "SelectionId": "14"
+          }
+        ]
+      },
+      {
+        "MarketName": "Straight Lion",
+        "Runners": [
+          {
+            "RunnerName": "Straight Lion",
+            "SelectionId": "24"
+          }
+        ]
+      },
+      {
+        "MarketName": "Straight Dragon",
+        "Runners": [
+          {
+            "RunnerName": "Straight Dragon",
+            "SelectionId": "34"
+          }
+        ]
+      },
+      {
+        "MarketName": "Trio Tiger",
+        "Runners": [
+          {
+            "RunnerName": "Trio Tiger",
+            "SelectionId": "15"
+          }
+        ]
+      },
+      {
+        "MarketName": "Trio Lion",
+        "Runners": [
+          {
+            "RunnerName": "Trio Lion",
+            "SelectionId": "25"
+          }
+        ]
+      },
+      {
+        "MarketName": "Trio Dragon",
+        "Runners": [
+          {
+            "RunnerName": "Trio Dragon",
+            "SelectionId": "35"
+          }
+        ]
+      },
+      {
+        "MarketName": "Straight Flush Tiger",
+        "Runners": [
+          {
+            "RunnerName": "Straight Flush Tiger",
+            "SelectionId": "16"
+          }
+        ]
+      },
+      {
+        "MarketName": "Straight Flush Lion",
+        "Runners": [
+          {
+            "RunnerName": "Straight Flush Lion",
+            "SelectionId": "26"
+          }
+        ]
+      },
+      {
+        "MarketName": "Straight Flush Dragon",
+        "Runners": [
+          {
+            "RunnerName": "Straight Flush Dragon",
+            "SelectionId": "36"
+          }
+        ]
+      }
+    ],
+    "RunnerName": ["Tiger", "Lion", "Dragon"]
+  },
+  "isDisable": false,
+  "updatedAt": {
+    "$date": "2023-10-14T13:30:36.606Z"
+  }
+}

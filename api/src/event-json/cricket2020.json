@@ -1,0 +1,67 @@
+{
+  "image": "https://dzm0kbaskt4pv.cloudfront.net/v11/static/front/img/casinoicons/img/cc-20.jpg",
+  "title": "20-20 Cricket Match",
+  "slug": "cricket2020",
+  "match_id": 35,
+  "status": 1,
+  "id": 3045,
+  "event_data": {
+    "match_id":"35",
+    "title": "20-20 Cricket",
+    "autotime": "0",
+    "remark": "Team B Need 12 Runs to WIN Match. If The Score is Tie Team B will WIN.",
+    "gtype": "cricket2020",
+    "min": 100,
+    "max": 100000,
+    "C1": "1",
+    "C2": "1",
+    "C3": "1",
+    "C4": "1",
+    "C5": "1",
+    "C6": "1",
+    "C7": "1",
+    "market": [
+      {
+        "MarketName": "Run",
+        "Runners": [
+          {
+            "RunnerName": "Run 2",
+            "SelectionId": "1"
+          },
+          {
+            "RunnerName": "Run 3",
+            "SelectionId": "2"
+          },
+          {
+            "RunnerName": "Run 4",
+            "SelectionId": "3"
+          },
+          {
+            "RunnerName": "Run 5",
+            "SelectionId": "4"
+          },
+          {
+            "RunnerName": "Run 6",
+            "SelectionId": "5"
+          },
+          {
+            "RunnerName": "Run 7",
+            "SelectionId": "6"
+          },
+          {
+            "RunnerName": "Run 8",
+            "SelectionId": "7"
+          },
+          {
+            "RunnerName": "Run 9",
+            "SelectionId": "8"
+          },
+          {
+            "RunnerName": "Run 10",
+            "SelectionId": "9"
+          }
+        ]
+      }
+    ]
+  }
+}

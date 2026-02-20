@@ -1,0 +1,132 @@
+{
+  "image": "https://dzm0kbaskt4pv.cloudfront.net/v11/static/front/img/casinoicons/img/andar-bahar.jpg",
+  "title": "Andar Bahar",
+  "slug": "Andarbahar",
+  "match_id": 14,
+  "status": 0,
+  "id": 3053,
+  "event_data": {
+    "title": "Andar Bahar",
+    "autotime": "0",
+    "remark": "",
+    "gtype": "ab20",
+    "min": 100,
+    "max": 100000,
+    "market": [
+      {
+        "MarketName": "Andar",
+        "Runners": [
+          {
+            "RunnerName": "Ander A",
+            "SelectionId": "1"
+          },
+          {
+            "RunnerName": "Ander 2",
+            "SelectionId": "2"
+          },
+          {
+            "RunnerName": "Ander 3",
+            "SelectionId": "3"
+          },
+          {
+            "RunnerName": "Ander 4",
+            "SelectionId": "4"
+          },
+          {
+            "RunnerName": "Ander 5",
+            "SelectionId": "5"
+          },
+          {
+            "RunnerName": "Ander 6",
+            "SelectionId": "6"
+          },
+          {
+            "RunnerName": "Ander 7",
+            "SelectionId": "7"
+          },
+          {
+            "RunnerName": "Ander 8",
+            "SelectionId": "8"
+          },
+          {
+            "RunnerName": "Ander 9",
+            "SelectionId": "9"
+          },
+          {
+            "RunnerName": "Ander 10",
+            "SelectionId": "10"
+          },
+          {
+            "RunnerName": "Ander J",
+            "SelectionId": "11"
+          },
+          {
+            "RunnerName": "Ander Q",
+            "SelectionId": "12"
+          },
+          {
+            "RunnerName": "Ander K",
+            "SelectionId": "13"
+          }
+        ]
+      },
+      {
+        "MarketName": "Bahar",
+        "Runners": [
+          {
+            "RunnerName": "Bahar A",
+            "SelectionId": "21"
+          },
+          {
+            "RunnerName": "Bahar 2",
+            "SelectionId": "22"
+          },
+          {
+            "RunnerName": "Bahar 3",
+            "SelectionId": "23"
+          },
+          {
+            "RunnerName": "Bahar 4",
+            "SelectionId": "24"
+          },
+          {
+            "RunnerName": "Bahar 5",
+            "SelectionId": "25"
+          },
+          {
+            "RunnerName": "Bahar 6",
+            "SelectionId": "26"
+          },
+          {
+            "RunnerName": "Bahar 7",
+            "SelectionId": "27"
+          },
+          {
+            "RunnerName": "Bahar 8",
+            "SelectionId": "28"
+          },
+          {
+            "RunnerName": "Bahar 9",
+            "SelectionId": "29"
+          },
+          {
+            "RunnerName": "Bahar 10",
+            "SelectionId": "30"
+          },
+          {
+            "RunnerName": "Bahar J",
+            "SelectionId": "31"
+          },
+          {
+            "RunnerName": "Bahar Q",
+            "SelectionId": "32"
+          },
+          {
+            "RunnerName": "Bahar K",
+            "SelectionId": "33"
+          }
+        ]
+      }
+    ]
+  }
+}

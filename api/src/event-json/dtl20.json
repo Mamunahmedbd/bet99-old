@@ -1,0 +1,510 @@
+{
+  "image": "https://dzm0kbaskt4pv.cloudfront.net/v11/static/front/img/casinoicons/img/dtl.jpg",
+  "title": "20-20 DTL",
+  "slug": "dtl20",
+  "order": 14,
+  "match_id": 32,
+  "status": 1,
+  "id": 3047,
+  "event_data": {
+    "match_id": "32",
+    "title": "20-20 DTL",
+    "autotime": "0",
+    "remark": "",
+    "gtype": "dtl20",
+    "min": 100,
+    "max": 500000,
+    "C1": "1",
+    "C2": "1",
+    "C3": "1",
+    "market": [
+      {
+        "MarketName": "Winner D",
+        "Runners": [
+          {
+            "RunnerName": "Winner D",
+            "SelectionId": "1"
+          }
+        ]
+      },
+      {
+        "MarketName": "Black D",
+        "Runners": [
+          {
+            "RunnerName": "Black D",
+            "SelectionId": "2"
+          }
+        ]
+      },
+      {
+        "MarketName": "Red D",
+        "Runners": [
+          {
+            "RunnerName": "Red D",
+            "SelectionId": "3"
+          }
+        ]
+      },
+      {
+        "MarketName": "Odd D",
+        "Runners": [
+          {
+            "RunnerName": "Odd D",
+            "SelectionId": "4"
+          }
+        ]
+      },
+      {
+        "MarketName": "Even D",
+        "Runners": [
+          {
+            "RunnerName": "Even D",
+            "SelectionId": "5"
+          }
+        ]
+      },
+      {
+        "MarketName": "Dragon A",
+        "Runners": [
+          {
+            "RunnerName": "Dragon A",
+            "SelectionId": "6"
+          }
+        ]
+      },
+      {
+        "MarketName": "Dragon 2",
+        "Runners": [
+          {
+            "RunnerName": "Dragon 2",
+            "SelectionId": "7"
+          }
+        ]
+      },
+      {
+        "MarketName": "Dragon 3",
+        "Runners": [
+          {
+            "RunnerName": "Dragon 3",
+            "SelectionId": "8"
+          }
+        ]
+      },
+      {
+        "MarketName": "Dragon 4",
+        "Runners": [
+          {
+            "RunnerName": "Dragon 4",
+            "SelectionId": "9"
+          }
+        ]
+      },
+      {
+        "MarketName": "Dragon 5",
+        "Runners": [
+          {
+            "RunnerName": "Dragon 5",
+            "SelectionId": "10"
+          }
+        ]
+      },
+      {
+        "MarketName": "Dragon 6",
+        "Runners": [
+          {
+            "RunnerName": "Dragon 6",
+            "SelectionId": "11"
+          }
+        ]
+      },
+      {
+        "MarketName": "Dragon 7",
+        "Runners": [
+          {
+            "RunnerName": "Dragon 7",
+            "SelectionId": "12"
+          }
+        ]
+      },
+      {
+        "MarketName": "Dragon 8",
+        "Runners": [
+          {
+            "RunnerName": "Dragon 8",
+            "SelectionId": "13"
+          }
+        ]
+      },
+      {
+        "MarketName": "Dragon 9",
+        "Runners": [
+          {
+            "RunnerName": "Dragon 9",
+            "SelectionId": "14"
+          }
+        ]
+      },
+      {
+        "MarketName": "Dragon 10",
+        "Runners": [
+          {
+            "RunnerName": "Dragon 10",
+            "SelectionId": "15"
+          }
+        ]
+      },
+      {
+        "MarketName": "Dragon J",
+        "Runners": [
+          {
+            "RunnerName": "Dragon J",
+            "SelectionId": "16"
+          }
+        ]
+      },
+      {
+        "MarketName": "Dragon Q",
+        "Runners": [
+          {
+            "RunnerName": "Dragon Q",
+            "SelectionId": "17"
+          }
+        ]
+      },
+      {
+        "MarketName": "Dragon K",
+        "Runners": [
+          {
+            "RunnerName": "Dragon K",
+            "SelectionId": "18"
+          }
+        ]
+      },
+      {
+        "MarketName": "Winner T",
+        "Runners": [
+          {
+            "RunnerName": "Winner T",
+            "SelectionId": "21"
+          }
+        ]
+      },
+      {
+        "MarketName": "Black T",
+        "Runners": [
+          {
+            "RunnerName": "Black T",
+            "SelectionId": "22"
+          }
+        ]
+      },
+      {
+        "MarketName": "Red T",
+        "Runners": [
+          {
+            "RunnerName": "Red T",
+            "SelectionId": "23"
+          }
+        ]
+      },
+      {
+        "MarketName": "Odd T",
+        "Runners": [
+          {
+            "RunnerName": "Odd T",
+            "SelectionId": "24"
+          }
+        ]
+      },
+      {
+        "MarketName": "Even T",
+        "Runners": [
+          {
+            "RunnerName": "Even T",
+            "SelectionId": "25"
+          }
+        ]
+      },
+      {
+        "MarketName": "Tiger A",
+        "Runners": [
+          {
+            "RunnerName": "Tiger A",
+            "SelectionId": "26"
+          }
+        ]
+      },
+      {
+        "MarketName": "Tiger 2",
+        "Runners": [
+          {
+            "RunnerName": "Tiger 2",
+            "SelectionId": "27"
+          }
+        ]
+      },
+      {
+        "MarketName": "Tiger 3",
+        "Runners": [
+          {
+            "RunnerName": "Tiger 3",
+            "SelectionId": "28"
+          }
+        ]
+      },
+      {
+        "MarketName": "Tiger 4",
+        "Runners": [
+          {
+            "RunnerName": "Tiger 4",
+            "SelectionId": "29"
+          }
+        ]
+      },
+      {
+        "MarketName": "Tiger 5",
+        "Runners": [
+          {
+            "RunnerName": "Tiger 5",
+            "SelectionId": "30"
+          }
+        ]
+      },
+      {
+        "MarketName": "Tiger 6",
+        "Runners": [
+          {
+            "RunnerName": "Tiger 6",
+            "SelectionId": "31"
+          }
+        ]
+      },
+      {
+        "MarketName": "Tiger 7",
+        "Runners": [
+          {
+            "RunnerName": "Tiger 7",
+            "SelectionId": "32"
+          }
+        ]
+      },
+      {
+        "MarketName": "Tiger 8",
+        "Runners": [
+          {
+            "RunnerName": "Tiger 8",
+            "SelectionId": "33"
+          }
+        ]
+      },
+      {
+        "MarketName": "Tiger 9",
+        "Runners": [
+          {
+            "RunnerName": "Tiger 9",
+            "SelectionId": "34"
+          }
+        ]
+      },
+      {
+        "MarketName": "Tiger 10",
+        "Runners": [
+          {
+            "RunnerName": "Tiger 10",
+            "SelectionId": "35"
+          }
+        ]
+      },
+      {
+        "MarketName": "Tiger J",
+        "Runners": [
+          {
+            "RunnerName": "Tiger J",
+            "SelectionId": "36"
+          }
+        ]
+      },
+      {
+        "MarketName": "Tiger Q",
+        "Runners": [
+          {
+            "RunnerName": "Tiger Q",
+            "SelectionId": "37"
+          }
+        ]
+      },
+      {
+        "MarketName": "Tiger K",
+        "Runners": [
+          {
+            "RunnerName": "Tiger K",
+            "SelectionId": "38"
+          }
+        ]
+      },
+      {
+        "MarketName": "Winner L",
+        "Runners": [
+          {
+            "RunnerName": "Winner L",
+            "SelectionId": "41"
+          }
+        ]
+      },
+      {
+        "MarketName": "Black L",
+        "Runners": [
+          {
+            "RunnerName": "Black L",
+            "SelectionId": "42"
+          }
+        ]
+      },
+      {
+        "MarketName": "Red L",
+        "Runners": [
+          {
+            "RunnerName": "Red L",
+            "SelectionId": "43"
+          }
+        ]
+      },
+      {
+        "MarketName": "Odd L",
+        "Runners": [
+          {
+            "RunnerName": "Odd L",
+            "SelectionId": "44"
+          }
+        ]
+      },
+      {
+        "MarketName": "Even L",
+        "Runners": [
+          {
+            "RunnerName": "Even L",
+            "SelectionId": "45"
+          }
+        ]
+      },
+      {
+        "MarketName": "Lion A",
+        "Runners": [
+          {
+            "RunnerName": "Lion A",
+            "SelectionId": "46"
+          }
+        ]
+      },
+      {
+        "MarketName": "Lion 2",
+        "Runners": [
+          {
+            "RunnerName": "Lion 2",
+            "SelectionId": "47"
+          }
+        ]
+      },
+      {
+        "MarketName": "Lion 3",
+        "Runners": [
+          {
+            "RunnerName": "Lion 3",
+            "SelectionId": "48"
+          }
+        ]
+      },
+      {
+        "MarketName": "Lion 4",
+        "Runners": [
+          {
+            "RunnerName": "Lion 4",
+            "SelectionId": "49"
+          }
+        ]
+      },
+      {
+        "MarketName": "Lion 5",
+        "Runners": [
+          {
+            "RunnerName": "Lion 5",
+            "SelectionId": "50"
+          }
+        ]
+      },
+      {
+        "MarketName": "Lion 6",
+        "Runners": [
+          {
+            "RunnerName": "Lion 6",
+            "SelectionId": "51"
+          }
+        ]
+      },
+      {
+        "MarketName": "Lion 7",
+        "Runners": [
+          {
+            "RunnerName": "Lion ",
+            "SelectionId": "52"
+          }
+        ]
+      },
+      {
+        "MarketName": "Lion 8",
+        "Runners": [
+          {
+            "RunnerName": "Lion 8",
+            "SelectionId": "53"
+          }
+        ]
+      },
+      {
+        "MarketName": "Lion 9",
+        "Runners": [
+          {
+            "RunnerName": "Lion 9",
+            "SelectionId": "54"
+          }
+        ]
+      },
+      {
+        "MarketName": "Lion 10",
+        "Runners": [
+          {
+            "RunnerName": "Lion 10",
+            "SelectionId": "55"
+          }
+        ]
+      },
+      {
+        "MarketName": "Lion J",
+        "Runners": [
+          {
+            "RunnerName": "Lion J",
+            "SelectionId": "56"
+          }
+        ]
+      },
+      {
+        "MarketName": "Lion Q",
+        "Runners": [
+          {
+            "RunnerName": "Lion Q",
+            "SelectionId": "57"
+          }
+        ]
+      },
+      {
+        "MarketName": "Lion K",
+        "Runners": [
+          {
+            "RunnerName": "Lion K",
+            "SelectionId": "58"
+          }
+        ]
+      }
+    ],
+    "RunnerName": ["A", "B"]
+  }
+}

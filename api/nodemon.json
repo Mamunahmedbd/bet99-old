@@ -1,0 +1,11 @@
+{
+  "ignore": [
+    "*.log",
+    "supar.log",
+    "super.log"
+  ],
+  "watch": [
+    "src"
+  ],
+  "ext": "ts,js,json"
+}

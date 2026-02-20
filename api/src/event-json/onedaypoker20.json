@@ -1,0 +1,199 @@
+{
+  "_id": {
+    "$oid": "63dcfed44152ed5e9a5d756e"
+  },
+  "image": "https://dzm0kbaskt4pv.cloudfront.net/v11/static/front/img/casinoicons/img/poker.jpg",
+  "title": "20-20 Poker",
+  "slug": "onedaypoker20",
+  "order": 21,
+  "match_id": 12,
+  "status": 1,
+  "id": 3052,
+  "event_data": {
+    "match_id": "12",
+    "title": "20-20 Poker",
+    "autotime": "0",
+    "remark": "In each round, player will be a winner from player A/B and from the remaining patterns, only high pattern will be considered as winner for each player | tie round will be considered as a cancel round.",
+    "gtype": "poker20",
+    "min": 100,
+    "max": 300000,
+    "C1": "2SS",
+    "C2": "8SS",
+    "C3": "1",
+    "C4": "KHH",
+    "C5": "7DD",
+    "C6": "1",
+    "C7": "6SS",
+    "C8": "10HH",
+    "C9": "1",
+    "market": [
+      {
+        "MarketName": "Winner A",
+        "Runners": [
+          {
+            "RunnerName": "Player A",
+            "SelectionId": "11"
+          }
+        ]
+      },
+      {
+        "MarketName": "Winner B",
+        "Runners": [
+          {
+            "RunnerName": "Player B",
+            "SelectionId": "21"
+          }
+        ]
+      },
+      {
+        "MarketName": "One Pair A",
+        "Runners": [
+          {
+            "RunnerName": "Player A",
+            "SelectionId": "12"
+          }
+        ]
+      },
+      {
+        "MarketName": "One Pair B",
+        "Runners": [
+          {
+            "RunnerName": "Player B",
+            "SelectionId": "22"
+          }
+        ]
+      },
+      {
+        "MarketName": "Two Pair A",
+        "Runners": [
+          {
+            "RunnerName": "Player A",
+            "SelectionId": "13"
+          }
+        ]
+      },
+      {
+        "MarketName": "Two Pair B",
+        "Runners": [
+          {
+            "RunnerName": "Player B",
+            "SelectionId": "23"
+          }
+        ]
+      },
+      {
+        "MarketName": "Three of a Kind A",
+        "Runners": [
+          {
+            "RunnerName": "Player A",
+            "SelectionId": "14"
+          }
+        ]
+      },
+      {
+        "MarketName": "Three of a Kind B",
+        "Runners": [
+          {
+            "RunnerName": "Player B",
+            "SelectionId": "24"
+          }
+        ]
+      },
+      {
+        "MarketName": "Straight A",
+        "Runners": [
+          {
+            "RunnerName": "Player A",
+            "SelectionId": "15"
+          }
+        ]
+      },
+      {
+        "MarketName": "Straight B",
+        "Runners": [
+          {
+            "RunnerName": "Player B",
+            "SelectionId": "25"
+          }
+        ]
+      },
+      {
+        "MarketName": "Flush A",
+        "Runners": [
+          {
+            "RunnerName": "Player A",
+            "SelectionId": "16"
+          }
+        ]
+      },
+      {
+        "MarketName": "Flush B",
+        "Runners": [
+          {
+            "RunnerName": "Player B",
+            "SelectionId": "26"
+          }
+        ]
+      },
+      {
+        "MarketName": "Full House A",
+        "Runners": [
+          {
+            "RunnerName": "Player A",
+            "SelectionId": "17"
+          }
+        ]
+      },
+      {
+        "MarketName": "Full House B",
+        "Runners": [
+          {
+            "RunnerName": "Player B",
+            "SelectionId": "27"
+          }
+        ]
+      },
+      {
+        "MarketName": "Four of a Kind A",
+        "Runners": [
+          {
+            "RunnerName": "Player A",
+            "SelectionId": "18"
+          }
+        ]
+      },
+      {
+        "MarketName": "Four of a Kind B",
+        "Runners": [
+          {
+            "RunnerName": "Player B",
+            "SelectionId": "28"
+          }
+        ]
+      },
+      {
+        "MarketName": "Straight Flush A",
+        "Runners": [
+          {
+            "RunnerName": "Player A",
+            "SelectionId": "19"
+          }
+        ]
+      },
+      {
+        "MarketName": "Straight Flush B",
+        "Runners": [
+          {
+            "RunnerName": "Player B",
+            "SelectionId": "29"
+          }
+        ]
+      }
+    ],
+    "RunnerName": ["Player A", "Player B"]
+  },
+  "isDisable": false,
+  "updatedAt": {
+    "$date": "2023-10-15T13:18:01.222Z"
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "_id": {
+    "$oid": "63a53fd2eeeb33a4ad240856"
+  },
+  "image": "https://dzm0kbaskt4pv.cloudfront.net/v11/static/front/img/casinoicons/img/lucky7.jpg",
+  "title": "Lucky 7 - A",
+  "slug": "lucky7",
+  "order": 28,
+  "match_id": 24,
+  "status": 1,
+  "id": 3058,
+  "event_data": {
+    "match_id": "24",
+    "title": "Lucky 7 - A",
+    "autotime": "0",
+    "remark": "",
+    "gtype": "lucky7",
+    "min": 100,
+    "max": 500000,
+    "C1": "1",
+    "C2": "1",
+    "C3": "1",
+    "market": [
+      {
+        "MarketName": "LOW Card",
+        "Runners": [
+          {
+            "RunnerName": "LOW Card",
+            "SelectionId": "1"
+          }
+        ]
+      },
+      {
+        "MarketName": "HIGH Card",
+        "Runners": [
+          {
+            "RunnerName": "HIGH Card",
+            "SelectionId": "2"
+          }
+        ]
+      },
+      {
+        "MarketName": "Even",
+        "Runners": [
+          {
+            "RunnerName": "Even",
+            "SelectionId": "3"
+          }
+        ]
+      },
+      {
+        "MarketName": "Odd",
+        "Runners": [
+          {
+            "RunnerName": "Odd",
+            "SelectionId": "4"
+          }
+        ]
+      },
+      {
+        "MarketName": "Red",
+        "Runners": [
+          {
+            "RunnerName": "Red",
+            "SelectionId": "5"
+          }
+        ]
+      },
+      {
+        "MarketName": "Black",
+        "Runners": [
+          {
+            "RunnerName": "Black",
+            "SelectionId": "6"
+          }
+        ]
+      },
+      {
+        "MarketName": "Card 1",
+        "Runners": [
+          {
+            "RunnerName": "Card 1",
+            "SelectionId": "7"
+          }
+        ]
+      },
+      {
+        "MarketName": "Card 2",
+        "Runners": [
+          {
+            "RunnerName": "Card 2",
+            "SelectionId": "8"
+          }
+        ]
+      },
+      {
+        "MarketName": "Card 3",
+        "Runners": [
+          {
+            "RunnerName": "Card 3",
+            "SelectionId": "9"
+          }
+        ]
+      },
+      {
+        "MarketName": "Card 4",
+        "Runners": [
+          {
+            "RunnerName": "Card 4",
+            "SelectionId": "10"
+          }
+        ]
+      },
+      {
+        "MarketName": "Card 5",
+        "Runners": [
+          {
+            "RunnerName": "Card 5",
+            "SelectionId": "11"
+          }
+        ]
+      },
+      {
+        "MarketName": "Card 6",
+        "Runners": [
+          {
+            "RunnerName": "Card 6",
+            "SelectionId": "12"
+          }
+        ]
+      },
+      {
+        "MarketName": "Card 7",
+        "Runners": [
+          {
+            "RunnerName": "Card 7",
+            "SelectionId": "13"
+          }
+        ]
+      },
+      {
+        "MarketName": "Card 8",
+        "Runners": [
+          {
+            "RunnerName": "Card 8",
+            "SelectionId": "14"
+          }
+        ]
+      },
+      {
+        "MarketName": "Card 9",
+        "Runners": [
+          {
+            "RunnerName": "Card 9",
+            "SelectionId": "15"
+          }
+        ]
+      },
+      {
+        "MarketName": "Card 10",
+        "Runners": [
+          {
+            "RunnerName": "Card 10",
+            "SelectionId": "16"
+          }
+        ]
+      },
+      {
+        "MarketName": "Card J",
+        "Runners": [
+          {
+            "RunnerName": "Card J",
+            "SelectionId": "17"
+          }
+        ]
+      },
+      {
+        "MarketName": "Card Q",
+        "Runners": [
+          {
+            "RunnerName": "Card Q",
+            "SelectionId": "18"
+          }
+        ]
+      },
+      {
+        "MarketName": "Card K",
+        "Runners": [
+          {
+            "RunnerName": "Card K",
+            "SelectionId": "19"
+          }
+        ]
+      }
+    ],
+    "RunnerName": [
+      "A",
+      "B"
+    ]
+  },
+  "isDisable": false,
+  "updatedAt": {
+    "$date": "2023-10-15T13:17:28.684Z"
+  }
+}

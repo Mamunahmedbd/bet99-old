@@ -1,0 +1,1232 @@
+{
+  "endpoint": "base_url/diamond-proxy/matches?sid=4",
+  "success": true,
+  "msg": "Success",
+  "status": 200,
+  "data": {
+    "t1": [
+      {
+        "gmid": 472886516,
+        "ename": "Wellington Firebirds v Northern Brave",
+        "etid": 4,
+        "cid": 6033541,
+        "cname": "Ford Trophy",
+        "iplay": false,
+        "stime": "2/17/2026 3:00:00 AM",
+        "tv": false,
+        "bm": true,
+        "f": false,
+        "f1": true,
+        "iscc": 0,
+        "mid": 6645781866352,
+        "mname": "MATCH_ODDS",
+        "status": "OPEN",
+        "rc": 2,
+        "gscode": 1,
+        "m": 0,
+        "oid": 1,
+        "gtype": "match",
+        "section": [
+          {
+            "sid": 478890,
+            "sno": 1,
+            "gstatus": "ACTIVE",
+            "gscode": 1,
+            "nat": "Wellington Firebirds",
+            "odds": [
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 1.68,
+                "otype": "back",
+                "oname": "back1",
+                "tno": 0,
+                "size": 7.21
+              },
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 1.84,
+                "otype": "lay",
+                "oname": "lay1",
+                "tno": 0,
+                "size": 6.13
+              }
+            ]
+          },
+          {
+            "sid": 85931,
+            "sno": 3,
+            "gstatus": "ACTIVE",
+            "gscode": 1,
+            "nat": "Northern Brave",
+            "odds": [
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 2.18,
+                "otype": "back",
+                "oname": "back1",
+                "tno": 0,
+                "size": 7.17
+              },
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 2.48,
+                "otype": "lay",
+                "oname": "lay1",
+                "tno": 0,
+                "size": 4.89
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "gmid": 573626616,
+        "ename": "Scotland v Nepal",
+        "etid": 4,
+        "cid": 7172716,
+        "cname": "ICC Mens T20 World Cup",
+        "iplay": false,
+        "stime": "2/17/2026 7:00:00 PM",
+        "tv": false,
+        "bm": true,
+        "f": true,
+        "f1": true,
+        "iscc": 0,
+        "mid": 6368805074918,
+        "mname": "MATCH_ODDS",
+        "status": "OPEN",
+        "rc": 2,
+        "gscode": 1,
+        "m": 0,
+        "oid": 1,
+        "gtype": "match",
+        "section": [
+          {
+            "sid": 485400,
+            "sno": 1,
+            "gstatus": "ACTIVE",
+            "gscode": 1,
+            "nat": "Scotland",
+            "odds": [
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 1.62,
+                "otype": "back",
+                "oname": "back1",
+                "tno": 0,
+                "size": 129.42
+              },
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 1.64,
+                "otype": "lay",
+                "oname": "lay1",
+                "tno": 0,
+                "size": 129.86
+              }
+            ]
+          },
+          {
+            "sid": 843731,
+            "sno": 3,
+            "gstatus": "ACTIVE",
+            "gscode": 1,
+            "nat": "Nepal",
+            "odds": [
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 2.58,
+                "otype": "back",
+                "oname": "back1",
+                "tno": 0,
+                "size": 23.22
+              },
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 2.6,
+                "otype": "lay",
+                "oname": "lay1",
+                "tno": 0,
+                "size": 16.57
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "gmid": 643604572,
+        "ename": "Pakistan v Namibia",
+        "etid": 4,
+        "cid": 7172716,
+        "cname": "ICC Mens T20 World Cup",
+        "iplay": false,
+        "stime": "2/18/2026 3:00:00 PM",
+        "tv": false,
+        "bm": true,
+        "f": true,
+        "f1": true,
+        "iscc": 0,
+        "mid": 8514793386437,
+        "mname": "MATCH_ODDS",
+        "status": "OPEN",
+        "rc": 2,
+        "gscode": 1,
+        "m": 0,
+        "oid": 1,
+        "gtype": "match",
+        "section": [
+          {
+            "sid": 680680,
+            "sno": 1,
+            "gstatus": "ACTIVE",
+            "gscode": 1,
+            "nat": "Pakistan",
+            "odds": [
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 1.1,
+                "otype": "back",
+                "oname": "back1",
+                "tno": 0,
+                "size": 22925.35
+              },
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 1.11,
+                "otype": "lay",
+                "oname": "lay1",
+                "tno": 0,
+                "size": 2478.47
+              }
+            ]
+          },
+          {
+            "sid": 64241,
+            "sno": 3,
+            "gstatus": "ACTIVE",
+            "gscode": 1,
+            "nat": "Namibia",
+            "odds": [
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 10,
+                "otype": "back",
+                "oname": "back1",
+                "tno": 0,
+                "size": 275.11
+              },
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 11,
+                "otype": "lay",
+                "oname": "lay1",
+                "tno": 0,
+                "size": 2292.54
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "gmid": 676645759,
+        "ename": "India v Netherlands",
+        "etid": 4,
+        "cid": 7172716,
+        "cname": "ICC Mens T20 World Cup",
+        "iplay": false,
+        "stime": "2/18/2026 7:00:00 PM",
+        "tv": false,
+        "bm": true,
+        "f": true,
+        "f1": true,
+        "iscc": 0,
+        "mid": 5775057215568,
+        "mname": "MATCH_ODDS",
+        "status": "OPEN",
+        "rc": 2,
+        "gscode": 1,
+        "m": 0,
+        "oid": 1,
+        "gtype": "match",
+        "section": [
+          {
+            "sid": 49570,
+            "sno": 1,
+            "gstatus": "ACTIVE",
+            "gscode": 1,
+            "nat": "India",
+            "odds": [
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 1.03,
+                "otype": "back",
+                "oname": "back1",
+                "tno": 0,
+                "size": 152646.06
+              },
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 1.04,
+                "otype": "lay",
+                "oname": "lay1",
+                "tno": 0,
+                "size": 44410.99
+              }
+            ]
+          },
+          {
+            "sid": 59411,
+            "sno": 3,
+            "gstatus": "ACTIVE",
+            "gscode": 1,
+            "nat": "Netherlands",
+            "odds": [
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 28,
+                "otype": "back",
+                "oname": "back1",
+                "tno": 0,
+                "size": 90.23
+              },
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 34,
+                "otype": "lay",
+                "oname": "lay1",
+                "tno": 0,
+                "size": 15.23
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "gmid": 688159737,
+        "ename": "West Indies v Italy",
+        "etid": 4,
+        "cid": 7172716,
+        "cname": "ICC Mens T20 World Cup",
+        "iplay": false,
+        "stime": "2/19/2026 11:00:00 AM",
+        "tv": false,
+        "bm": false,
+        "f": true,
+        "f1": true,
+        "iscc": 0,
+        "mid": 7793804427760,
+        "mname": "MATCH_ODDS",
+        "status": "OPEN",
+        "rc": 2,
+        "gscode": 1,
+        "m": 0,
+        "oid": 1,
+        "gtype": "match",
+        "section": [
+          {
+            "sid": 834800,
+            "sno": 1,
+            "gstatus": "ACTIVE",
+            "gscode": 1,
+            "nat": "West Indies",
+            "odds": [
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 1.1,
+                "otype": "back",
+                "oname": "back1",
+                "tno": 0,
+                "size": 1375.02
+              },
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 1.13,
+                "otype": "lay",
+                "oname": "lay1",
+                "tno": 0,
+                "size": 200
+              }
+            ]
+          },
+          {
+            "sid": 72831,
+            "sno": 3,
+            "gstatus": "ACTIVE",
+            "gscode": 1,
+            "nat": "Italy",
+            "odds": [
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 8.6,
+                "otype": "back",
+                "oname": "back1",
+                "tno": 0,
+                "size": 46.05
+              },
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 11,
+                "otype": "lay",
+                "oname": "lay1",
+                "tno": 0,
+                "size": 137.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "gmid": 689878567,
+        "ename": "New Zealand v Canada",
+        "etid": 4,
+        "cid": 7172716,
+        "cname": "ICC Mens T20 World Cup",
+        "iplay": true,
+        "stime": "2/17/2026 11:00:00 AM",
+        "tv": true,
+        "bm": true,
+        "f": true,
+        "f1": true,
+        "iscc": 0,
+        "mid": 8673718759374,
+        "mname": "MATCH_ODDS",
+        "status": "OPEN",
+        "rc": 2,
+        "gscode": 1,
+        "m": 0,
+        "oid": 1,
+        "gtype": "match",
+        "section": [
+          {
+            "sid": 686850,
+            "sno": 1,
+            "gstatus": "ACTIVE",
+            "gscode": 1,
+            "nat": "New Zealand",
+            "odds": [
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 1.16,
+                "otype": "back",
+                "oname": "back1",
+                "tno": 0,
+                "size": 57792.79
+              },
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 1.17,
+                "otype": "lay",
+                "oname": "lay1",
+                "tno": 0,
+                "size": 6045.27
+              }
+            ]
+          },
+          {
+            "sid": 47271,
+            "sno": 3,
+            "gstatus": "ACTIVE",
+            "gscode": 1,
+            "nat": "Canada",
+            "odds": [
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 7,
+                "otype": "back",
+                "oname": "back1",
+                "tno": 0,
+                "size": 108.26
+              },
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 7.2,
+                "otype": "lay",
+                "oname": "lay1",
+                "tno": 0,
+                "size": 1782.34
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "gmid": 711190356,
+        "ename": "South Africa v United Arab Emirates",
+        "etid": 4,
+        "cid": 7172716,
+        "cname": "ICC Mens T20 World Cup",
+        "iplay": false,
+        "stime": "2/18/2026 11:00:00 AM",
+        "tv": false,
+        "bm": true,
+        "f": true,
+        "f1": true,
+        "iscc": 0,
+        "mid": 8145401868429,
+        "mname": "MATCH_ODDS",
+        "status": "OPEN",
+        "rc": 2,
+        "gscode": 1,
+        "m": 0,
+        "oid": 1,
+        "gtype": "match",
+        "section": [
+          {
+            "sid": 66950,
+            "sno": 1,
+            "gstatus": "ACTIVE",
+            "gscode": 1,
+            "nat": "South Africa",
+            "odds": [
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 1.06,
+                "otype": "back",
+                "oname": "back1",
+                "tno": 0,
+                "size": 924.54
+              },
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 1.07,
+                "otype": "lay",
+                "oname": "lay1",
+                "tno": 0,
+                "size": 3719.44
+              }
+            ]
+          },
+          {
+            "sid": 510821,
+            "sno": 3,
+            "gstatus": "ACTIVE",
+            "gscode": 1,
+            "nat": "United Arab Emirates",
+            "odds": [
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 15.5,
+                "otype": "back",
+                "oname": "back1",
+                "tno": 0,
+                "size": 2
+              },
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 18,
+                "otype": "lay",
+                "oname": "lay1",
+                "tno": 0,
+                "size": 54.45
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "gmid": 820254883,
+        "ename": "Ireland v Zimbabwe",
+        "etid": 4,
+        "cid": 7172716,
+        "cname": "ICC Mens T20 World Cup",
+        "iplay": false,
+        "stime": "2/17/2026 3:00:00 PM",
+        "tv": false,
+        "bm": true,
+        "f": true,
+        "f1": true,
+        "iscc": 0,
+        "mid": 6761565693316,
+        "mname": "MATCH_ODDS",
+        "status": "OPEN",
+        "rc": 2,
+        "gscode": 1,
+        "m": 0,
+        "oid": 1,
+        "gtype": "match",
+        "section": [
+          {
+            "sid": 807000,
+            "sno": 1,
+            "gstatus": "ACTIVE",
+            "gscode": 1,
+            "nat": "Ireland",
+            "odds": [
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 2.4,
+                "otype": "back",
+                "oname": "back1",
+                "tno": 0,
+                "size": 860.96
+              },
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 2.42,
+                "otype": "lay",
+                "oname": "lay1",
+                "tno": 0,
+                "size": 96.88
+              }
+            ]
+          },
+          {
+            "sid": 53901,
+            "sno": 3,
+            "gstatus": "ACTIVE",
+            "gscode": 1,
+            "nat": "Zimbabwe",
+            "odds": [
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 1.7,
+                "otype": "back",
+                "oname": "back1",
+                "tno": 0,
+                "size": 14488.58
+              },
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 1.71,
+                "otype": "lay",
+                "oname": "lay1",
+                "tno": 0,
+                "size": 62.31
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "gmid": 869476025,
+        "ename": "Victoria W v Western Australia W",
+        "etid": 4,
+        "cid": 4847287,
+        "cname": "Australia NCL Women",
+        "iplay": false,
+        "stime": "2/18/2026 4:30:00 AM",
+        "tv": false,
+        "bm": false,
+        "f": false,
+        "f1": false,
+        "iscc": 0,
+        "mid": 5790346716741,
+        "mname": "MATCH_ODDS",
+        "status": "OPEN",
+        "rc": 2,
+        "gscode": 1,
+        "m": 0,
+        "oid": 1,
+        "gtype": "match",
+        "section": [
+          {
+            "sid": 48500,
+            "sno": 1,
+            "gstatus": "ACTIVE",
+            "gscode": 1,
+            "nat": "Victoria W",
+            "odds": [
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 1.61,
+                "otype": "back",
+                "oname": "back1",
+                "tno": 0,
+                "size": 1.3
+              },
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 3.1,
+                "otype": "lay",
+                "oname": "lay1",
+                "tno": 0,
+                "size": 1.03
+              }
+            ]
+          },
+          {
+            "sid": 501321,
+            "sno": 3,
+            "gstatus": "ACTIVE",
+            "gscode": 1,
+            "nat": "Western Australia W",
+            "odds": [
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 1.48,
+                "otype": "back",
+                "oname": "back1",
+                "tno": 0,
+                "size": 1.68
+              },
+              {
+                "sid": 0,
+                "psid": 0,
+                "odds": 2.68,
+                "otype": "lay",
+                "oname": "lay1",
+                "tno": 0,
+                "size": 9.05
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "t2": [
+      {
+        "gmid": 67310743,
+        "ename": "Punjab Kings XI v Lucknow Super Giants XI",
+        "etid": 4,
+        "cid": 56100513,
+        "cname": "T10 XI",
+        "iplay": true,
+        "stime": "2/17/2026 10:35:00 AM",
+        "tv": false,
+        "bm": true,
+        "f": true,
+        "f1": false,
+        "iscc": 1,
+        "mid": 0,
+        "mname": "MATCH_ODDS",
+        "status": "SUSPENDED",
+        "rc": 2,
+        "gscode": 0,
+        "oid": 1442518,
+        "m": 0,
+        "gtype": "match",
+        "section": [
+          {
+            "sid": 0,
+            "gstatus": "SUSPENDED",
+            "nat": "",
+            "sno": 1,
+            "gscode": 0,
+            "odds": [
+              {
+                "odds": 0,
+                "oname": "BACK1",
+                "otype": "BACK",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              },
+              {
+                "odds": 0,
+                "oname": "LAY1",
+                "otype": "LAY",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              }
+            ]
+          },
+          {
+            "sid": 0,
+            "gstatus": "SUSPENDED",
+            "nat": "",
+            "sno": 3,
+            "gscode": 0,
+            "odds": [
+              {
+                "odds": 0,
+                "oname": "BACK1",
+                "otype": "BACK",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              },
+              {
+                "odds": 0,
+                "oname": "LAY1",
+                "otype": "LAY",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "gmid": 91672488,
+        "ename": "SNP XI v GAW XI",
+        "etid": 4,
+        "cid": 46201121,
+        "cname": "T5 XI",
+        "iplay": true,
+        "stime": "2/17/2026 11:45:00 AM",
+        "tv": false,
+        "bm": true,
+        "f": true,
+        "f1": false,
+        "iscc": 1,
+        "mid": 0,
+        "mname": "MATCH_ODDS",
+        "status": "SUSPENDED",
+        "rc": 2,
+        "gscode": 0,
+        "oid": 1442582,
+        "m": 0,
+        "gtype": "match",
+        "section": [
+          {
+            "sid": 0,
+            "gstatus": "SUSPENDED",
+            "nat": "",
+            "sno": 1,
+            "gscode": 0,
+            "odds": [
+              {
+                "odds": 0,
+                "oname": "BACK1",
+                "otype": "BACK",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              },
+              {
+                "odds": 0,
+                "oname": "LAY1",
+                "otype": "LAY",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              }
+            ]
+          },
+          {
+            "sid": 0,
+            "gstatus": "SUSPENDED",
+            "nat": "",
+            "sno": 3,
+            "gscode": 0,
+            "odds": [
+              {
+                "odds": 0,
+                "oname": "BACK1",
+                "otype": "BACK",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              },
+              {
+                "odds": 0,
+                "oname": "LAY1",
+                "otype": "LAY",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "gmid": 592015580,
+        "ename": "Test A v Test B",
+        "etid": 4,
+        "cid": 8890304,
+        "cname": "Testing Match",
+        "iplay": false,
+        "stime": "2/13/2026 4:00:00 PM",
+        "tv": false,
+        "bm": true,
+        "f": false,
+        "f1": false,
+        "iscc": 0,
+        "mid": 0,
+        "mname": "MATCH_ODDS",
+        "status": "SUSPENDED",
+        "rc": 2,
+        "gscode": 0,
+        "oid": 1,
+        "m": 0,
+        "gtype": "match",
+        "section": [
+          {
+            "sid": 0,
+            "gstatus": "SUSPENDED",
+            "nat": "",
+            "sno": 1,
+            "gscode": 0,
+            "odds": [
+              {
+                "odds": 0,
+                "oname": "BACK1",
+                "otype": "BACK",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              },
+              {
+                "odds": 0,
+                "oname": "LAY1",
+                "otype": "LAY",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              }
+            ]
+          },
+          {
+            "sid": 0,
+            "gstatus": "SUSPENDED",
+            "nat": "",
+            "sno": 3,
+            "gscode": 0,
+            "odds": [
+              {
+                "odds": 0,
+                "oname": "BACK1",
+                "otype": "BACK",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              },
+              {
+                "odds": 0,
+                "oname": "LAY1",
+                "otype": "LAY",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "gmid": 674444460,
+        "ename": "    ICC Mens T20 World Cup",
+        "etid": 4,
+        "cid": 7172716,
+        "cname": "ICC Mens T20 World Cup",
+        "iplay": true,
+        "stime": "2/7/2026 11:00:00 AM",
+        "tv": false,
+        "bm": true,
+        "f": false,
+        "f1": false,
+        "iscc": 0,
+        "mid": 0,
+        "mname": "MATCH_ODDS",
+        "status": "SUSPENDED",
+        "rc": 2,
+        "gscode": 0,
+        "oid": 1,
+        "m": 0,
+        "gtype": "match",
+        "section": [
+          {
+            "sid": 0,
+            "gstatus": "SUSPENDED",
+            "nat": "",
+            "sno": 1,
+            "gscode": 0,
+            "odds": [
+              {
+                "odds": 0,
+                "oname": "BACK1",
+                "otype": "BACK",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              },
+              {
+                "odds": 0,
+                "oname": "LAY1",
+                "otype": "LAY",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              }
+            ]
+          },
+          {
+            "sid": 0,
+            "gstatus": "SUSPENDED",
+            "nat": "",
+            "sno": 3,
+            "gscode": 0,
+            "odds": [
+              {
+                "odds": 0,
+                "oname": "BACK1",
+                "otype": "BACK",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              },
+              {
+                "odds": 0,
+                "oname": "LAY1",
+                "otype": "LAY",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "gmid": 732674663,
+        "ename": "Bengal v Jammu and Kashmir",
+        "etid": 4,
+        "cid": 5573302,
+        "cname": "Ranji Trophy Elite 2025-26",
+        "iplay": true,
+        "stime": "2/15/2026 9:00:00 AM",
+        "tv": true,
+        "bm": false,
+        "f": true,
+        "f1": true,
+        "iscc": 0,
+        "mid": 0,
+        "mname": "MATCH_ODDS",
+        "status": "SUSPENDED",
+        "rc": 2,
+        "gscode": 0,
+        "oid": 1,
+        "m": 0,
+        "gtype": "match",
+        "section": [
+          {
+            "sid": 0,
+            "gstatus": "SUSPENDED",
+            "nat": "",
+            "sno": 1,
+            "gscode": 0,
+            "odds": [
+              {
+                "odds": 0,
+                "oname": "BACK1",
+                "otype": "BACK",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              },
+              {
+                "odds": 0,
+                "oname": "LAY1",
+                "otype": "LAY",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              }
+            ]
+          },
+          {
+            "sid": 0,
+            "gstatus": "SUSPENDED",
+            "nat": "",
+            "sno": 3,
+            "gscode": 0,
+            "odds": [
+              {
+                "odds": 0,
+                "oname": "BACK1",
+                "otype": "BACK",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              },
+              {
+                "odds": 0,
+                "oname": "LAY1",
+                "otype": "LAY",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "gmid": 741236547,
+        "ename": "Lucknow Super Giants T10 v Gujarat Titans T10",
+        "etid": 4,
+        "cid": 8590658,
+        "cname": "Virtual Cricket League",
+        "iplay": true,
+        "stime": "2/17/2026 12:05:00 PM",
+        "tv": true,
+        "bm": false,
+        "f": true,
+        "f1": false,
+        "iscc": 2,
+        "mid": 0,
+        "mname": "MATCH_ODDS",
+        "status": "SUSPENDED",
+        "rc": 2,
+        "gscode": 0,
+        "oid": 1,
+        "m": 0,
+        "gtype": "match",
+        "section": [
+          {
+            "sid": 0,
+            "gstatus": "SUSPENDED",
+            "nat": "",
+            "sno": 1,
+            "gscode": 0,
+            "odds": [
+              {
+                "odds": 0,
+                "oname": "BACK1",
+                "otype": "BACK",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              },
+              {
+                "odds": 0,
+                "oname": "LAY1",
+                "otype": "LAY",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              }
+            ]
+          },
+          {
+            "sid": 0,
+            "gstatus": "SUSPENDED",
+            "nat": "",
+            "sno": 3,
+            "gscode": 0,
+            "odds": [
+              {
+                "odds": 0,
+                "oname": "BACK1",
+                "otype": "BACK",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              },
+              {
+                "odds": 0,
+                "oname": "LAY1",
+                "otype": "LAY",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "gmid": 756511146,
+        "ename": "Uttarakhand v Karnataka",
+        "etid": 4,
+        "cid": 5573302,
+        "cname": "Ranji Trophy Elite 2025-26",
+        "iplay": true,
+        "stime": "2/15/2026 9:30:00 AM",
+        "tv": true,
+        "bm": false,
+        "f": true,
+        "f1": true,
+        "iscc": 0,
+        "mid": 0,
+        "mname": "MATCH_ODDS",
+        "status": "SUSPENDED",
+        "rc": 2,
+        "gscode": 0,
+        "oid": 1,
+        "m": 0,
+        "gtype": "match",
+        "section": [
+          {
+            "sid": 0,
+            "gstatus": "SUSPENDED",
+            "nat": "",
+            "sno": 1,
+            "gscode": 0,
+            "odds": [
+              {
+                "odds": 0,
+                "oname": "BACK1",
+                "otype": "BACK",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              },
+              {
+                "odds": 0,
+                "oname": "LAY1",
+                "otype": "LAY",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              }
+            ]
+          },
+          {
+            "sid": 0,
+            "gstatus": "SUSPENDED",
+            "nat": "",
+            "sno": 3,
+            "gscode": 0,
+            "odds": [
+              {
+                "odds": 0,
+                "oname": "BACK1",
+                "otype": "BACK",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              },
+              {
+                "odds": 0,
+                "oname": "LAY1",
+                "otype": "LAY",
+                "sid": 0,
+                "tno": 0,
+                "size": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

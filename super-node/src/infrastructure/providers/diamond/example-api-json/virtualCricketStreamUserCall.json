@@ -1,0 +1,7 @@
+{
+  "endpoint": "base_url/sports/virtual/tvurl?gmid=689878567",
+  "status": true,
+  "data": {
+    "tv_url": "https://cloud.turnkeyxgaming.com:9086/virtualstream?gmid=689878567"
+  }
+}

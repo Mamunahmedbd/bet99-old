@@ -1,0 +1,148 @@
+{
+  "_id": {
+    "$oid": "63a53fd2eeeb33a4ad240837"
+  },
+  "image": "https://dzm0kbaskt4pv.cloudfront.net/v11/static/front/img/casinoicons/img/race20.png",
+  "title": "Race 20-20",
+  "slug": "race2020",
+  "order": 2,
+  "match_id": 46,
+  "status": 1,
+  "id": 3036,
+  "event_data": {
+    "match_id": "46",
+    "title": "Race 20-20",
+    "autotime": "0",
+    "remark": "",
+    "gtype": "race20",
+    "min": 100,
+    "max": 500000,
+    "C1": "1",
+    "C2": "1",
+    "C3": "1",
+    "market": [
+      {
+        "MarketName": "K Market",
+        "Runners": [
+          {
+            "RunnerName": "K Of Spade",
+            "SelectionId": "1"
+          },
+          {
+            "RunnerName": "K Of Heart",
+            "SelectionId": "2"
+          },
+          {
+            "RunnerName": "K Of Club",
+            "SelectionId": "3"
+          },
+          {
+            "RunnerName": "K Of Diamond",
+            "SelectionId": "4"
+          }
+        ]
+      },
+      {
+        "MarketName": "Total Point",
+        "Runners": [
+          {
+            "RunnerName": "Total Point",
+            "SelectionId": "5"
+          }
+        ]
+      },
+      {
+        "MarketName": "Total Card",
+        "Runners": [
+          {
+            "RunnerName": "Total Card",
+            "SelectionId": "6"
+          }
+        ]
+      },
+      {
+        "MarketName": "Win with 5",
+        "Runners": [
+          {
+            "RunnerName": "Win with 5",
+            "SelectionId": "7",
+            "b1": "0",
+            "bs1": "0",
+            "l1": "0",
+            "ls1": "0"
+          }
+        ]
+      },
+      {
+        "MarketName": "Win with 6",
+        "Runners": [
+          {
+            "RunnerName": "Win with 6",
+            "SelectionId": "8",
+            "b1": "101",
+            "bs1": "0",
+            "l1": "0",
+            "ls1": "0"
+          }
+        ]
+      },
+      {
+        "MarketName": "Win with 7",
+        "Runners": [
+          {
+            "RunnerName": "Win with 7",
+            "SelectionId": "9",
+            "b1": "26",
+            "bs1": "0",
+            "l1": "0",
+            "ls1": "0"
+          }
+        ]
+      },
+      {
+        "MarketName": "Win with 15",
+        "Runners": [
+          {
+            "RunnerName": "Win with 15",
+            "SelectionId": "10",
+            "b1": "8",
+            "bs1": "0",
+            "l1": "0",
+            "ls1": "0"
+          }
+        ]
+      },
+      {
+        "MarketName": "Win with 16",
+        "Runners": [
+          {
+            "RunnerName": "Win with 16",
+            "SelectionId": "11",
+            "b1": "11",
+            "bs1": "0",
+            "l1": "0",
+            "ls1": "0"
+          }
+        ]
+      },
+      {
+        "MarketName": "Win with 17",
+        "Runners": [
+          {
+            "RunnerName": "Win with 17",
+            "SelectionId": "12",
+            "b1": "31",
+            "bs1": "0",
+            "l1": "0",
+            "ls1": "0"
+          }
+        ]
+      }
+    ],
+    "RunnerName": ["A", "B"]
+  },
+  "isDisable": false,
+  "updatedAt": {
+    "$date": "2023-10-14T13:30:42.677Z"
+  }
+}

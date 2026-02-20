@@ -1,0 +1,30 @@
+{
+  "endpoint": "base_url/diamond-proxy/match/details?sid=4&gmid=689878567",
+  "success": true,
+  "msg": "Success",
+  "status": 200,
+  "data": [
+    {
+      "gmid": 689878567,
+      "etid": 4,
+      "m": 0,
+      "gtv": 0,
+      "ename": "New Zealand v Canada",
+      "cid": 7172716,
+      "cname": "ICC Mens T20 World Cup",
+      "iplay": true,
+      "gtype": "match",
+      "f1": true,
+      "f": true,
+      "bm": true,
+      "tv": true,
+      "scard": 1,
+      "iscc": 0,
+      "stime": "2/17/2026 11:00:00 AM",
+      "mod": 0,
+      "mname": null,
+      "oldgmid": "35266627",
+      "port": 0
+    }
+  ]
+}
